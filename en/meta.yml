@@ -1,6 +1,6 @@
-title: raspberry-pi-setting-up
+title: Setting up your Raspberry Pi
 hero_image: images/banner.png
-description: raspberry-pi-setting-up description
+description: setting up you raspberry pi
 version: 4
 listed: false
 copyedit: false
@@ -8,4 +8,8 @@ last_tested: "2018-05-16"
 steps:
   - title: Introduction
   - title: What you will need
-  - title: Step title
+  - title: Setup your SD card
+  - title: Connecting up your Raspberry Pi
+  - title: Starting up your Raspberry Pi
+  - title: How to get help?
+  - title: What next?
