@@ -1,5 +1,7 @@
 ## How to get help
 
+If you are experiencing problems, check out our 
+
 [troubleshooting guide]
 
 [Raspberry Pi forum - Beginners](https://www.raspberrypi.org/forums/viewforum.php?f=91)
