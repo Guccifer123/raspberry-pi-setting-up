@@ -77,7 +77,9 @@ Now open another Explorer/Finder window and navigate to the SD card. It's best t
 
 Select all the files from the *NOOBS* folder and drag them onto the SD card.
 
-![copy 2](images/copy2.png)
+![windows copy](images/copy3.png)
+
+![macos copy](images/macos_copy.png)
 
 --- /task ---
 

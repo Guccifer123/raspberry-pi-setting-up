@@ -13,13 +13,14 @@ You should see a red light on the Raspberry Pi and it will start up.
 
 --- /task ---
 
-When you Raspberry Pi starts up (booting) you will see Raspberries appear in the top left of your screen.
+When you Raspberry Pi starts up (booting) you will see a rainbow image, then Raspberries will appear in the top left of your screen and then the boot up screen.
 
-!picture of raspberries
+![boot raspberries](images/raspberries.png)
 
-You will then see the boot up screen
-
-!picture of boot up screen
+<video width="800" height="600" controls>
+<source src="images/piboot.webm" type="video/webm">
+Your browser does not support WebM video, so try FireFox or Chrome.
+</video>
 
 --- collapse ---
 
@@ -27,7 +28,7 @@ You will then see the boot up screen
 title: First start up?
 ---
 
-If this is the first time starting your Raspberry Pi you will see the Noobs installer
+If this is the first time starting your Raspberry Pi you will see the Noobs installer.
 
 --- task ---
 
@@ -41,8 +42,17 @@ You will be offered a choice when the installer has loaded. You should check the
 
 Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
 
+![installing](images/installing.png)
+
 --- /task ---
 
+--- task ---
+
+When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
+
+![installed](images/installed.png)
+
+--- /task ---
 
 After a few seconds the Raspbian Desktop will appear.
 
