@@ -13,7 +13,7 @@ You should see a red light on the Raspberry Pi and it will start up.
 
 --- /task ---
 
-When you Raspberry Pi starts up (booting) you will Raspberries will appear in the top left of your screen.
+When you Raspberry Pi starts up (booting) you will see Raspberries appear in the top left of your screen.
 
 ![boot raspberries](images/raspberries.png)
 
