@@ -59,5 +59,5 @@ When Raspbian has been installed, click **OK** and your Raspberry Pi will restar
 
 After a few seconds the Raspbian Desktop will appear.
 
-![raspbian desktop](images/pi-desktop.png)
+![raspbian desktop](images/pi-desktop.jpg)
 
