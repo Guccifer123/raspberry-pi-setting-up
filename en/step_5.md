@@ -13,7 +13,7 @@ You should see a red light on the Raspberry Pi and it will start up.
 
 --- /task ---
 
-When you Raspberry Pi starts up (booting) you will see a rainbow image, then Raspberries will appear in the top left of your screen and then the boot up screen.
+When you Raspberry Pi starts up (booting) you will Raspberries will appear in the top left of your screen.
 
 ![boot raspberries](images/raspberries.png)
 
@@ -25,7 +25,7 @@ Your browser does not support WebM video, so try FireFox or Chrome.
 --- collapse ---
 
 ---
-title: First start up?
+title: First start up after installing NOOBS?
 ---
 
 If this is the first time starting your Raspberry Pi you will see the Noobs installer.
@@ -53,6 +53,9 @@ When Raspbian has been installed, click **OK** and your Raspberry Pi will restar
 ![installed](images/installed.png)
 
 --- /task ---
+
+
+--- /collapse ---
 
 After a few seconds the Raspbian Desktop will appear.
 

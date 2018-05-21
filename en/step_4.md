@@ -1,12 +1,6 @@
-## Connect up your Pi
-
 ## Connecting up your Raspberry Pi
 
-Lets get everything connected and turn on your Raspberry Pi.
-
-### Plugging in
-
-Connect up your Raspberry Pi and get it running.
+Lets get everything connected
 
 --- task ---
 
@@ -21,10 +15,6 @@ Check whether your Raspberry Pi already has an SD card in the slot at the unders
 Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
 
 ![screenshot](images/pi-mouse.png)
-
---- /task ---
-
---- task ---
 
 Connect the keyboard in the same way.
 
@@ -48,13 +38,13 @@ Nothing will display yet.
 
 --- task ---
 
-If you wanted you can connect headphones or speakers to the audio jack.
+Connect headphones or speakers to the audio jack if you have them.
 
 --- /task ---
 
 --- task ---
 
-If you have one, use an ethernet cable to connect the ethernet port on the Raspberry Pi to an ethernet socket on the wall or on your router. (You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet.)
+Use an ethernet cable to connect the ethernet port on the Raspberry Pi to an ethernet socket on the wall or on your internet router. (You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet.)
 
 --- /task ---
 
