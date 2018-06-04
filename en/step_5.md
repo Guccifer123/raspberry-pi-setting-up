@@ -19,7 +19,7 @@ Your browser does not support WebM video, so try FireFox or Chrome.
 --- collapse ---
 
 ---
-title: First-time start-up with NOOBS
+title: First-time startup with NOOBS
 ---
 
 If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
