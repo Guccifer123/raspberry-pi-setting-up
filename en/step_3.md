@@ -1,6 +1,6 @@
-## Setup your SD Card
+## Set up your SD card
 
-If you brought an SD card that wasn't pre-installed with Raspbian or you want to reset your Raspberry Pi you can install it yourself.
+If you have an SD card that doesn't have the Raspbian operating system on it yet, or if you want to reset your Raspberry Pi, you can easily install Raspbian yourself. To do so, you need a computer that has an SD card port — most laptop and desktop computers have one.
 
 ### Install Raspbian using NOOBS
 
@@ -8,7 +8,7 @@ Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold 
 
 #### Download NOOBS
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/).
 
 ![Downloads page](images/downloads-page.png)
 
@@ -16,19 +16,19 @@ Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold 
 
 ![Click on NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files.
++ The simplest option is to download the zip archive of the files. Make sure to pay attention to where you save the archive, so that you can find it again quickly.
 
 ![Download zip](images/download-zip.png)
 
-#### Format the SD Card
+#### Format the SD card
 
-If the SD card on which you wish to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files from the card first, as they will be overwritten during this process.
+If the SD card on which you want to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files on the card first, as they will be overwritten during the installation process.
 
 + Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
 
 + Follow the instructions to install the software.
 
-+ Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
 
 + In SD Formatter, select the drive letter for your SD card, and format it.
 
@@ -36,19 +36,18 @@ If the SD card on which you wish to install Raspbian currently has an older vers
 
 Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
 
-+ Go to your *Downloads* folder and find the zip file you downloaded.
++ Find the downloaded archive — by default, it should be in your `Downloads` folder.
 
-+ Extract the files and keep the resulting Explorer/Finder window open.
++ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
 
 #### Copy the files
 
 + Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
 
-+ Select all the files from the *NOOBS* folder and drag them onto the SD card.
++ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
 
 ![windows copy](images/copy3.png)
 
 ![macos copy](images/macos_copy.png)
 
-+ Once the files have been copied over you can eject the SD card.
-
++ Once the files have all been copied over, you can eject the SD card.
