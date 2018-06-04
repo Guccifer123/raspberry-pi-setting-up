@@ -8,11 +8,11 @@ Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold 
 
 #### Download NOOBS
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/).
++ Visit the [Raspberry Pi downloads page](https://www.raspberrypi.org/downloads).
 
 ![Downloads page](images/downloads-page.png)
 
-+ You should see a box with a link to the NOOBS files. Click on the link.
++ You should see a box linking to the NOOBS files. Click on the box.
 
 ![Click on NOOBS](images/click-noobs.png)
 
