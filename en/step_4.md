@@ -1,14 +1,12 @@
-## Connecting up your Raspberry Pi
+## Connect your Raspberry Pi
 
-Lets get everything connected
+Let's get everything connected. It's important to do this in the right order, so that all your components are safe.
 
-+ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS). 
-
-_Lots of SD cards will come inside a larger adapter, and you can slide the card out of this using the lip at the bottom._
++ Insert the SD card you've set up with Raspbian (via NOOBS) into the micro SD card slot at the underside of your Pi. Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
 
 ![screenshot](images/pi-sd.png)
 
-+ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
++ Find the USB cable for your mouse, and connect the mouse to a USB port on the Raspberry Pi (it doesn't matter which one).
 
 ![screenshot](images/pi-mouse.png)
 
@@ -16,18 +14,14 @@ _Lots of SD cards will come inside a larger adapter, and you can slide the card 
 
 ![screenshot](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
++ Look at the HDMI port on the Raspberry Pi — notice that it has a large, flat side on top.
 
 ![screenshot](images/pi-hdmi.png)
 
-_Make sure your monitor is plugged into a wall socket and turned on._
++ Make sure your scren is plugged into a wall socket and turned on. Use a cable to connect the screen to the Pi's HDMI port — use an adapter if necessary.
 
-+ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
+**Note:** nothing will display on the screen, because the Pi is not running yet.
 
-_Nothing will display yet._
++ Connect headphones or speakers to the audio jack if you have them. This is optional.
 
-+ Connect headphones or speakers to the audio jack if you have them.
-
-+ Use an ethernet cable to connect the ethernet port on the Raspberry Pi to an ethernet socket on the wall or on your internet router. 
-
-_You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet._
++ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using wireless LAN or if you don't want to connect to the internet.
