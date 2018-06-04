@@ -62,7 +62,16 @@ To connect your Pi to such a screen, you can use a HDMI-to-VGA adapter.
 
 ![hdmi to vga adapter port](images/hdmi-vga-adapter.JPG)
 
-### Optional: a case
+### Optional extras
+
+#### A case
 
 You may want to put your Raspberry Pi in a case. This is not essential, but it will provide protection for your Pi. If you'd like, you can use the official case for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) or [Pi Zero or Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
 
+#### Headphones or speakers
+
+The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound.
+
+#### An Ethernet cable
+
+The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
