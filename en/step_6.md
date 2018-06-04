@@ -1,4 +1,4 @@
-## How to find help
+## Where to find help
 
 If you're having problems with your Pi, there are lots of ways you can get help and advice:
 
