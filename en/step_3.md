@@ -2,9 +2,9 @@
 
 If you have an SD card that doesn't have the Raspbian operating system on it yet, or if you want to reset your Raspberry Pi, you can easily install Raspbian yourself. To do so, you need a computer that has an SD card port — most laptop and desktop computers have one.
 
-### Install Raspbian using NOOBS
+### The Raspbian operating system via NOOBS
 
-Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold of a copy of NOOBS:
+Using the NOOBS software is the easiest way to install Raspbian on your SD card.
 
 #### Download NOOBS
 
