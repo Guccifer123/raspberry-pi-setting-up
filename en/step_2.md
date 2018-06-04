@@ -38,7 +38,7 @@ Once you've set your Pi up, you can use a Bluetooth keyboard and mouse, but you'
 
 ### A TV or computer screen
 
-To view the Raspbian desktop environment, you will need a screen and a cable to link the screen and the Pi. The screen can be a TV or a computer monitor.
+To view the Raspbian desktop environment, you will need a screen and a cable to link the screen and the Pi. The screen can be a TV or a computer monitor. If the screen has built-in speakers, the Pi will be able to use these to play sound.
 
 #### HDMI
 
@@ -70,7 +70,7 @@ You may want to put your Raspberry Pi in a case. This is not essential, but it w
 
 #### Headphones or speakers
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound.
+The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
 
 #### An Ethernet cable
 
