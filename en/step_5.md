@@ -1,15 +1,13 @@
 
-## Starting up your Raspberry Pi
+## Start up your Raspberry Pi
 
-Your Raspberry Pi doesnt have a power switch, as soon as you connect the power, it will turn on. Notice that the micro USB power port has a longer flat side on top.
+Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
 
-+ Plug the power supply into a socket and connect it to the micro USB power port.
++ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
 
 ![screenshot](images/pi-power.png)
 
-You should see a red light on the Raspberry Pi and it will start up.
-
-When you Raspberry Pi starts up (booting) you will see Raspberries appear in the top left of your screen.
+You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
 
 ![boot raspberries](images/raspberries.png)
 
@@ -21,20 +19,20 @@ Your browser does not support WebM video, so try FireFox or Chrome.
 --- collapse ---
 
 ---
-title: First start up after installing NOOBS?
+title: First-time start-up with NOOBS
 ---
 
-If this is the first time starting your Raspberry Pi you will see the Noobs installer.
+If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
 
-+ You will be offered a choice when the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
++ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
 
 ![install](images/install.png)
 
-+ Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
++ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
 
 ![installing](images/installing.png)
 
-+ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
++ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
 
 ![installed](images/installed.png)
 
@@ -43,4 +41,3 @@ If this is the first time starting your Raspberry Pi you will see the Noobs inst
 After a few seconds the Raspbian Desktop will appear.
 
 ![raspbian desktop](images/pi-desktop.jpg)
-
