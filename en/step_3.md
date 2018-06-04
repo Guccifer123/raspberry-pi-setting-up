@@ -22,7 +22,7 @@ Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold 
 
 #### Format the SD card
 
-If the SD card on which you want to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files on the card first, as they will be overwritten during the installation process.
+Anything that's stored on the SD card will be overwritten during formatting. So if the SD card on which you want to install Raspbian currently has any files on it, e.g. from an older version of Raspbian, you may wish to back these files up first to not lose them permanently.
 
 + Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
 
@@ -30,7 +30,7 @@ If the SD card on which you want to install Raspbian currently has an older vers
 
 + Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
 
-+ In SD Formatter, select the drive letter for your SD card, and format it.
++ In SD Formatter, select the drive letter for your SD card, and the format the card.
 
 #### Extract NOOBS from the zip archive
 
