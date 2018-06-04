@@ -1,6 +1,6 @@
 ## Introduction
 
-Here you'll learn about your Raspberry Pi, the things you need to use it, and how to set it up.
+Here you'll learn about your Raspberry Pi, what things you need to use it, and how to set it up.
 
 ![plug in the pi](images/pi-plug-in.gif)
 
