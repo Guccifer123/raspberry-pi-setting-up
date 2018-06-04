@@ -1,6 +1,6 @@
 title: Setting up your Raspberry Pi
 hero_image: images/banner.png
-description: setting up you raspberry pi
+description: How to set up and start your Pi for the first time
 version: 4
 listed: false
 copyedit: false
@@ -8,8 +8,8 @@ last_tested: "2018-05-16"
 steps:
   - title: Introduction
   - title: What you will need
-  - title: Setup your SD card
-  - title: Connecting up your Raspberry Pi
-  - title: Starting up your Raspberry Pi
-  - title: How to get help?
+  - title: Set up your SD card
+  - title: Connect your Pi
+  - title: Start up your Pi
+  - title: How to find help
   - title: What next?
