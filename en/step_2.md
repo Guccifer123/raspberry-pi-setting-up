@@ -74,4 +74,4 @@ The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio por
 
 #### An Ethernet cable
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
