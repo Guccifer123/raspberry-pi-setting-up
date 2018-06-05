@@ -20,14 +20,12 @@ When you first start your Raspberry Pi, the "Welcome to Raspberry Pi" set up app
 
 **Note:** if your Raspberry Pi does not have WiFi you wont see this screen.
 
-+ Click **Next** to check for updates to Raspbian and install them.
-
-![pi wizard update](images/piwiz5.PNG)
++ Click **Next** to check for updates to Raspbian and install them (this might take a little while).
 
 ![pi wizard updating](images/piwiz6.PNG)
 
-+ Once complete your Raspberry Pi, click **Done** or **Reboot**.
-
-**Note:** you will only need to reboot if required to complete a change.
++ Click **Done** or **Reboot** to finish the set up.
 
 ![pi wizard complete](images/piwiz7.PNG)
+
+**Note:** you will only need to reboot if required to complete a change.
