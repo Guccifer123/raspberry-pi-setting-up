@@ -1,12 +1,12 @@
-## Completing set up
+## Finish the setup
 
-When you first start your Raspberry Pi, the "Welcome to Raspberry Pi" set up application will start and guide you through the initial setup.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
 ![pi wizard](images/piwiz.gif)
 
-+ Click **Next** to start the wizard.
++ Click **Next** to start the setup.
 
-+ Set your **Country**, **Language** and **TimeZone** and click **Next**.
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
 ![pi wizard country](images/piwiz2.PNG)
 
@@ -14,18 +14,18 @@ When you first start your Raspberry Pi, the "Welcome to Raspberry Pi" set up app
 
 ![pi wizard password](images/piwiz3.PNG)
 
-+ Select and connect to your WiFi network, by selecting your network, entering the password and clicking **Next**.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi does not have WiFi you wont see this screen.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ Click **Next** to check for updates to Raspbian and install them (this might take a little while).
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
 ![pi wizard updating](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the set up.
++ Click **Done** or **Reboot** to finish the setup.
+
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
 ![pi wizard complete](images/piwiz7.PNG)
-
-**Note:** you will only need to reboot if required to complete a change.
