@@ -1,10 +1,11 @@
-## What next?
+## Where to find help
 
-+ Take a look at our [Using your Raspberry Pi](https:/projects.raspberrypi.org/en/projects/raspberry-pi-using) guide.
+If you're having problems with your Pi, there are lots of ways you can get help and advice:
 
-+ Explore what you can do with your Raspberry Pi by creating some of our [digital making projects](https://projects.raspberrypi.org), for example:
++ Check out the [help section](https://www.raspberrypi.org/help/) and the [troubleshooting guide](https://www.raspberrypi.org/learning/troubleshooting-guide/) on the Raspberry Pi website
 
-  + [Robot antenna](https://projects.raspberrypi.org/en/projects/robot-antenna) — control a robot's antenna light with a Raspberry Pi and code blocks
-  + [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) — learn how to code your own musical instruments
-  + [Turtle race](https://projects.raspberrypi.org/en/projects/turtle-race) — race digital turtles against each other
-  + [Push button stop-motion](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) — make your own stop-motion animation rig with a button and a [Raspberry Pi Camera Module](https://www.raspberrypi.org/products/camera-module-v2/)
++ The [Raspberry Pi forum](https://www.raspberrypi.org/forums), including the [Beginners](https://www.raspberrypi.org/forums/viewforum.php?f=91) section, is a great place to ask questions and get support from the Raspberry Pi community
+
++ Call out on [Twitter](https://twitter.com) using the hashtag #rpilearn, or submit a question on the [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
+
++ You could also attend a free [Raspberry Jam](rpf.io/jam) community event to talk to people about their experiences and get some first-hand help from fellow Raspberry Pi users

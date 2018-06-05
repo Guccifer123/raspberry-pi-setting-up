@@ -1,11 +1,33 @@
-## Where to find help
+## Completing set up
 
-If you're having problems with your Pi, there are lots of ways you can get help and advice:
+When you first start your Raspberry Pi, the "Welcome to Raspberry Pi" set up application will start and guide you through the initial setup.
 
-+ Check out the [help section](https://www.raspberrypi.org/help/) and the [troubleshooting guide](https://www.raspberrypi.org/learning/troubleshooting-guide/) on the Raspberry Pi website
+![pi wizard](images/piwiz.gif)
 
-+ The [Raspberry Pi forum](https://www.raspberrypi.org/forums), including the [Beginners](https://www.raspberrypi.org/forums/viewforum.php?f=91) section, is a great place to ask questions and get support from the Raspberry Pi community
++ Click **Next** to start the wizard.
 
-+ Call out on [Twitter](https://twitter.com) using the hashtag #rpilearn, or submit a question on the [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
++ Set your **Country**, **Language** and **TimeZone** and click **Next**.
 
-+ You could also attend a free [Raspberry Jam](rpf.io/jam) community event to talk to people about their experiences and get some first-hand help from fellow Raspberry Pi users
+![pi wizard country](images/piwiz2.PNG)
+
++ Enter a new password for your Raspberry Pi and click **Next**.
+
+![pi wizard password](images/piwiz3.PNG)
+
++ Select and connect to your WiFi network, by selecting your network, entering the password and clicking **Next**.
+
+![pi wizard wifi](images/piwiz4.PNG)
+
+**Note:** if your Raspberry Pi does not have WiFi you wont see this screen.
+
++ Click **Next** to check for updates to Raspbian and install them.
+
+![pi wizard update](images/piwiz5.PNG)
+
+![pi wizard updating](images/piwiz6.PNG)
+
++ Once complete your Raspberry Pi, click **Done** or **Reboot**.
+
+**Note:** you will only need to reboot if required to complete a change.
+
+![pi wizard complete](images/piwiz7.PNG)
