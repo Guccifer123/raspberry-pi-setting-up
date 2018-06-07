@@ -3,7 +3,7 @@ hero_image: images/banner.png
 description: How to set up and start your Pi for the first time
 version: 4
 listed: false
-copyedit: false
+copyedit: true
 last_tested: "2018-05-16"
 steps:
   - title: Introduction
