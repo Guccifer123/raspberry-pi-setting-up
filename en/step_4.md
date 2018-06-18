@@ -4,9 +4,13 @@ Let's get everything connected. It's important to do this in the right order, so
 
 ![pi connections](images/pi-labelled.png)
 
-+ Insert the SD card you've set up with Raspbian (via NOOBS) into the micro SD card slot at the underside of your Pi. Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
++ Insert the SD card you've set up with Raspbian (via NOOBS) into the micro SD card slot at the underside of your Pi. 
 
 ![sd card](images/pi-sd.png)
+
+**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+
+![sd card holder](images/sd-card-holder.png)
 
 + Find the USB cable for your mouse, and connect the mouse to a USB port on the Raspberry Pi (it doesn't matter which one).
 
