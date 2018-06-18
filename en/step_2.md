@@ -60,7 +60,7 @@ Some screens only have a VGA port.
 
 To connect your Pi to such a screen, you can use a HDMI-to-VGA adapter.
 
-![hdmi to vga adapter port](images/hdmi-vga-adapter.JPG)
+![hdmi to vga adapter port](images/hdmi-vga-adapter.png)
 
 ### Optional extras
 
