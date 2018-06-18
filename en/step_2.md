@@ -2,7 +2,7 @@
 
 ### Which Raspberry Pi?
 
-There are several [models of Raspberry Pi](https://www.raspberrypi.org/products/), and for most people the Raspberry Pi 3 is the one to choose.
+There are several [models of Raspberry Pi](https://www.raspberrypi.org/products/), and for most people the Raspberry Pi 3 Model B+ is the one to choose.
 
 ![Raspberry Pi 3](images/raspberry-pi.png)
 
@@ -18,7 +18,7 @@ To connect to a power socket, the Raspberry Pi has a micro USB port (the same fo
 
 You will need a power supply which provides at least 2.5 amps. We recommend using the [official Raspberry Pi power supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
 
-![power supply](images/powersupply_annotation.png)
+![power supply](images/powersupply.png)
 
 ### A micro SD card
 
@@ -44,19 +44,19 @@ To view the Raspbian desktop environment, you will need a screen and a cable to 
 
 The Raspberry Pi has a HDMI output port that is compatible with the HDMI port of most modern TVs and computer monitors. Many computer monitors may also have DVI or VGA ports.
 
-![hdmi port](images/hdmi-port.JPG)
+![hdmi port](images/hdmi-port.png)
 
 #### DVI
 
 If your screen has a DVI port, you can connect the Pi to it using a HDMI-to-DVI cable.
 
-![dvi port](images/dvi-port.JPG)
+![dvi port](images/dvi-port.png)
 
 #### VGA
 
 Some screens only have a VGA port.
 
-![vga port](images/vga-port.JPG)
+![vga port](images/vga-port.png)
 
 To connect your Pi to such a screen, you can use a HDMI-to-VGA adapter.
 
