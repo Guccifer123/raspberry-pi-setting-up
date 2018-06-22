@@ -1,6 +1,6 @@
 ## What next?
 
-+ Take a look at our [Using your Raspberry Pi](https:/projects.raspberrypi.org/en/projects/raspberry-pi-using) guide.
++ Take a look at our [Using your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using) guide.
 
 + Explore what you can do with your Raspberry Pi by creating some of our [digital making projects](https://projects.raspberrypi.org), for example:
 
