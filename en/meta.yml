@@ -2,7 +2,7 @@ title: Setting up your Raspberry Pi
 hero_image: images/banner.png
 description: How to set up and start your Pi for the first time
 version: 4
-listed: false
+listed: true
 copyedit: true
 last_tested: "2018-05-16"
 steps:
