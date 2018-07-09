@@ -1,53 +1,53 @@
 ## اپنا ایسڈی کارڈ مقرر کریں
 
-If you have an SD card that doesn't have the Raspbian operating system on it yet, or if you want to reset your Raspberry Pi, you can easily install Raspbian yourself. To do so, you need a computer that has an SD card port — most laptop and desktop computers have one.
+اگر آپ کے پاس ایک ایسڈی کارڈ ہے جس پر ابھی تک Raspbian آپریٹنگ سسٹم نہیں ہے، یا اگر آپ اپنی رسبری پیرا ری سیٹ کرنا چاہتے ہیں، تو آپ آسانی سے اپنے آپ کو Raspbian خود کو انسٹال کرسکتے ہیں. ایسا کرنے کے لئے، آپ کو ایک کمپیوٹر کی ضرورت ہے جس میں ایسڈی کارڈ کی بندرگاہ ہے - سب سے زیادہ لیپ ٹاپ اور ڈیسک ٹاپ کمپیوٹرز ایک ہیں.
 
-### The Raspbian operating system via NOOBS
+### NOOBS کے ذریعہ Raspbian آپریٹنگ سسٹم
 
-Using the NOOBS software is the easiest way to install Raspbian on your SD card.
+NOOBS سافٹ ویئر کا استعمال کرتے ہوئے اپنے ایسڈی کارڈ پر Raspbian انسٹال کرنے کا سب سے آسان طریقہ ہے.
 
-#### Download NOOBS
+#### NOOBS ڈاؤن لوڈ کریں
 
-+ Visit the [Raspberry Pi downloads page](https://www.raspberrypi.org/downloads).
++ [ریکسیری پائی ڈاؤن لوڈ صفحہ](https://www.raspberrypi.org/downloads)ملاحظہ کریں.
 
-![Downloads page](images/downloads-page.png)
+![ڈاؤن لوڈ صفحہ](images/downloads-page.png)
 
-+ You should see a box linking to the NOOBS files. Click on the box.
++ آپ کو NOOBS فائلوں سے منسلک ایک باکس دیکھنا چاہئے. باکس پر کلک کریں.
 
-![Click on NOOBS](images/click-noobs.png)
+![NOOBS پر کلک کریں](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files. Make sure to pay attention to where you save the archive, so that you can find it again quickly.
++ فائلوں کی زپ آرکائیو ڈاؤن لوڈ کرنے کا سب سے آسان اختیار ہے. آرکائیو کو بچانے کے لۓ اس بات کو یقینی بنائیں کہ آپ اسے جلدی سے تلاش کر سکیں.
 
-![Download zip](images/download-zip.png)
+![زپ ڈاؤن لوڈ کریں](images/download-zip.png)
 
-#### Format the SD card
+#### ایسڈی کارڈ کو تشکیل دیں
 
-Anything that's stored on the SD card will be overwritten during formatting. So if the SD card on which you want to install Raspbian currently has any files on it, e.g. from an older version of Raspbian, you may wish to back these files up first to not lose them permanently.
+ایسڈی کارڈ پر ذخیرہ کردہ کچھ بھی فارمیٹنگ کے دوران زیادہ لکھا جائے گا. لہذا اگر ایسڈی کارڈ جس پر آپ Raspbian انسٹال کرنا چاہتے ہیں اس وقت اس پر کوئی بھی فائلیں ہیں، مثال کے طور پر Raspbian کے پرانے ورژن سے، آپ ان فائلوں کو سب سے پہلے بیک اپ کرنا چاہتے ہیں کہ انہیں مستقل طور پر کھو دیں.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ ایسڈی ایسوسی ایشن کی ویب سائٹ ملاحظہ کریں اور ونڈوز یا میک کیلئے [SD فارمیٹ 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) ڈاؤن لوڈ کریں.
 
-+ Follow the instructions to install the software.
++ سافٹ ویئر انسٹال کرنے کے لئے ہدایات پر عمل کریں.
 
-+ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
++ اپنے ایسڈی کارڈ کو کمپیوٹر یا لیپ ٹاپ کی ایسڈی کارڈ سلاٹ میں داخل کریں اور اسے مختص کردہ ڈرائیو خط کا ایک نوٹ بنائیں، مثال کے طور پر `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and the format the card.
++ ایسڈی فارمیٹ میں، آپ کے ایسڈی کارڈ کے لئے ڈرائیو کا خط، اور فارمیٹ کارڈ کا انتخاب کریں.
 
-#### Extract NOOBS from the zip archive
+#### زپ آرکائیو سے NOOBS نکالیں
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+اگلا، آپ کو Raspberry Pi ویب سائٹ سے ڈاؤن لوڈ کردہ NOOBS زپ آرکائیو سے فائلوں کو نکالنے کی ضرورت ہوگی.
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ ڈاؤن لوڈ کردہ آرکائیو کو تلاش کریں - پہلے سے طے شدہ، یہ آپ کے `ڈاؤن لوڈز` فولڈر میں ہونا چاہئے.
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ فائلوں کو نکالنے کے لئے اس پر ڈبل کلک کریں، اور نتیجے میں ایکسپلورر / فائنڈر کھڑکی کو کھلا رکھیں.
 
-#### Copy the files
+#### فائلیں کاپی کریں
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ اب ایک اور ایکسپلورر / فائنڈر ونڈو کھولیں اور ایسڈی کارڈ پر جائیں. دونوں طرف ونڈوز کی طرف کی طرف اشارہ کرنا بہتر ہے.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ `NOOBS` فولڈر میں تمام فائلوں کو منتخب کریں اور انہیں کارڈ میں کاپی کرنے کیلئے ایسڈی کارڈ ونڈو میں گھسیٹیں.
 
-![windows copy](images/copy3.png)
+![ونڈو کاپی](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![میکس کاپی](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ ایک بار جب فائلوں کو سب سے زیادہ کاپی کیا گیا ہے تو، آپ ایسڈی کارڈ کو ختم کر سکتے ہیں.
