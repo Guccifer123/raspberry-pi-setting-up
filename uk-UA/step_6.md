@@ -1,31 +1,31 @@
 ## Завершіть налаштування
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Коли ви вперше запустите малину Пі, програма **Welcome to Raspberry Pi** з'явиться та відкриє вам початкову настройку.
 
-![pi wizard](images/piwiz.gif)
+![Пі майор](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Клацніть **Далі** щоб розпочати налаштування.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Встановіть **Country**, **Language**і **Timezone**, потім ще раз натисніть **Next**.
 
-![pi wizard country](images/piwiz2.PNG)
+![Пі майор країна](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Введіть новий пароль для Вашої Малини Пі та натисніть **Далі**.
 
-![pi wizard password](images/piwiz3.PNG)
+![Pi майстра пароль](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Підключіться до вашої мережі Wi-Fi, вибравши його ім'я, ввівши пароль і натиснувши **Далі**.
 
-![pi wizard wifi](images/piwiz4.PNG)
+![Пі майстер Wi-Fi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Примітка:** якщо у моделі Raspberry Pi немає бездротового з'єднання, цей екран не відображатиметься.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Клацніть **Далі** дозвольте майстру перевірити наявність оновлень Raspbian та встановити їх (це може зайняти деякий час).
 
-![pi wizard updating](images/piwiz6.PNG)
+![Пі майстер оновлення](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Клацніть **Готово** або **Перезавантажте** щоб закінчити налаштування.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Примітка:** вам потрібно буде перезавантажити лише тоді, коли це потрібно для завершення оновлення.
 
-![pi wizard complete](images/piwiz7.PNG)
+![Пі майор завершений](images/piwiz7.PNG)
