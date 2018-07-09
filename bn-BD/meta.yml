@@ -1,25 +1,25 @@
 ---
-title: Setting up your Raspberry Pi
-hero_image: images/banner.png
-description: How to set up and start your Pi for the first time
+title: আপনার রাস্পবেরি পাই সেট আপ
+hero_image: ইমেজ / banner.png
+description: কিভাবে সেট আপ এবং প্রথমবার জন্য আপনার Pi শুরু
 version: 4
 listed: true
 copyedit: true
 last_tested: "2018-05-16"
 steps:
   - 
-    title: Introduction
+    title: ভূমিকা
   - 
-    title: What you will need
+    title: আপনার যা দরকার
   - 
-    title: Set up your SD card
+    title: আপনার এসডি কার্ড সেট আপ করুন
   - 
-    title: Connect your Pi
+    title: আপনার পাই সংযুক্ত করুন
   - 
-    title: Start up your Pi
+    title: আপনার পাই শুরু করুন
   - 
-    title: Finish the setup
+    title: সেটআপ শেষ করুন
   - 
-    title: Where to find help
+    title: কোথায় সাহায্য খুঁজে পেতে
   - 
-    title: What next?
+    title: এরপর কী?
