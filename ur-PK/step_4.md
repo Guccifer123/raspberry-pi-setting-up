@@ -1,37 +1,37 @@
-## Connect your Raspberry Pi
+## اپنی راسبری پیئ سے رابطہ کریں
 
-Let's get everything connected. It's important to do this in the right order, so that all your components are safe.
+چلو سب کچھ منسلک ہے. صحیح کام میں یہ کرنا ضروری ہے، تاکہ آپ کے تمام اجزاء محفوظ ہیں.
 
-![pi connections](images/pi-labelled.png)
+![پائپ کنکشن](images/pi-labelled.png)
 
-+ Insert the SD card you've set up with Raspbian (via NOOBS) into the micro SD card slot at the underside of your Pi. 
++ ایس ایس کارڈ داخل کریں جس سے آپ نے اپنی پائپ کے نیچے زیر استعمال مائیکرو ایسڈی کارڈ سلاٹ میں Raspbian (NOOBS کے ذریعہ) قائم کی ہے. 
 
 ![ایسڈی کارڈ](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+**نوٹ:** بہت سے مائیکرو ایسڈی کارڈ بڑے اڈاپٹر کے اندر اندر آئیں گے - آپ نیچے دیئے گئے ہونٹ کا استعمال کرکے کارڈ کو سلائڈ کرسکتے ہیں.
 
-![sd card holder](images/sd-card-holder.png)
+![ایسڈی کارڈ ہولڈر](images/sd-card-holder.png)
 
-+ Find the USB cable for your mouse, and connect the mouse to a USB port on the Raspberry Pi (it doesn't matter which one).
++ اپنے ماؤس کے لئے یوایسبی کیبل تلاش کریں، اور ماؤس کو USB پورٹ میں ریکسیری پائی سے جوڑیں (اس سے کوئی فرق نہیں پڑتا).
 
-![mouse](images/pi-mouse.png)
+![ماؤس](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ کی بورڈ کو اسی طرح سے مربوط کریں.
 
-![keyboard](images/pi-keyboard.png)
+![کی بورڈ](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large, flat side on top.
++ Raspberry Pi میں HDMI بندرگاہ کو دیکھو - اس بات کا نوٹس ہے کہ اس کے پاس سب سے بڑا، فلیٹ پہلو ہے.
 
-![hdmi](images/pi-hdmi.png)
+![HDMI](images/pi-hdmi.png)
 
-+ Make sure your screen is plugged into a wall socket and turned on. Use a cable to connect the screen to the Pi's HDMI port — use an adapter if necessary.
++ اس بات کو یقینی بنائیں کہ آپ کی سکرین دیوار کی ساکٹ میں پلگ ان کی گئی ہے اور اسے تبدیل کر دیا گیا ہے. سکرین کی مربوط کرنے کے لئے ایک کیبل کا استعمال کریں کہ پی آئی کے HDMI بندرگاہ میں. اگر ضروری ہو تو اڈاپٹر کا استعمال کریں.
 
-**Note:** nothing will display on the screen, because the Pi is not running yet.
+**نوٹ:** اسکرین پر کچھ بھی نہیں ڈسپلے گا، کیونکہ پی آئی پی ابھی تک نہیں چل رہا ہے.
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ اگر آپ پی آئی پی ایتھرنیٹ کے ذریعہ انٹرنیٹ سے منسلک کرنا چاہتے ہیں تو، ایتھرنیٹ کیبل کو ریکسیری پائی سے دیوار پر یا آپ کے انٹرنیٹ روٹر پر ایک ایتھرنیٹ ساکٹ پر منسلک کرنے کے لئے استعمال کریں. آپ کو ایسا کرنے کی ضرورت نہیں ہے کہ اگر آپ وائی فائی کا استعمال کریں گے یا اگر آپ انٹرنیٹ سے رابطہ نہیں کرنا چاہتے ہیں.
 
-![ethernet](images/pi-ethernet.png)
+![ایتھرنیٹ](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ اگر آپ اسپیکر ہیں تو آپ کی اسکرین سے آواز آ جائے گی یا آپ ہیڈ فون یا اسپیکر کو آڈیو جیک میں منسلک کرسکتے ہیں.
 
-![headphones](images/pi-headphones.png)
+![ہیڈ فون](images/pi-headphones.png)
