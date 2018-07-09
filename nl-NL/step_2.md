@@ -10,68 +10,68 @@ De Raspberry Pi 3 Model B + is de nieuwste, snelste en gemakkelijkst te gebruike
 
 De Raspberry Pi Zero en Zero W zijn kleiner en hebben minder stroom nodig, dus ze zijn handig voor draagbare projecten zoals robots. Het is over het algemeen gemakkelijker om een ​​project te starten met de Raspberry Pi 3 en om naar de Pi Zero te gaan wanneer je een werkend prototype hebt waar de kleinere Pi handig voor zou kunnen zijn.
 
-If you want to buy a Raspberry Pi, head to [rpf.io/products](https://rpf.io/products).
+Als je een Raspberry Pi wilt kopen, ga dan naar [rpf.io/products](https://rpf.io/products).
 
-### A power supply
+### Een voeding
 
-To connect to a power socket, the Raspberry Pi has a micro USB port (the same found that's found on many mobile phones).
+Voor aansluiting op een stopcontact heeft de Raspberry Pi een micro-USB-poort (dezelfde als die op veel mobiele telefoons wordt aangetroffen).
 
-You will need a power supply which provides at least 2.5 amps. We recommend using the [official Raspberry Pi power supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
+U hebt een voeding nodig die minstens 2,5 ampère levert. We raden aan om de [officiële Raspberry Pi-voeding](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
 
-![power supply](images/powersupply.png)
+![stroomvoorziening](images/powersupply.png)
 
-### A micro SD card
+### Een micro SD-kaart
 
-Your Raspberry Pi needs an SD card to store all its files and the Raspbian operating system.
+Je Raspberry Pi heeft een SD-kaart nodig om alle bestanden en het Raspbian-besturingssysteem op te slaan.
 
-![sd card](images/pi-sd.png)
+![SD-kaart](images/pi-sd.png)
 
-You will need a micro SD card with a capacity of at least 8 GB.
+U hebt een micro-SD-kaart nodig met een capaciteit van minimaal 8 GB.
 
-Many sellers supply SD cards for Raspberry Pi that are already set up with Raspbian and ready to go.
+Veel verkopers leveren SD-kaarten voor Raspberry Pi die al met Raspbian zijn ingesteld en klaar zijn om te gebruiken.
 
-### A keyboard and a mouse
+### Een toetsenbord en een muis
 
-To start using your Raspberry, you will need a USB keyboard and a USB mouse.
+Om je Raspberry te gebruiken, heb je een USB-toetsenbord en een USB-muis nodig.
 
-Once you've set your Pi up, you can use a Bluetooth keyboard and mouse, but you'll need a USB keyboard and mouse for setting up.
+Nadat je je Pi hebt opgestart, kun je een Bluetooth-toetsenbord en -muis gebruiken, maar je hebt een USB-toetsenbord en -muis nodig voor het instellen.
 
-### A TV or computer screen
+### Een tv of een computerscherm
 
-To view the Raspbian desktop environment, you will need a screen and a cable to link the screen and the Pi. The screen can be a TV or a computer monitor. If the screen has built-in speakers, the Pi will be able to use these to play sound.
+Om de Raspbian-desktopomgeving te bekijken, hebt u een scherm en een kabel nodig om het scherm en de Pi te linken. Het scherm kan een tv- of een computermonitor zijn. Als het scherm ingebouwde luidsprekers heeft, kan de Pi deze gebruiken om geluid af te spelen.
 
 #### HDMI
 
-The Raspberry Pi has a HDMI output port that is compatible with the HDMI port of most modern TVs and computer monitors. Many computer monitors may also have DVI or VGA ports.
+De Raspberry Pi heeft een HDMI-uitgang die compatibel is met de HDMI-poort van de meeste moderne tv's en computermonitoren. Veel computermonitoren kunnen ook DVI- of VGA-poorten hebben.
 
-![hdmi port](images/hdmi-port.png)
+![HDMI-poort](images/hdmi-port.png)
 
 #### DVI
 
-If your screen has a DVI port, you can connect the Pi to it using a HDMI-to-DVI cable.
+Als uw scherm een ​​DVI-poort heeft, kunt u de Pi hierop aansluiten met behulp van een HDMI-naar-DVI-kabel.
 
-![dvi port](images/dvi-port.png)
+![DVI-poort](images/dvi-port.png)
 
 #### VGA
 
-Some screens only have a VGA port.
+Sommige schermen hebben alleen een VGA-poort.
 
-![vga port](images/vga-port.png)
+![vga-poort](images/vga-port.png)
 
-To connect your Pi to such a screen, you can use a HDMI-to-VGA adapter.
+Om uw Pi op zo'n scherm aan te sluiten, kunt u een HDMI-naar-VGA-adapter gebruiken.
 
-![hdmi to vga adapter port](images/hdmi-vga-adapter.png)
+![HDMI naar VGA-adapterpoort](images/hdmi-vga-adapter.png)
 
-### Optional extras
+### Optionele extra's
 
-#### A case
+#### Een zaak
 
-You may want to put your Raspberry Pi in a case. This is not essential, but it will provide protection for your Pi. If you'd like, you can use the official case for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) or [Pi Zero or Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+U kunt uw Raspberry Pi in een hoesje plaatsen. Dit is niet essentieel, maar het biedt bescherming voor je Pi. Als je wilt, kun je de officiële case voor de [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) of [Pi Zero of Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
 
-#### Headphones or speakers
+#### Hoofdtelefoons of luidsprekers
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
+De grote Raspberry Pi-modellen (niet de Pi Zero / Zero W) hebben een standaard audiopoort zoals die op je smartphone of mp3-speler. Als u wilt, kunt u uw koptelefoons of luidsprekers aansluiten zodat de Pi geluid kan spelen. Als het scherm waarmee je je Pi verbindt, ingebouwde luidsprekers heeft, kan de Pi hier geluid door spelen.
 
-#### An Ethernet cable
+#### Een Ethernet-kabel
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+De grote Raspberry Pi-modellen (niet de Pi Zero / Zero W) hebben een standaard Ethernet-poort om ze op internet aan te sluiten. Om een ​​Pi Zero op het internet aan te sluiten, hebt u een USB-naar-Ethernet-adapter nodig. De Raspberry Pi 3 en Pi Zero W kunnen ook draadloos op internet worden aangesloten.
