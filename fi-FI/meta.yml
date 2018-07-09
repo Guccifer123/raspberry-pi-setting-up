@@ -1,0 +1,25 @@
+---
+title: Raspberry Piin asettaminen
+hero_image: Kuvien / banner.png
+description: Kuinka aloittaa ja aloittaa Piesi ensimmäistä kertaa
+version: 4
+listed: true
+copyedit: true
+last_tested: "16.05.2018"
+steps:
+  - 
+    title: esittely
+  - 
+    title: Mitä tarvitset
+  - 
+    title: Aseta SD-kortti
+  - 
+    title: Yhdistä Pi
+  - 
+    title: Käynnistä Pi
+  - 
+    title: Lopeta asennus
+  - 
+    title: Where to find help
+  - 
+    title: What next?
