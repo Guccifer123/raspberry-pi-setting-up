@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## Khởi động Raspberry Pi của bạn
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+Raspberry Pi của bạn không có công tắc nguồn: ngay sau khi bạn kết nối nó với ổ cắm điện, nó sẽ bật. Lưu ý rằng cổng nguồn micro USB của Pi có mặt phẳng dài hơn ở trên cùng.
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ Cắm nguồn điện micro USB vào ổ cắm và kết nối nó với cổng nguồn của Pi.
 
-![screenshot](images/pi-power.png)
+![ảnh chụp màn hình](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+Bạn sẽ thấy đèn LED màu đỏ sáng lên trên Raspberry Pi, cho biết rằng Pi được kết nối với nguồn. Khi nó khởi động (điều này cũng được gọi là **khởi động**), bạn sẽ thấy quả mâm xôi xuất hiện ở phía trên bên trái của màn hình của bạn.
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![boot mâm xôi](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Trình duyệt của bạn không hỗ trợ video WebM, vì vậy hãy thử FireFox hoặc Chrome. </video> 
 
-\--- collapse \---
+\--- sự sụp đổ \---
 
 * * *
 
-## title: First-time startup with NOOBS
+## title: Khởi động lần đầu với NOOBS
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+Nếu đây là lần đầu tiên bạn khởi động Raspberry Pi với thẻ SD chứa NOOBS, bạn sẽ thấy trình cài đặt NOOBS. Phần mềm này sẽ hướng dẫn bạn cài đặt hệ điều hành Raspbian (OS).
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ Khi trình cài đặt đã được tải, nó sẽ cung cấp cho bạn lựa chọn hệ điều hành nào để cài đặt. Chọn hộp cho **Raspbian**, rồi bấm **Cài đặt**.
 
-![install](images/install.png)
+![cài đặt, dựng lên](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ Nhấp vào **Có** trong hộp thoại cảnh báo, sau đó ngồi lại và thư giãn. Quá trình cài đặt Raspbian sẽ mất một chút thời gian.
 
-![installing](images/installing.png)
+![cài đặt](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ Khi Raspbian đã được cài đặt, nhấp vào **OK**. Raspberry Pi của bạn sẽ khởi động lại, và Raspbian sau đó sẽ khởi động.
 
-![installed](images/installed.png)
+![Cài đặt](images/installed.png)
 
-\--- /collapse \---
+\--- /sự sụp đổ \---
 
-After a few seconds the Raspbian Desktop will appear.
+Sau một vài giây, Raspbian Desktop sẽ xuất hiện.
 
 ![raspbian desktop](images/pi-desktop.jpg)
