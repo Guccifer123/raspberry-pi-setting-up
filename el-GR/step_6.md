@@ -1,31 +1,31 @@
-## Finish the setup
+## Ολοκληρώστε τη ρύθμιση
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Όταν ξεκινάτε το Raspberry Pi σας για πρώτη φορά, το **Καλωσορίσατε στο Raspberry Pi** εφαρμογή θα εμφανιστεί και θα σας καθοδηγήσει μέσα από την αρχική ρύθμιση.
 
 ![pi wizard](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Κάντε κλικ στο **Επόμενο** για να ξεκινήσετε τη ρύθμιση.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Ρυθμίστε το **Χώρα**, **Γλώσσα**και **πεδίου**, στη συνέχεια, κάντε κλικ στην επιλογή **Επόμενο** και πάλι.
 
 ![pi wizard country](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Εισαγάγετε έναν νέο κωδικό πρόσβασης για το Raspberry Pi και κάντε κλικ στο **Επόμενο**.
 
 ![pi wizard password](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Συνδεθείτε στο δίκτυό σας WiFi επιλέγοντας το όνομά του, εισάγοντας τον κωδικό πρόσβασης και κάνοντας κλικ στο **Επόμενο**.
 
-![pi wizard wifi](images/piwiz4.PNG)
+![pi wizard wizard](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Σημείωση:** εάν το μοντέλο Raspberry Pi δεν διαθέτει ασύρματη συνδεσιμότητα, δεν θα δείτε αυτήν την οθόνη.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Κάντε κλικ στο **Επόμενο** αφήστε τον οδηγό να ελέγξει για ενημερώσεις του Raspbian και να τις εγκαταστήσει (αυτό μπορεί να διαρκέσει λίγη ώρα).
 
-![pi wizard updating](images/piwiz6.PNG)
+![pi ενημέρωση του οδηγού](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Κάντε κλικ στο **Έγινε** ή **Επανεκκίνηση** για να ολοκληρώσετε την εγκατάσταση.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Σημείωση:** θα χρειαστεί να επανεκκινήσετε μόνο εάν αυτό είναι απαραίτητο για την ολοκλήρωση μιας ενημέρωσης.
 
-![pi wizard complete](images/piwiz7.PNG)
+![pi οδηγός ολοκληρωθεί](images/piwiz7.PNG)
