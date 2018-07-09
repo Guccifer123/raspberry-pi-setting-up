@@ -1,10 +1,10 @@
-## What next?
+## এরপর কী?
 
-+ Take a look at our [Using your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using) guide.
++ আমাদের কটাক্ষপাত [আপনার রাস্পবেরী Pi ব্যবহার](https://projects.raspberrypi.org/en/projects/raspberry-pi-using) গাইড।
 
-+ Explore what you can do with your Raspberry Pi by creating some of our [digital making projects](https://projects.raspberrypi.org), for example:
++ এক্সপ্লোর কি আপনি আমাদের কিছু তৈরি করে আপনার রাস্পবেরী Pi করতে পারেন [ডিজিটাল তৈরীর প্রকল্প](https://projects.raspberrypi.org), উদাহরণস্বরূপ:
     
-    + [Robot antenna](https://projects.raspberrypi.org/en/projects/robot-antenna) — control a robot's antenna light with a Raspberry Pi and code blocks
-    + [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) — learn how to code your own musical instruments
-    + [Turtle race](https://projects.raspberrypi.org/en/projects/turtle-race) — race digital turtles against each other
-    + [Push button stop-motion](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) — make your own stop-motion animation rig with a button and a [Raspberry Pi Camera Module](https://www.raspberrypi.org/products/camera-module-v2/)
+    + [রোবট অ্যান্টেনা](https://projects.raspberrypi.org/en/projects/robot-antenna) - একটি রোসবেরি পিআই এবং কোড ব্লক সহ একটি রোবট এর অ্যান্টেনা আলো নিয়ন্ত্রণ
+    + [রক ব্যান্ড](https://projects.raspberrypi.org/en/projects/rock-band) - শিখুন আপনার নিজের বাদ্যযন্ত্র কোড কিভাবে
+    + [কচ্ছপ জাতি](https://projects.raspberrypi.org/en/projects/turtle-race) - একে অপরের বিরুদ্ধে জাতি ডিজিটাল কচ্ছপ
+    + [পুশ বোতাম স্টপ মোশন](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) - একটি বাটন সঙ্গে আপনার নিজের স্টপ মোশন অ্যানিমেশন তামাশা করতে এবং একটি [রাস্পবেরী Pi ক্যামেরা মডিউল](https://www.raspberrypi.org/products/camera-module-v2/)
