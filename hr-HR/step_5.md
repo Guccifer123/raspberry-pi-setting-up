@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## Pokrenite svoj Malen Malen
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+Raspberry Pi nema prekidač napajanja: čim ga spojite na utičnicu, ona će se uključiti. Imajte na umu da Pi's micro USB utičnica ima dužu ravnu stranu na vrhu.
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ Priključite mikro-USB napajanje u utičnicu i spojite ga s Pi-ovim priključkom za napajanje.
 
-![screenshot](images/pi-power.png)
+![zaslona](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+Trebali biste vidjeti crvenu LED svjetiljku na malini Pi, što znači da je Pi povezan s napajanjem. Kako se pokreće (to se naziva i **podizanje sustava**), vidjet ćete maline koje se prikazuju u gornjem lijevom kutu zaslona.
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![dizanje malina](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Vaš preglednik ne podržava WebM video, pa pokušajte s FireFoxom ili Chromeom. </video> 
 
-\--- collapse \---
+\--- kolaps \---
 
 * * *
 
-## title: First-time startup with NOOBS
+## naslov: Prvo puštanje u rad s NOOBS-om
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+Ako ovo prvi put pokrenete Raspberry Pi s SD karticom koja sadrži NOOBS, vidjet ćete instalacijski program za NOOBS. Ovaj softver će vas provesti kroz instaliranje operacijskog sustava Raspbian (OS).
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ Kada se instalacijski program učita, ponudit će vam odabir operacijskog sustava koji će se instalirati. Označite okvir za **Raspbian**, a zatim kliknite **Instaliraj**.
 
-![install](images/install.png)
+![instalirati](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ U dijaloškom okviru upozorenja kliknite **Da** , a zatim se opustite. Proces instalacije Raspbian će potrajati malo vremena.
 
-![installing](images/installing.png)
+![instaliranje](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ Kad je instaliran Raspbian, kliknite **OK**. Vaša malina Pi će se ponovno pokrenuti, a Raspbian će se potom pokrenuti.
 
-![installed](images/installed.png)
+![instaliran](images/installed.png)
 
-\--- /collapse \---
+\--- /kolaps \---
 
-After a few seconds the Raspbian Desktop will appear.
+Nakon nekoliko sekundi pojavit će se Raspalna radna površina.
 
 ![raspbian desktop](images/pi-desktop.jpg)
