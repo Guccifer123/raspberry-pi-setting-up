@@ -1,53 +1,53 @@
 ## Thiết lập thẻ SD của bạn
 
-If you have an SD card that doesn't have the Raspbian operating system on it yet, or if you want to reset your Raspberry Pi, you can easily install Raspbian yourself. To do so, you need a computer that has an SD card port — most laptop and desktop computers have one.
+Nếu bạn có một thẻ SD mà không có hệ điều hành Raspbian trên nó được nêu ra, hoặc nếu bạn muốn thiết lập lại Raspberry Pi của bạn, bạn có thể dễ dàng cài đặt Raspbian mình. Để làm như vậy, bạn cần một máy tính có một cổng thẻ SD - hầu hết các máy tính xách tay và máy tính để bàn có một.
 
-### The Raspbian operating system via NOOBS
+### Hệ điều hành Raspbian thông qua NOOBS
 
-Using the NOOBS software is the easiest way to install Raspbian on your SD card.
+Sử dụng phần mềm NOOBS là cách dễ nhất để cài đặt Raspbian trên thẻ SD của bạn.
 
-#### Download NOOBS
+#### Tải xuống NOOBS
 
-+ Visit the [Raspberry Pi downloads page](https://www.raspberrypi.org/downloads).
++ Truy cập trang tải xuống [Raspberry Pi](https://www.raspberrypi.org/downloads).
 
-![Downloads page](images/downloads-page.png)
+![Trang tải xuống](images/downloads-page.png)
 
-+ You should see a box linking to the NOOBS files. Click on the box.
++ Bạn sẽ thấy một hộp liên kết đến các tệp NOOBS. Nhấp vào hộp.
 
-![Click on NOOBS](images/click-noobs.png)
+![Nhấp vào NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files. Make sure to pay attention to where you save the archive, so that you can find it again quickly.
++ Tùy chọn đơn giản nhất là tải xuống kho lưu trữ zip của các tệp. Đảm bảo chú ý đến nơi bạn lưu tệp lưu trữ để bạn có thể tìm lại nhanh chóng.
 
-![Download zip](images/download-zip.png)
+![Tải xuống mã zip](images/download-zip.png)
 
-#### Format the SD card
+#### Định dạng thẻ SD
 
-Anything that's stored on the SD card will be overwritten during formatting. So if the SD card on which you want to install Raspbian currently has any files on it, e.g. from an older version of Raspbian, you may wish to back these files up first to not lose them permanently.
+Mọi thứ được lưu trữ trên thẻ SD sẽ bị ghi đè trong khi định dạng. Vì vậy, nếu thẻ SD mà bạn muốn cài đặt Raspbian hiện có bất kỳ tệp nào trên đó, ví dụ từ phiên bản cũ của Raspbian, bạn có thể muốn sao lưu các tệp này trước để không bị mất vĩnh viễn.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Truy cập trang web của Hiệp hội SD và tải xuống [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) cho Windows hoặc Mac.
 
-+ Follow the instructions to install the software.
++ Làm theo hướng dẫn để cài đặt phần mềm.
 
-+ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Lắp thẻ SD của bạn vào khe cắm thẻ SD của máy tính hoặc máy tính xách tay và ghi chú ký tự ổ đĩa được cấp cho nó, ví dụ: `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and the format the card.
++ Trong SD Formatter, chọn ký tự ổ đĩa cho thẻ SD của bạn và định dạng thẻ.
 
-#### Extract NOOBS from the zip archive
+#### Trích xuất NOOBS từ kho lưu trữ zip
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Tiếp theo, bạn sẽ cần giải nén các tệp từ kho lưu trữ zip NOOBS mà bạn đã tải xuống từ trang web Raspberry Pi.
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ Tìm kho lưu trữ đã tải xuống - theo mặc định, nó sẽ nằm trong thư mục `Tải xuống` của bạn.
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ Bấm đúp vào nó để giải nén các tập tin, và giữ cửa sổ Explorer / Finder kết quả mở ra.
 
-#### Copy the files
+#### Sao chép tệp
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Bây giờ mở một cửa sổ Explorer / Finder khác và điều hướng đến thẻ SD. Tốt nhất nên đặt hai cửa sổ cạnh nhau.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ Chọn tất cả các tệp trong thư mục `NOOBS` và kéo chúng vào cửa sổ thẻ SD để sao chép chúng vào thẻ.
 
 ![windows copy](images/copy3.png)
 
 ![macos copy](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ Khi các tệp đã được sao chép xong, bạn có thể đẩy thẻ SD ra.
