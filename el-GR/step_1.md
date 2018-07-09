@@ -1,7 +1,7 @@
-## Introduction
+## Εισαγωγή
 
-Here you'll learn about your Raspberry Pi, what things you need to use it, and how to set it up.
+Εδώ θα μάθετε για το Raspberry Pi, τι πράγματα πρέπει να χρησιμοποιήσετε και πώς να το ρυθμίσετε.
 
-![plug in the pi](images/pi-plug-in.gif)
+![συνδέστε το πιν](images/pi-plug-in.gif)
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){:target="_blank"}.
+Αν χρειαστεί να εκτυπώσετε αυτό το έργο, χρησιμοποιήστε την έκδοση [φιλική προς τον εκτυπωτή](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){: target = "_ blank"}.
