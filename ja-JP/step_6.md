@@ -1,31 +1,31 @@
-## Finish the setup
+## セットアップを完了してください
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+最初にRaspberry Piを起動すると、 **Welcome to Raspberry Pi** アプリケーションがポップアップし、初期設定をガイドします。
 
-![pi wizard](images/piwiz.gif)
+![パイウィザード](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ クリックして **次** セットアップを開始します。
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ あなたの設定し **国**、 **言語**、および **タイムゾーン**クリックし、 **次** 再び。
 
-![pi wizard country](images/piwiz2.PNG)
+![パイウィザード国](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ あなたのラズベリーパイのために新しいパスワードを入力し、クリックしてください **次の**。
 
-![pi wizard password](images/piwiz3.PNG)
+![パイウィザードパスワード](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ 名前を選択し、パスワードを入力して **次をクリックして、WiFiネットワークに接続します**。
 
-![pi wizard wifi](images/piwiz4.PNG)
+![パイウィザー](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**注：** あなたのラズベリーパイのモデルはワイヤレス接続を持っていない場合は、この画面は表示されません。
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
-
-![pi wizard updating](images/piwiz6.PNG)
-
-+ Click **Done** or **Reboot** to finish the setup.
-
-**Note:** you will only need to reboot if that's necessary to complete an update.
-
-![pi wizard complete](images/piwiz7.PNG)
++ **クリックしてください**次へ** ウィザードでRaspbianの更新を確認してインストールします（これは少し時間がかかることがあります）。</li> </ul> 
+    
+    ![パイウィザードの更新](images/piwiz6.PNG)
+    
+    + **Done** または **Reboot** をクリックして設定を完了します。
+    
+    **注：** 更新を完了するために必要な場合は、再起動する必要があります。
+    
+    ![パイウィザード完了](images/piwiz7.PNG)
