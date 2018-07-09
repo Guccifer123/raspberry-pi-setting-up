@@ -24,14 +24,14 @@ Poďme všetko pripojiť. Je dôležité, aby ste to urobili v správnom poradí
 
 ![hdmi](images/pi-hdmi.png)
 
-+ Make sure your screen is plugged into a wall socket and turned on. Use a cable to connect the screen to the Pi's HDMI port — use an adapter if necessary.
++ Skontrolujte, či je obrazovka zapojená do zásuvky a zapnutá. Použite kábel na pripojenie obrazovky k portu HDMI pre Pi - v prípade potreby použite adaptér.
 
-**Note:** nothing will display on the screen, because the Pi is not running yet.
+**Poznámka:** na obrazovke sa nič nezobrazí, pretože Pi ešte nefunguje.
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ Ak chcete pripojiť Pi k internetu cez Ethernet, použite ethernetový kábel na pripojenie ethernetového portu na Raspberry Pi k ethernetovej zásuvke na stenu alebo na vašom internetovom routeri. Nemusíte to robiť, ak budete používať WiFi alebo ak sa nechcete pripojiť k internetu.
 
 ![ethernet](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ Zvuk bude pochádzať z obrazovky, ak má reproduktory alebo môžete pripojiť slúchadlá alebo reproduktory do zvukovej zásuvky, ak ich máte.
 
-![headphones](images/pi-headphones.png)
+![slúchadlá](images/pi-headphones.png)
