@@ -1,31 +1,31 @@
 ## Gorffen y gosodiad
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Pan ddechreuwch eich Mws Môr am y tro cyntaf, bydd y rhaglen **Croeso i Fag Môr** yn ymddangos ac yn eich tywys trwy'r setiad cychwynnol.
 
-![pi wizard](images/piwiz.gif)
+![dewin pi](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Cliciwch **Nesaf** i gychwyn y setup.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Gosodwch eich **Gwlad**, **Iaith**, a **Amser**, yna cliciwch **Nesaf** eto.
 
-![pi wizard country](images/piwiz2.PNG)
+![gwlad dewin pi](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Rhowch gyfrinair newydd ar gyfer eich Mws Mws a chliciwch ar **Nesaf**.
 
-![pi wizard password](images/piwiz3.PNG)
+![cyfrinair dewin pi](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Cysylltwch â'ch rhwydwaith WiFi trwy ddewis ei enw, mynd i mewn i'r cyfrinair, a chlicio **Nesaf**.
 
-![pi wizard wifi](images/piwiz4.PNG)
+![wizard pi wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Sylwer:** os nad oes gan eich model Cig Mws â chysylltedd diwifr, ni welwch y sgrin hon.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Cliciwch **Nesaf** gadewch i'r dewin wirio am ddiweddariadau i Raspbian a'u gosod (efallai y bydd hyn yn cymryd ychydig o amser).
 
-![pi wizard updating](images/piwiz6.PNG)
+![diweddaru dewin pi](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Cliciwch **Wedi'i wneud** neu **Ail-gychwyn** i orffen y gosodiad.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Sylwer:** dim ond os oes angen i chi gwblhau'r diweddariad y bydd angen i chi ailgychwyn.
 
-![pi wizard complete](images/piwiz7.PNG)
+![dewin pi wedi'i chwblhau](images/piwiz7.PNG)
