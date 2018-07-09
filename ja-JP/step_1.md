@@ -1,7 +1,7 @@
-## Introduction
+## 前書き
 
-Here you'll learn about your Raspberry Pi, what things you need to use it, and how to set it up.
+ここでは、あなたのラズベリーパイ、それを使用するために必要なもの、およびセットアップ方法について学びます。
 
-![plug in the pi](images/pi-plug-in.gif)
+![πのプラグイン](images/pi-plug-in.gif)
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){:target="_blank"}.
+あなたはこのプロジェクトを印刷する必要がある場合は、使用してください [プリンターに優しいバージョンを](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){：ターゲット=「_ブランク」}。
