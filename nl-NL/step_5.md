@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## Start je Raspberry Pi op
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+Uw Raspberry Pi heeft geen aan / uit-schakelaar: zodra u hem op een stopcontact aansluit, wordt hij ingeschakeld. Merk op dat de micro USB-poort van de Pi een langere platte kant aan de bovenkant heeft.
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ Sluit een micro USB-voeding aan op een stopcontact en sluit deze aan op de voedingspoort van Pi.
 
 ![screenshot](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+Je zou een rode LED op de Raspberry Pi moeten zien oplichten, wat aangeeft dat de Pi is verbonden met stroom. Bij het opstarten (dit wordt ook wel **booting**), ziet u frambozen in de linkerbovenhoek van uw scherm verschijnen.
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![boot frambozen](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Uw browser ondersteunt geen WebM-video, dus probeer FireFox of Chrome. </video> 
 
-\--- collapse \---
+\--- ineenstorting \---
 
 * * *
 
-## title: First-time startup with NOOBS
+## titel: eerste keer opstarten met NOOBS
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+Als dit de eerste keer is dat u uw Raspberry Pi start met een SD-kaart met NOOBS, ziet u het NOOBS-installatieprogramma. Deze software begeleidt u bij de installatie van het Raspbian-besturingssysteem (OS).
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ Wanneer het installatieprogramma is geladen, biedt het u de keuze welk besturingssysteem moet worden geïnstalleerd. Vink het selectievakje aan voor **Raspbian**en klik vervolgens op **Installeren**.
 
-![install](images/install.png)
+![installeren](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ Klik op **Ja** in het waarschuwingsvenster en leun achterover en ontspan. Het Raspbian installatieproces zal wat tijd kosten.
 
-![installing](images/installing.png)
+![installeren](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ Wanneer Raspbian is geïnstalleerd, klikt u op **OK**. Je Raspberry Pi wordt opnieuw opgestart en Raspbian start dan op.
 
-![installed](images/installed.png)
+![geïnstalleerd](images/installed.png)
 
-\--- /collapse \---
+\--- / inklappen \---
 
-After a few seconds the Raspbian Desktop will appear.
+Na een paar seconden verschijnt de Raspbian Desktop.
 
-![raspbian desktop](images/pi-desktop.jpg)
+![raspbian-bureaublad](images/pi-desktop.jpg)
