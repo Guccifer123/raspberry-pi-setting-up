@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## Mulai Raspberry Pi Anda
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+Raspberry Pi Anda tidak memiliki sakelar daya: segera setelah Anda menghubungkannya ke stopkontak listrik, ia akan menyala. Perhatikan bahwa port daya USB mikro Pi memiliki sisi datar yang lebih panjang di atas.
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ Pasang catu daya USB mikro ke soket dan hubungkan ke port daya Pi Anda.
 
-![screenshot](images/pi-power.png)
+![tangkapan layar](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+Anda akan melihat lampu LED merah di Raspberry Pi, yang menunjukkan bahwa Pi terhubung ke daya. Ketika dinyalakan (ini juga disebut **booting**), Anda akan melihat raspberry muncul di kiri atas layar Anda.
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![boot rasberi](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Browser Anda tidak mendukung video WebM, jadi cobalah FireFox atau Chrome. </video> 
 
-\--- collapse \---
+\--- jatuh \---
 
 * * *
 
-## title: First-time startup with NOOBS
+## title: Startup pertama kali dengan NOOBS
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+Jika ini adalah pertama kalinya Anda memulai Raspberry Pi dengan kartu SD yang berisi NOOBS, Anda akan melihat penginstal NOOBS. Perangkat lunak ini akan memandu Anda dalam menginstal sistem operasi Raspbian (OS).
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ Ketika installer telah dimuat, ia akan menawarkan Anda pilihan OS mana yang harus diinstal. Centang kotak untuk **Raspbian**, lalu klik **Pasang**.
 
-![install](images/install.png)
+![memasang](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ Klik **Ya** di kotak dialog peringatan, dan kemudian duduk dan rileks. Proses pemasangan Raspbian akan membutuhkan waktu sedikit.
 
-![installing](images/installing.png)
+![menginstal](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ Ketika Raspbian telah diinstal, klik **OK**. Raspberry Pi Anda akan dimulai ulang, dan Raspbian akan boot.
 
-![installed](images/installed.png)
+![diinstal](images/installed.png)
 
-\--- /collapse \---
+\--- /jatuh \---
 
-After a few seconds the Raspbian Desktop will appear.
+Setelah beberapa detik, Raspbian Desktop akan muncul.
 
-![raspbian desktop](images/pi-desktop.jpg)
+![desktop raspbian](images/pi-desktop.jpg)
