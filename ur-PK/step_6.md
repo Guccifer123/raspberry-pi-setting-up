@@ -1,31 +1,31 @@
 ## سیٹ اپ ختم کریں
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+جب آپ پہلی بار اپنے ریکسیری پیئ شروع کرتے ہیں تو، **راسبری پی آئی** درخواست پر خوش آمدید پاپ اپ اور ابتدائی سیٹ اپ کے ذریعہ آپ کی رہنمائی کرے گی.
 
-![pi wizard](images/piwiz.gif)
+![پا جادوگر](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ سیٹ اپ شروع کرنے کے لئے **اگلا** پر کلک کریں.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ اپنا **ملک**، **زبان**، اور **ٹائم زون**، پھر **اگلا** دوبارہ دوبارہ کریں.
 
-![pi wizard country](images/piwiz2.PNG)
+![پیو مددگار ملک](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ آپ رسبری PI لئے ایک نیا پاس ورڈ درج کریں اور کلک کریں **اگلا**.
 
-![pi wizard password](images/piwiz3.PNG)
+![پیو مددگار پاس ورڈ](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ اس کا نام منتخب کریں، پاسورڈ درج کریں اور **اگلا**پر کلک کرکے اپنے وائی فائی نیٹ ورک سے رابطہ قائم کریں.
 
-![pi wizard wifi](images/piwiz4.PNG)
+![پا جادوگر وائی فائی](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**نوٹ:** اگر آپ کی رسبری پی آئی ماڈل میں وائرلیس کنیکٹوٹی نہیں ہے تو، آپ اس اسکرین کو نہیں دیکھیں گے.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ کلک کریں **اگلا** Raspbian کو اپ ڈیٹس کے لئے وزرڈ چیک کرتے ہیں اور ان کو انسٹال (یہ تھوڑا وقت لگ سکتا ہے).
 
-![pi wizard updating](images/piwiz6.PNG)
+![پیو مددگار اپ ڈیٹنگ](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ کلک کریں **دکھانا** یا **پھر بوٹ کریں** کے سیٹ اپ کو ختم کرنے کے لئے.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**نوٹ:** آپ کو ریبٹ کرنے کی ضرورت ہوگی اگر اسے اپ ڈیٹ مکمل کرنا ضروری ہے.
 
-![pi wizard complete](images/piwiz7.PNG)
+![پا جادوگر مکمل](images/piwiz7.PNG)
