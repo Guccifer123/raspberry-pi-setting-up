@@ -1,53 +1,53 @@
-## Set up your SD card
+## 设置SD卡
 
-If you have an SD card that doesn't have the Raspbian operating system on it yet, or if you want to reset your Raspberry Pi, you can easily install Raspbian yourself. To do so, you need a computer that has an SD card port — most laptop and desktop computers have one.
+如果您的SD卡上还没有Raspbian操作系统，或者您想要重置Raspberry Pi，您可以自己轻松安装Raspbian。 为此，您需要一台具有SD卡端口的计算机 - 大多数笔记本电脑和台式计算机都有一个。
 
-### The Raspbian operating system via NOOBS
+### Rasopbian操作系统通过NOOBS
 
-Using the NOOBS software is the easiest way to install Raspbian on your SD card.
+使用NOOBS软件是在SD卡上安装Raspbian的最简单方法。
 
-#### Download NOOBS
+#### 下载NOOBS
 
-+ Visit the [Raspberry Pi downloads page](https://www.raspberrypi.org/downloads).
++ 访问 [Raspberry Pi下载页面](https://www.raspberrypi.org/downloads)。
 
-![Downloads page](images/downloads-page.png)
+![下载页面](images/downloads-page.png)
 
-+ You should see a box linking to the NOOBS files. Click on the box.
++ 您应该看到一个链接到NOOBS文件的框。 单击该框。
 
-![Click on NOOBS](images/click-noobs.png)
+![点击NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files. Make sure to pay attention to where you save the archive, so that you can find it again quickly.
++ 最简单的选择是下载文件的zip存档。 请务必注意保存存档的位置，以便您可以快速找到它。
 
-![Download zip](images/download-zip.png)
+![下载zip](images/download-zip.png)
 
-#### Format the SD card
+#### 格式化SD卡
 
-Anything that's stored on the SD card will be overwritten during formatting. So if the SD card on which you want to install Raspbian currently has any files on it, e.g. from an older version of Raspbian, you may wish to back these files up first to not lose them permanently.
+存储在SD卡上的任何内容都将在格式化过程中被覆盖。 因此，如果您要安装Raspbian的SD卡上当前有任何文件，例如来自较旧版本的Raspbian，您可能希望先备份这些文件，以免永久丢失它们。
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ 访问SD Association的网站，下载适用于Windows或Mac的 [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html)。
 
-+ Follow the instructions to install the software.
++ 按照说明安装软件。
 
-+ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
++ 将SD卡插入计算机或笔记本电脑的SD卡插槽，并记下分配给它的驱动器号，例如 `F：/`。
 
-+ In SD Formatter, select the drive letter for your SD card, and the format the card.
++ 在SD Formatter中，选择SD卡的驱动器号以及卡的格式。
 
-#### Extract NOOBS from the zip archive
+#### 从zip存档中提取NOOBS
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+接下来，您需要从Raspberry Pi网站下载的NOOBS zip存档中提取文件。
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ 查找下载的存档 - 默认情况下，它应位于您的 `下载` 文件夹中。
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ 双击它以提取文件，并保持生成的Explorer / Finder窗口打开。
 
-#### Copy the files
+#### 复制文件
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ 现在打开另一个Explorer / Finder窗口并导航到SD卡。 最好将两个窗口并排放置。
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ 选择 `NOOBS` 文件夹中的所有文件，然后将它们拖到SD卡窗口中，将它们复制到卡上。
 
-![windows copy](images/copy3.png)
+![Windows副本](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![macos副本](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ 文件全部复制完毕后，即可弹出SD卡。
