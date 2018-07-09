@@ -1,53 +1,53 @@
-## Set up your SD card
+## Postavite SD karticu
 
-If you have an SD card that doesn't have the Raspbian operating system on it yet, or if you want to reset your Raspberry Pi, you can easily install Raspbian yourself. To do so, you need a computer that has an SD card port — most laptop and desktop computers have one.
+Ako imate SD karticu koja još nema Raspbian operativni sustav ili ako želite resetirati Raspberry Pi, možete sami instalirati Raspbian. Da biste to učinili, potreban vam je računalo s priključkom za SD karticu - većina prijenosnih računala i stolnih računala imaju jedan.
 
-### The Raspbian operating system via NOOBS
+### Operacijski sustav Raspbian preko NOOBS-a
 
-Using the NOOBS software is the easiest way to install Raspbian on your SD card.
+Korištenje softvera NOOBS najlakši je način za instalaciju programa Raspbian na SD karticu.
 
-#### Download NOOBS
+#### Preuzmite NOOBS
 
-+ Visit the [Raspberry Pi downloads page](https://www.raspberrypi.org/downloads).
++ Posjetite stranicu [Download malina Pi](https://www.raspberrypi.org/downloads).
 
-![Downloads page](images/downloads-page.png)
+![Stranica za preuzimanje](images/downloads-page.png)
 
-+ You should see a box linking to the NOOBS files. Click on the box.
++ Trebali biste vidjeti okvir povezan s NOOBS datotekama. Kliknite na okvir.
 
-![Click on NOOBS](images/click-noobs.png)
+![Kliknite NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files. Make sure to pay attention to where you save the archive, so that you can find it again quickly.
++ Najjednostavnija je mogućnost preuzimanje zip arhive datoteka. Obavezno obratite pažnju na mjesto gdje spremite arhivu, tako da je možete brzo pronaći.
 
-![Download zip](images/download-zip.png)
+![Preuzmite zip](images/download-zip.png)
 
-#### Format the SD card
+#### Formatiranje SD kartice
 
-Anything that's stored on the SD card will be overwritten during formatting. So if the SD card on which you want to install Raspbian currently has any files on it, e.g. from an older version of Raspbian, you may wish to back these files up first to not lose them permanently.
+Sve što je pohranjeno na SD kartici će biti prebrisano tijekom formatiranja. Dakle, ako SD kartica na koju želite instalirati Raspbian trenutačno ima bilo kakve datoteke na njemu, npr. Iz starijih verzija Raspbian, možda biste željeli vratiti ove datoteke prije nego što ih ne biste trajno izgubili.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Posjetite web stranicu Udruge SD i preuzmite [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) za Windows ili Mac.
 
-+ Follow the instructions to install the software.
++ Slijedite upute za instalaciju softvera.
 
-+ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Umetnite SD karticu u utor SD kartice na računalu ili laptopa i zabilježite dodijeljeno slovo pogona, npr. `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and the format the card.
++ U programu SD Formatter odaberite slovo pogona za SD karticu i formatirajte karticu.
 
-#### Extract NOOBS from the zip archive
+#### Izvadite NOOBS iz zip arhive
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Zatim ćete morati izdvojiti datoteke iz arhive zip-a NOOBS koje ste preuzeli s web stranice Raspberry Pi.
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ Pronađite preuzetu arhivu - po defaultu, to bi trebao biti u vašem `Downloads` mapu.
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ Dvaput kliknite na njega da biste izdvojili datoteke i zadržali otvoreni prozor Explorer / Finder.
 
-#### Copy the files
+#### Kopirajte datoteke
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Sada otvorite još jedan prozor Explorer / Finder i idite na SD karticu. Najbolje je postaviti dva prozora jedan do drugoga.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ Odaberite sve datoteke u mapi `NOOBS` i povucite ih u prozor SD kartice da biste ih kopirali na karticu.
 
-![windows copy](images/copy3.png)
+![kopiranje sustava Windows](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![mako kopirati](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ Kad sve datoteke budu kopirane, možete izbrisati SD karticu.
