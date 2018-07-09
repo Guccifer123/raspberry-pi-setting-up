@@ -1,31 +1,31 @@
-## Finish the setup
+## Completa il setup
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Quando avvii il tuo Raspberry Pi per la prima volta, verrà visualizzata l'applicazione **Welcome to Raspberry Pi** che ti guiderà nella configurazione iniziale.
 
-![pi wizard](images/piwiz.gif)
+![mago](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Fare clic su **Avanti** per avviare l'installazione.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Impostare **Country**, **Language**e **Timezone**, quindi fare nuovamente clic su **Next**.
 
-![pi wizard country](images/piwiz2.PNG)
+![il paese dei maghi](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Inserisci una nuova password per il tuo Raspberry Pi e fai clic su **Successivo**.
 
-![pi wizard password](images/piwiz3.PNG)
+![password del wizard pi](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Connettiti alla tua rete WiFi selezionando il suo nome, inserendo la password e facendo clic su **Successivo**.
 
-![pi wizard wifi](images/piwiz4.PNG)
+![wifi wizard pi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Nota:** se il tuo modello Raspberry Pi non ha connettività wireless, non vedrai questa schermata.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Fare clic su **Avanti** lasciare che la procedura guidata controlli gli aggiornamenti su Raspbian e li installi (potrebbe richiedere un po 'di tempo).
 
-![pi wizard updating](images/piwiz6.PNG)
+![aggiornamento wizard p](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Fare clic su **Fine** o **Riavvia** per completare l'installazione.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Nota:** sarà necessario riavviare solo se è necessario completare un aggiornamento.
 
-![pi wizard complete](images/piwiz7.PNG)
+![pi wizard completo](images/piwiz7.PNG)
