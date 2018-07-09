@@ -70,8 +70,8 @@ Ahududu Pi'nizi bir kutuya koymak isteyebilirsiniz. Bu gerekli değildir, ama Pi
 
 #### Kulaklık veya hoparlörler
 
-Büyük Raspberry Pi modelleri (Pi Zero / Zero W değil), akıllı telefonunuzdaki veya MP3 çalarınızdaki gibi standart bir ses portuna sahiptir. İsterseniz, kulaklıklarınızı veya hoparlörlerinizi Pi'nin ses çalabilmesi için bağlayabilirsiniz. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
+Büyük Raspberry Pi modelleri (Pi Zero / Zero W değil), akıllı telefonunuzdaki veya MP3 çalarınızdaki gibi standart bir ses portuna sahiptir. İsterseniz, kulaklıklarınızı veya hoparlörlerinizi Pi'nin ses çalabilmesi için bağlayabilirsiniz. Pi'nizi bağladığınız ekran dahili hoparlörlere sahipse, Pi bunlardan ses çalabilir.
 
-#### An Ethernet cable
+#### Bir Ethernet kablosu
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+Büyük Raspberry Pi modelleri (Pi Zero / Zero W değil), onları internete bağlamak için standart bir Ethernet portuna sahiptir. Bir Pi Zero'yu internete bağlamak için bir USB-Ethernet adaptörüne ihtiyacınız var. Raspberry Pi 3 ve Pi Zero W da internete kablosuz olarak bağlanabilir.
