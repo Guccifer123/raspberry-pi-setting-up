@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## Käynnistä Raspberry Pi
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+Vadelmasi Pi ei ole virtakytkintä: heti kun liität sen pistorasiaan, se kytkeytyy päälle. Huomaa, että Pi: n mikro-USB-virtalähteellä on pidempi tasainen puoli ylhäällä.
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ Liitä mikro-USB-virtalähde pistorasiaan ja liitä se Pi-laitteen virtaporttiin.
 
-![screenshot](images/pi-power.png)
+![kuvakaappaus](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+Sinun pitäisi nähdä punainen LED-merkkivalo Valaisimella Pi, mikä osoittaa, että Pi on kytketty virtalähteeseen. Kun se käynnistyy (tätä kutsutaan myös **käynnistykseksi**), näet vaaleita näytön vasemmassa yläkulmassa.
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![boot vadelmia](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Selaimesi ei tue WebM-videota, joten kokeile Firefoxia tai Chromea. </video> 
 
-\--- collapse \---
+\--- romahdus \---
 
 * * *
 
-## title: First-time startup with NOOBS
+## otsikko: Ensimmäinen käynnistys NOOBS: llä
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+Jos tämä on ensimmäinen kerta, kun käynnistät Raspberry Pi -puhelimesi NOOBS-muistikortilla, näet NOOBS-asennusohjelman. Tämä ohjelmisto vie sinut läpi asentamalla Raspbian-käyttöjärjestelmän (OS).
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ Kun asennusohjelma on ladattu, se tarjoaa sinulle mahdollisuuden valita asennettava käyttöjärjestelmä. Valitse ruutu **Raspbian**ja valitse sitten **Asenna**.
 
-![install](images/install.png)
+![Asentaa](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ Napsauta varoitusvalintaruudusta **Kyllä** ja sitten istu alas ja rentoudu. Raspbian-asennusprosessi kestää jonkin aikaa.
 
-![installing](images/installing.png)
+![asennus](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ Kun Raspbian on asennettu, valitse **OK**. Raspberry Pi käynnistyy uudelleen, ja Raspbian käynnistyy.
 
-![installed](images/installed.png)
+![asennetut](images/installed.png)
 
-\--- /collapse \---
+\--- / romahdus \---
 
-After a few seconds the Raspbian Desktop will appear.
+Muutaman sekunnin kuluttua näkyviin tulee Raspbian Desktop.
 
-![raspbian desktop](images/pi-desktop.jpg)
+![keskustelupalstalle](images/pi-desktop.jpg)
