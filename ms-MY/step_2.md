@@ -1,77 +1,77 @@
-## What you will need
+## Apa yang anda perlukan
 
-### Which Raspberry Pi?
+### Raspberry Pi mana?
 
-There are several [models of Raspberry Pi](https://www.raspberrypi.org/products/), and for most people the Raspberry Pi 3 Model B+ is the one to choose.
+Terdapat beberapa [model Raspberry Pi](https://www.raspberrypi.org/products/), dan bagi kebanyakan orang yang Raspberry Pi 3 Model B + adalah salah satu untuk memilih.
 
 ![Raspberry Pi 3](images/raspberry-pi.png)
 
-The Raspberry Pi 3 Model B+ is the newest, fastest, and easiest to use.
+Raspberry Pi 3 Model B + adalah yang terbaru, terpantas, dan paling mudah digunakan.
 
-The Raspberry Pi Zero and Zero W are smaller and require less power, so they're useful for portable projects such as robots. It's generally easier to start a project with the Raspberry Pi 3, and to move to the Pi Zero when you have a working prototype that the smaller Pi would be useful for.
+Raspberry Pi Zero dan Zero W lebih kecil dan memerlukan kuasa kurang, jadi ia berguna untuk projek mudah alih seperti robot. Secara amnya lebih mudah untuk memulakan projek dengan Raspberry Pi 3, dan berpindah ke Pi Zero apabila anda mempunyai prototaip kerja yang Pi yang lebih kecil akan berguna.
 
-If you want to buy a Raspberry Pi, head to [rpf.io/products](https://rpf.io/products).
+Jika anda ingin membeli Raspberry Pi, pergi ke [rpf.io/products](https://rpf.io/products).
 
-### A power supply
+### Bekalan kuasa
 
-To connect to a power socket, the Raspberry Pi has a micro USB port (the same found that's found on many mobile phones).
+Untuk menyambung ke soket kuasa, Raspberry Pi mempunyai port mikro USB (yang sama dijumpai yang terdapat di banyak telefon bimbit).
 
-You will need a power supply which provides at least 2.5 amps. We recommend using the [official Raspberry Pi power supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
+Anda memerlukan bekalan kuasa yang menyediakan sekurang-kurangnya 2.5 amps. Kami mengesyorkan menggunakan bekalan rasmi Raspberry Pi [rasmi](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
 
-![power supply](images/powersupply.png)
+![bekalan kuasa](images/powersupply.png)
 
-### A micro SD card
+### Kad SD mikro
 
-Your Raspberry Pi needs an SD card to store all its files and the Raspbian operating system.
+Raspberry Pi anda memerlukan kad SD untuk menyimpan semua failnya dan sistem operasi Raspbian.
 
-![sd card](images/pi-sd.png)
+![kad sd](images/pi-sd.png)
 
-You will need a micro SD card with a capacity of at least 8 GB.
+Anda memerlukan kad SD mikro dengan kapasiti sekurang-kurangnya 8 GB.
 
-Many sellers supply SD cards for Raspberry Pi that are already set up with Raspbian and ready to go.
+Ramai penjual membekalkan kad SD untuk Raspberry Pi yang sudah ditubuhkan dengan Raspbian dan bersedia untuk pergi.
 
-### A keyboard and a mouse
+### Papan kekunci dan tetikus
 
-To start using your Raspberry, you will need a USB keyboard and a USB mouse.
+Untuk mula menggunakan Raspberry anda, anda memerlukan papan kekunci USB dan tetikus USB.
 
-Once you've set your Pi up, you can use a Bluetooth keyboard and mouse, but you'll need a USB keyboard and mouse for setting up.
+Sebaik sahaja anda telah menetapkan Pi anda, anda boleh menggunakan papan kekunci dan tetikus Bluetooth, tetapi anda memerlukan papan kekunci USB dan tetikus untuk menyediakan.
 
-### A TV or computer screen
+### Skrin TV atau komputer
 
-To view the Raspbian desktop environment, you will need a screen and a cable to link the screen and the Pi. The screen can be a TV or a computer monitor. If the screen has built-in speakers, the Pi will be able to use these to play sound.
+Untuk melihat persekitaran desktop Raspbian, anda memerlukan skrin dan kabel untuk memautkan skrin dan Pi. Skrin boleh menjadi TV atau monitor komputer. Jika skrin mempunyai pembesar suara terbina dalam, Pi akan dapat menggunakannya untuk memainkan bunyi.
 
 #### HDMI
 
-The Raspberry Pi has a HDMI output port that is compatible with the HDMI port of most modern TVs and computer monitors. Many computer monitors may also have DVI or VGA ports.
+Raspberry Pi mempunyai port keluaran HDMI yang serasi dengan port HDMI TV paling moden dan monitor komputer. Ramai monitor komputer juga mungkin mempunyai port DVI atau VGA.
 
-![hdmi port](images/hdmi-port.png)
+![pelabuhan hdmi](images/hdmi-port.png)
 
 #### DVI
 
-If your screen has a DVI port, you can connect the Pi to it using a HDMI-to-DVI cable.
+Jika skrin anda mempunyai port DVI, anda boleh menyambungkan Pi itu menggunakan kabel HDMI-ke-DVI.
 
-![dvi port](images/dvi-port.png)
+![dvi pelabuhan](images/dvi-port.png)
 
 #### VGA
 
-Some screens only have a VGA port.
+Sesetengah skrin hanya mempunyai port VGA.
 
-![vga port](images/vga-port.png)
+![pelabuhan vga](images/vga-port.png)
 
-To connect your Pi to such a screen, you can use a HDMI-to-VGA adapter.
+Untuk menyambung Pi anda ke skrin sedemikian, anda boleh menggunakan penyesuai HDMI-ke-VGA.
 
-![hdmi to vga adapter port](images/hdmi-vga-adapter.png)
+![hdmi ke port penyesuai vga](images/hdmi-vga-adapter.png)
 
-### Optional extras
+### Tambahan pilihan
 
-#### A case
+#### Kes
 
-You may want to put your Raspberry Pi in a case. This is not essential, but it will provide protection for your Pi. If you'd like, you can use the official case for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) or [Pi Zero or Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+Anda mungkin mahu meletakkan Ras Raspberry Pi anda dalam kes. Ini tidak penting, tetapi ia akan memberi perlindungan kepada Pi anda. Jika anda mahu, anda boleh menggunakan kes rasmi untuk [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) atau [Pi Zero atau Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
 
-#### Headphones or speakers
+#### Fon kepala atau pembesar suara
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
+Model Raspberry Pi yang besar (bukan Pi Zero / Zero W) mempunyai port audio standard seperti yang ada di telefon pintar atau pemain MP3 anda. Sekiranya anda mahu, anda boleh menyambungkan fon kepala atau pembesar suara supaya Pi dapat bermain dengan bunyi. Jika skrin anda menyambungkan Pi anda untuk mempunyai pembesar suara terbina dalam, Pi boleh memainkan bunyi melalui ini.
 
-#### An Ethernet cable
+#### Kabel Ethernet
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+Model Raspberry Pi yang besar (bukan Pi Zero / Zero W) mempunyai port Ethernet standard untuk menyambungkannya ke internet. Untuk menyambungkan Pi Zero ke internet, anda perlu penyesuai USB-ke-Ethernet. Raspberry Pi 3 dan Pi Zero W juga boleh disambung secara wayarles ke web.
