@@ -1,31 +1,31 @@
 ## Afslut opsætningen
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Når du starter din Raspberry Pi for første gang, vil **Velkommen til Raspberry Pi** programmet komme op og guide dig igennem den oprindelige opsætning.
 
-![pi wizard](images/piwiz.gif)
+![pi guiden](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Klik på **Næste** at starte opsætningen.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Indstil din **Land**, **Sprog**og **Tidssone**, og klik derefter på **Næste** igen.
 
-![pi wizard country](images/piwiz2.PNG)
+![pi guiden land](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Indtast en ny adgangskode til din Raspberry Pi og klik på **Næste**.
 
 ![pi wizard password](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Opret forbindelse til dit WiFi-netværk ved at vælge sit navn, indtaste adgangskoden og klikke på **Næste**.
 
-![pi wizard wifi](images/piwiz4.PNG)
+![pi guiden wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Bemærk:** Hvis din Raspberry Pi-model ikke har trådløs forbindelse, kan du ikke se denne skærm.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Klik på **Næste** Lad guiden kontrollere opdateringer til Raspbian og installere dem (det kan tage lidt tid).
 
-![pi wizard updating](images/piwiz6.PNG)
+![pi guiden opdatering](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Klik **Færdig** eller **Genstart** at afslutte opsætningen.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Bemærk:** du skal kun genstarte, hvis det er nødvendigt for at fuldføre en opdatering.
 
-![pi wizard complete](images/piwiz7.PNG)
+![pi guiden fuldføre](images/piwiz7.PNG)
