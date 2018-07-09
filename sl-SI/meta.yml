@@ -1,0 +1,25 @@
+---
+title: Nastavitev vašega Raspberry Pi
+hero_image: images / banner.png
+description: Kako nastaviti in začeti vaš Pi prvič
+version: 4
+listed: true
+copyedit: true
+last_tested: "2018-05-16"
+steps:
+  - 
+    title: Uvod
+  - 
+    title: Kaj boste potrebovali
+  - 
+    title: Nastavite kartico SD
+  - 
+    title: Povežite svoj Pi
+  - 
+    title: Začnite svoj Pi
+  - 
+    title: Končajte nastavitev
+  - 
+    title: Kje najti pomoč
+  - 
+    title: Kaj je naslednje?
