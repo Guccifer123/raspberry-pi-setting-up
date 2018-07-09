@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## Porniți-vă Zmeura Pi
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+Zmeura dvs. Pi nu are un comutator de alimentare: de îndată ce o conectați la o priză, acesta va porni. Observați că portul de alimentare micro USB al lui Pi are o latură plană mai lungă în partea de sus.
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ Conectați o sursă de alimentare micro USB într-o priză și conectați-o la portul de alimentare al lui Pi.
 
-![screenshot](images/pi-power.png)
+![captură de ecran](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+Ar trebui să vedeți un LED roșu aprins pe Raspberry Pi, ceea ce indică faptul că Pi este conectat la alimentare. După cum se pornește (acest lucru este , de asemenea , numit **pornirea**), veți vedea zmeură apar în partea stângă sus a ecranului.
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![boabe de zmeură](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Browserul dvs. nu acceptă video WebM, prin urmare încercați FireFox sau Chrome. </video> 
 
-\--- collapse \---
+\--- colaps \---
 
 * * *
 
-## title: First-time startup with NOOBS
+## titlu: Prima pornire cu NOOBS
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+Dacă aceasta este prima dată când porniți Raspberry Pi cu o cartelă SD care conține NOOBS, veți vedea programul de instalare NOOBS. Acest software vă va ajuta să instalați sistemul de operare Raspbian (OS).
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ Când programul de instalare a fost încărcat, acesta vă va oferi posibilitatea de a alege ce sistem de operare să instalați. Bifați caseta pentru **Raspbian**, apoi faceți clic pe **Install**.
 
-![install](images/install.png)
+![instalare](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ Faceți clic pe **Da** în caseta de dialog de avertizare, apoi stați pe spate și relaxați-vă. Procesul de instalare Raspbian va dura un pic de timp.
 
-![installing](images/installing.png)
+![Instalarea](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ Când Raspbian a fost instalat, faceți clic pe **OK**. Raspberry Pi se va reporni, iar Raspbian va incepe din nou.
 
-![installed](images/installed.png)
+![instalat](images/installed.png)
 
-\--- /collapse \---
+\--- / colaps \---
 
-After a few seconds the Raspbian Desktop will appear.
+După câteva secunde, va apărea Desktop Raspbian.
 
 ![raspbian desktop](images/pi-desktop.jpg)
