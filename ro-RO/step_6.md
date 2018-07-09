@@ -1,31 +1,31 @@
 ## Finalizați configurarea
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Când începe dvs. Raspberry Pi pentru prima dată, **Bun venit la Zmeura Pi** cerere va apărea și ghida prin configurarea inițială.
 
-![pi wizard](images/piwiz.gif)
+![pi asistent](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Faceți clic pe **Următorul** pentru a începe configurarea.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Setați **Țară**, **limbă**și **Timezone**, apoi faceți clic pe **Urmatorul** din nou.
 
-![pi wizard country](images/piwiz2.PNG)
+![pi wizard țară](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Introduceți o nouă parolă pentru Raspberry Pi și faceți clic pe **Următorul**.
 
-![pi wizard password](images/piwiz3.PNG)
+![pi wizard parola](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Conectați-vă la rețeaua Wi-Fi selectând numele, introduceți parola și făcând clic pe **Următorul**.
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Notă:** dacă modelul dvs. Raspberry Pi nu are conectivitate wireless, nu veți vedea acest ecran.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Faceți clic pe **Înainte** , expertul verifică actualizările pentru Raspbian și le instala (acest lucru poate dura puțin).
 
-![pi wizard updating](images/piwiz6.PNG)
+![Actualizarea expertului pi](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Faceți clic pe **Done** sau **Repornirea** pentru a termina configurarea.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Notă:** va trebui să reporniți numai dacă este necesar pentru a finaliza o actualizare.
 
 ![pi wizard complete](images/piwiz7.PNG)
