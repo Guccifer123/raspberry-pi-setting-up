@@ -1,11 +1,11 @@
-## Where to find help
+## 도움을 얻을 수있는 곳
 
-If you're having problems with your Pi, there are lots of ways you can get help and advice:
+Pi에 문제가있는 경우 도움말 및 조언을 얻을 수있는 방법이 많이 있습니다.
 
-+ Check out the [help section](https://www.raspberrypi.org/help/) and the [troubleshooting guide](https://www.raspberrypi.org/learning/troubleshooting-guide/) on the Raspberry Pi website
++ Raspberry Pi 웹 사이트의 [도움말 섹션](https://www.raspberrypi.org/help/) 및 [문제 해결 가이드](https://www.raspberrypi.org/learning/troubleshooting-guide/) 을 확인하십시오.
 
-+ The [Raspberry Pi forum](https://www.raspberrypi.org/forums), including the [Beginners](https://www.raspberrypi.org/forums/viewforum.php?f=91) section, is a great place to ask questions and get support from the Raspberry Pi community
++ [초심자](https://www.raspberrypi.org/forums/viewforum.php?f=91) 단면도를 포함하여 [나무 딸기 Pi 공개 토론](https://www.raspberrypi.org/forums), 질문을 질문하고 나무 딸기 Pi 지역 사회에게서 지원을 얻는 중대한 장소이다
 
-+ Call out on [Twitter](https://twitter.com) using the hashtag #rpilearn, or submit a question on the [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
++ 해시 태그 #rpilearn을 사용하여 [트위터](https://twitter.com) 에서 전화를 걸거나 [라즈베리 파이 스택 교환](https://raspberrypi.stackexchange.com/)에서 질문을 제출하십시오.
 
-+ You could also attend a free [Raspberry Jam](https://rpf.io/jam) community event to talk to people about their experiences and get some first-hand help from fellow Raspberry Pi users
++ 또한 무료 [라스베리 잼](https://rpf.io/jam) 커뮤니티 이벤트에 참석하여 사람들에게 경험에 대해 이야기하고 동료 라스베리 파이 사용자로부터 직접 도움을 얻을 수 있습니다.
