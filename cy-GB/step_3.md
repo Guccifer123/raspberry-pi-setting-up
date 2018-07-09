@@ -1,53 +1,53 @@
 ## Gosodwch eich cerdyn SD
 
-If you have an SD card that doesn't have the Raspbian operating system on it yet, or if you want to reset your Raspberry Pi, you can easily install Raspbian yourself. To do so, you need a computer that has an SD card port — most laptop and desktop computers have one.
+Os oes gennych gerdyn SD nad oes ganddo'r system weithredu Raspbian arno eto, neu os ydych am ailosod eich Mws Môr, gallwch chi osod Raspbian eich hun yn rhwydd. I wneud hynny, mae arnoch angen cyfrifiadur sydd â phorthladd cerdyn SD - mae gan y rhan fwyaf o gyfrifiaduron laptop a bwrdd gwaith un.
 
-### The Raspbian operating system via NOOBS
+### Y system weithredu Raspbian trwy NOOBS
 
-Using the NOOBS software is the easiest way to install Raspbian on your SD card.
+Defnyddio meddalwedd NOOBS yw'r ffordd hawsaf i osod Raspbian ar eich cerdyn SD.
 
-#### Download NOOBS
+#### Lawrlwythwch NOOBS
 
-+ Visit the [Raspberry Pi downloads page](https://www.raspberrypi.org/downloads).
++ Ewch i dudalennau downloads [Raspberry Pi tudalen](https://www.raspberrypi.org/downloads).
 
-![Downloads page](images/downloads-page.png)
+![Tudalen lwytho i lawr](images/downloads-page.png)
 
-+ You should see a box linking to the NOOBS files. Click on the box.
++ Dylech weld blwch sy'n cysylltu â ffeiliau NOOBS. Cliciwch ar y blwch.
 
-![Click on NOOBS](images/click-noobs.png)
+![Cliciwch ar NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files. Make sure to pay attention to where you save the archive, so that you can find it again quickly.
++ Yr opsiwn symlaf yw lawrlwytho archif zip y ffeiliau. Gwnewch yn siŵr eich bod yn talu sylw i ble rydych chi'n achub yr archif, fel y gallwch ddod o hyd iddo eto'n gyflym.
 
-![Download zip](images/download-zip.png)
+![Lawrlwythwch zip](images/download-zip.png)
 
-#### Format the SD card
+#### Fformat y cerdyn SD
 
-Anything that's stored on the SD card will be overwritten during formatting. So if the SD card on which you want to install Raspbian currently has any files on it, e.g. from an older version of Raspbian, you may wish to back these files up first to not lose them permanently.
+Bydd unrhyw beth sy'n cael ei storio ar y cerdyn SD yn cael ei orysgrifennu wrth fformatio. Felly, os oes gan y cerdyn SD yr ydych am osod Raspbian arno ar hyn o bryd unrhyw ffeiliau arno, ee o fersiwn hŷn o Raspbian, efallai y byddwch am adfer y ffeiliau hyn yn gyntaf i beidio â'u colli'n barhaol.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Ewch i wefan y Gymdeithas SD a lawrlwythwch [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) gyfer Windows neu Mac.
 
-+ Follow the instructions to install the software.
++ Dilynwch y cyfarwyddiadau i osod y meddalwedd.
 
-+ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Rhowch eich cerdyn SD i mewn i slot y cerdyn SD cyfrifiadur neu laptop a gwnewch nodyn o'r llythyr gyrru a ddyrennir iddo ee `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and the format the card.
++ Yn SD Formatter, dewiswch y llythyr gyrru ar gyfer eich cerdyn SD, a ffurf y cerdyn.
 
-#### Extract NOOBS from the zip archive
+#### Detholwch NOOBS o'r archif zip
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Nesaf, bydd angen i chi dynnu'r ffeiliau o'r archif zip NOOBS a'ch lawrlwythwyd o wefan y Mws Coch.
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ Dod o hyd i'r archif wedi'i lawrlwytho - yn ddiofyn, dylai fod yn eich ffolder `Downloads`.
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ Dwbl-gliciwch arno i dynnu'r ffeiliau, a chadw'r ffenestr Explorer / Finder sy'n deillio ohono ar agor.
 
-#### Copy the files
+#### Copïwch y ffeiliau
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Nawr agorwch ffenestr Explorer / Finder arall ac ewch i'r cerdyn SD. Y peth gorau yw gosod y ddwy ffenestr ochr yn ochr.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ Dewiswch yr holl ffeiliau yn y ffolder `NOOBS` a'u llusgo i mewn i'r ffenestr cerdyn SD i'w copïo i'r cerdyn.
 
-![windows copy](images/copy3.png)
+![copi ffenestri](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![copi macos](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ Unwaith y bydd y ffeiliau wedi'u copïo i gyd, gallwch chi dynnu'r cerdyn SD allan.
