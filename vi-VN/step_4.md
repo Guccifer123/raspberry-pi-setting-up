@@ -1,37 +1,37 @@
-## Connect your Raspberry Pi
+## Kết nối Raspberry Pi của bạn
 
-Let's get everything connected. It's important to do this in the right order, so that all your components are safe.
+Hãy kết nối mọi thứ. Điều quan trọng là làm điều này theo đúng thứ tự, để tất cả các thành phần của bạn được an toàn.
 
-![pi connections](images/pi-labelled.png)
+![pi kết nối](images/pi-labelled.png)
 
-+ Insert the SD card you've set up with Raspbian (via NOOBS) into the micro SD card slot at the underside of your Pi. 
++ Lắp thẻ SD bạn đã thiết lập với Raspbian (qua NOOBS) vào khe cắm thẻ micro SD ở mặt dưới của Pi của bạn. 
 
 ![thẻ SD](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+**Lưu ý:** Rất nhiều thẻ micro SD sẽ đến bên trong một bộ chuyển đổi lớn hơn - bạn có thể trượt thẻ ra bằng cách sử dụng môi ở phía dưới.
 
-![sd card holder](images/sd-card-holder.png)
+![chủ thẻ sd](images/sd-card-holder.png)
 
-+ Find the USB cable for your mouse, and connect the mouse to a USB port on the Raspberry Pi (it doesn't matter which one).
++ Tìm cáp USB cho chuột của bạn và kết nối chuột với cổng USB trên Raspberry Pi (không quan trọng cái nào).
 
-![mouse](images/pi-mouse.png)
+![chuột](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Kết nối bàn phím theo cùng một cách.
 
-![keyboard](images/pi-keyboard.png)
+![bàn phím](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large, flat side on top.
++ Nhìn vào cổng HDMI trên Raspberry Pi - thông báo rằng nó có một mặt phẳng lớn ở trên cùng.
 
 ![hdmi](images/pi-hdmi.png)
 
-+ Make sure your screen is plugged into a wall socket and turned on. Use a cable to connect the screen to the Pi's HDMI port — use an adapter if necessary.
++ Đảm bảo màn hình của bạn được cắm vào ổ điện và bật. Sử dụng cáp để kết nối màn hình với cổng HDMI của Pi - sử dụng bộ chuyển đổi nếu cần.
 
-**Note:** nothing will display on the screen, because the Pi is not running yet.
+**Lưu ý:** không có gì sẽ hiển thị trên màn hình, vì Pi chưa chạy.
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ Nếu bạn muốn kết nối Pi với internet qua Ethernet, hãy sử dụng cáp Ethernet để kết nối cổng Ethernet trên Raspberry Pi với ổ cắm Ethernet trên tường hoặc trên bộ định tuyến internet của bạn. Bạn không cần phải làm điều này nếu bạn đang sử dụng WiFi hoặc nếu bạn không muốn kết nối với internet.
 
 ![ethernet](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ Âm thanh sẽ phát ra từ màn hình của bạn nếu nó có loa hoặc bạn có thể kết nối tai nghe hoặc loa với giắc âm thanh nếu bạn có chúng.
 
-![headphones](images/pi-headphones.png)
+![tai nghe](images/pi-headphones.png)
