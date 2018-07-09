@@ -1,11 +1,11 @@
-## Where to find help
+## Di mana menemukan bantuan
 
-If you're having problems with your Pi, there are lots of ways you can get help and advice:
+Jika Anda mengalami masalah dengan Pi Anda, ada banyak cara Anda bisa mendapatkan bantuan dan saran:
 
-+ Check out the [help section](https://www.raspberrypi.org/help/) and the [troubleshooting guide](https://www.raspberrypi.org/learning/troubleshooting-guide/) on the Raspberry Pi website
++ Lihat bagian [bantuan](https://www.raspberrypi.org/help/) dan [panduan pemecahan masalah](https://www.raspberrypi.org/learning/troubleshooting-guide/) di situs web Raspberry Pi
 
-+ The [Raspberry Pi forum](https://www.raspberrypi.org/forums), including the [Beginners](https://www.raspberrypi.org/forums/viewforum.php?f=91) section, is a great place to ask questions and get support from the Raspberry Pi community
++ Forum [Raspberry Pi](https://www.raspberrypi.org/forums), termasuk [Pemula](https://www.raspberrypi.org/forums/viewforum.php?f=91) bagian, adalah tempat yang tepat untuk mengajukan pertanyaan dan mendapatkan dukungan dari komunitas Raspberry Pi
 
-+ Call out on [Twitter](https://twitter.com) using the hashtag #rpilearn, or submit a question on the [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
++ Sebut di [Twitter](https://twitter.com) menggunakan hashtag #rpilearn, atau kirimkan pertanyaan di [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
 
-+ You could also attend a free [Raspberry Jam](https://rpf.io/jam) community event to talk to people about their experiences and get some first-hand help from fellow Raspberry Pi users
++ Anda juga dapat menghadiri acara komunitas [Raspberry Jam](https://rpf.io/jam) untuk berbicara dengan orang-orang tentang pengalaman mereka dan mendapatkan bantuan langsung dari sesama pengguna Raspberry Pi
