@@ -1,37 +1,37 @@
-## Connect your Raspberry Pi
+## Ahududu Pi'nizi bağlayın
 
-Let's get everything connected. It's important to do this in the right order, so that all your components are safe.
+Hadi her şeyi birbirine bağlayalım. Bunu doğru sırada yapmak önemlidir, böylece tüm bileşenleriniz güvende olur.
 
-![pi connections](images/pi-labelled.png)
+![pi bağlantıları](images/pi-labelled.png)
 
-+ Insert the SD card you've set up with Raspbian (via NOOBS) into the micro SD card slot at the underside of your Pi. 
++ Raspbian ile oluşturduğunuz SD kartını (NOOBS aracılığıyla) Pi'nizin alt tarafındaki micro SD kart yuvasına takın. 
 
 ![hafıza kartı](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+**Not:** Çok sayıda mikro SD kart daha büyük bir adaptörün içine girecektir - kartı alt kısımdaki dudağı kullanarak kaydırabilirsiniz.
 
-![sd card holder](images/sd-card-holder.png)
+![sd kart sahibinin](images/sd-card-holder.png)
 
-+ Find the USB cable for your mouse, and connect the mouse to a USB port on the Raspberry Pi (it doesn't matter which one).
++ Fareniz için USB kablosunu bulun ve fareyi Raspberry Pi'deki bir USB portuna bağlayın (hangisi önemli değil).
 
-![mouse](images/pi-mouse.png)
+![fare](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Klavyeyi aynı şekilde bağlayın.
 
-![keyboard](images/pi-keyboard.png)
+![tuş takımı](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large, flat side on top.
++ Raspberry Pi'deki HDMI portuna bakın - üstte büyük, düz bir tarafa sahip olduğuna dikkat edin.
 
 ![hdmi](images/pi-hdmi.png)
 
-+ Make sure your screen is plugged into a wall socket and turned on. Use a cable to connect the screen to the Pi's HDMI port — use an adapter if necessary.
++ Ekranınızın bir duvar prizine takılı ve açık olduğundan emin olun. Ekranı Pi'nin HDMI bağlantı noktasına bağlamak için bir kablo kullanın - gerekirse bir adaptör kullanın.
 
-**Note:** nothing will display on the screen, because the Pi is not running yet.
+**Not:** Pi ekranda çalışmadığı için ekranda hiçbir şey görüntülenmeyecektir.
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ Pi'yi Ethernet üzerinden internete bağlamak isterseniz, Raspberry Pi üzerindeki Ethernet portunu duvardaki veya internet yönlendiricinizdeki bir Ethernet soketine bağlamak için bir Ethernet kablosu kullanın. WiFi kullanacaksanız veya internete bağlanmak istemiyorsanız bunu yapmanız gerekmez.
 
 ![ethernet](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ Hoparlörler varsa, sesiniz ekranınızdan gelecektir ya da varsa ses jakına kulaklık veya hoparlör bağlayabilirsiniz.
 
-![headphones](images/pi-headphones.png)
+![kulaklık](images/pi-headphones.png)
