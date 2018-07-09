@@ -1,7 +1,7 @@
-## Introduction
+## परिचय
 
-Here you'll learn about your Raspberry Pi, what things you need to use it, and how to set it up.
+यहां आप अपने रास्पबेरी पी के बारे में जानेंगे, आपको इसका उपयोग करने के लिए क्या चीजें चाहिए, और इसे कैसे सेट अप करें।
 
-![plug in the pi](images/pi-plug-in.gif)
+![पीआई में प्लग करें](images/pi-plug-in.gif)
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){:target="_blank"}.
+यदि आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृपया [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){: target = "_ blank"} का उपयोग करें।
