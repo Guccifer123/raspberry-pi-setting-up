@@ -1,77 +1,77 @@
-## What you will need
+## あなたが必要とするもの
 
-### Which Raspberry Pi?
+### どのラズベリーパイ？
 
-There are several [models of Raspberry Pi](https://www.raspberrypi.org/products/), and for most people the Raspberry Pi 3 Model B+ is the one to choose.
+ラズベリーパイ</a>いくつかの モデルがあり、ほとんどの人にとって、ラズベリーパイ3モデルB +は選択するものです。</p> 
 
-![Raspberry Pi 3](images/raspberry-pi.png)
+![ラズベリーパイ3](images/raspberry-pi.png)
 
-The Raspberry Pi 3 Model B+ is the newest, fastest, and easiest to use.
+ラズベリーパイ3モデルB +は、最新の、最も速く、使いやすいです。
 
-The Raspberry Pi Zero and Zero W are smaller and require less power, so they're useful for portable projects such as robots. It's generally easier to start a project with the Raspberry Pi 3, and to move to the Pi Zero when you have a working prototype that the smaller Pi would be useful for.
+ラズベリーパイゼロとゼロWは小さく、消費電力が少なくて済み、ロボットなどのポータブルプロジェクトに便利です。 一般的には、Raspberry Pi 3を使ってプロジェクトを開始し、小さいPiが役に立つプロトタイプを作ったときにPi Zeroに移動する方が簡単です。
 
-If you want to buy a Raspberry Pi, head to [rpf.io/products](https://rpf.io/products).
+あなたはラズベリーパイを購入したい場合は、頭に [rpf.io/products](https://rpf.io/products)。
 
-### A power supply
+### 電源
 
-To connect to a power socket, the Raspberry Pi has a micro USB port (the same found that's found on many mobile phones).
+電源ソケットに接続するには、Raspberry PiにマイクロUSBポート（多くの携帯電話で見られるものと同じものがあります）があります。
 
-You will need a power supply which provides at least 2.5 amps. We recommend using the [official Raspberry Pi power supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
+少なくとも2.5アンペアを供給する電源が必要です。 私たちは、使用することをお勧め [公式ラズベリーパイ電源](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/)。
 
-![power supply](images/powersupply.png)
+![電源](images/powersupply.png)
 
-### A micro SD card
+### マイクロSDカード
 
-Your Raspberry Pi needs an SD card to store all its files and the Raspbian operating system.
+あなたのラズベリーパイには、すべてのファイルとRaspbianオペレーティングシステムを保存するためのSDカードが必要です。
 
-![sd card](images/pi-sd.png)
+![SDカード](images/pi-sd.png)
 
-You will need a micro SD card with a capacity of at least 8 GB.
+少なくとも8 GBの容量のマイクロSDカードが必要です。
 
-Many sellers supply SD cards for Raspberry Pi that are already set up with Raspbian and ready to go.
+多くの売り手が既にRaspbianに設定されており、準備が整ったラズベリーパイのSDカードを提供しています。
 
-### A keyboard and a mouse
+### キーボードとマウス
 
-To start using your Raspberry, you will need a USB keyboard and a USB mouse.
+ラズベリーの使用を開始するには、USBキーボードとUSBマウスが必要です。
 
-Once you've set your Pi up, you can use a Bluetooth keyboard and mouse, but you'll need a USB keyboard and mouse for setting up.
+Piを設定したら、Bluetoothキーボードとマウスを使用できますが、セットアップにはUSBキーボードとマウスが必要です。
 
-### A TV or computer screen
+### テレビまたはコンピュータ画面
 
-To view the Raspbian desktop environment, you will need a screen and a cable to link the screen and the Pi. The screen can be a TV or a computer monitor. If the screen has built-in speakers, the Pi will be able to use these to play sound.
+Raspbianデスクトップ環境を表示するには、画面とPiをリンクするための画面とケーブルが必要です。 画面は、テレビまたはコンピュータのモニタにすることができます。 画面にスピーカーが内蔵されている場合、Piはこれらを使用してサウンドを再生することができます。
 
 #### HDMI
 
-The Raspberry Pi has a HDMI output port that is compatible with the HDMI port of most modern TVs and computer monitors. Many computer monitors may also have DVI or VGA ports.
+ラズベリーパイには、最新のテレビやコンピュータモニターのHDMIポートと互換性のあるHDMI出力ポートがあります。 多くのコンピュータモニタにはDVIまたはVGAポートがあります。
 
-![hdmi port](images/hdmi-port.png)
+![hdmiポート](images/hdmi-port.png)
 
 #### DVI
 
-If your screen has a DVI port, you can connect the Pi to it using a HDMI-to-DVI cable.
+画面にDVIポートがある場合は、HDMI-DVIケーブルを使用してPiを接続することができます。
 
-![dvi port](images/dvi-port.png)
+![dviポート](images/dvi-port.png)
 
 #### VGA
 
-Some screens only have a VGA port.
+一部の画面にはVGAポートしかありません。
 
-![vga port](images/vga-port.png)
+![vgaポート](images/vga-port.png)
 
-To connect your Pi to such a screen, you can use a HDMI-to-VGA adapter.
+Piをそのような画面に接続するには、HDMI-VGAアダプタを使用します。
 
-![hdmi to vga adapter port](images/hdmi-vga-adapter.png)
+![hdmiからvgaへのアダプタポート](images/hdmi-vga-adapter.png)
 
-### Optional extras
+### オプションのエキストラ
 
-#### A case
+#### ケース
 
-You may want to put your Raspberry Pi in a case. This is not essential, but it will provide protection for your Pi. If you'd like, you can use the official case for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) or [Pi Zero or Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+ラズベリーパイをケースに入れたい場合があります。 これは必須ではありませんが、あなたのパイを保護します。 あなたが望むなら、 [ラズベリーパイ3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) または [パイゼロまたはゼロW](https://www.raspberrypi.org/products/raspberry-pi-zero-case/)の公式のケースを使用することができます。
 
-#### Headphones or speakers
+#### ヘッドフォンまたはスピーカー
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
+ラズベリーの大きなPiモデル（Pi Zero / Zero Wではなく）には、スマートフォンやMP3プレーヤーのような標準的なオーディオポートがあります。 必要に応じて、ヘッドフォンやスピーカーを接続してPiで音が鳴るようにすることができます。 あなたのPiに接続しているスクリーンに内蔵スピーカーがある場合、Piはこれを使ってサウンドを再生できます。
 
-#### An Ethernet cable
+#### イーサネットケーブル
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+ラズベリーの大型Piモデル（Pi Zero / Zero Wではない）には、インターネットに接続するための標準的なイーサネットポートがあります。 Pi Zeroをインターネットに接続するには、USB-to-Ethernetアダプタが必要です。 Raspberry Pi 3とPi Zero Wはウェブにワイヤレスで接続することもできます。
