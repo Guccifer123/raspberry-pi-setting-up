@@ -1,31 +1,31 @@
 ## پایان دادن به پایان
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+هنگامی که Raspberry Pi را برای اولین بار شروع می کنید، **Welcome to Raspberry Pi** می شود و شما را از طریق راه اندازی اولیه راهنمایی می کند.
 
-![pi wizard](images/piwiz.gif)
+![پی جی جادو](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ کلیک کنید **بعدی** برای شروع راه اندازی.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ **کشور**، **زبان**و **منطقه**، سپس **بعدی** دوباره کلیک کنید.
 
-![pi wizard country](images/piwiz2.PNG)
+![کشور جادوگری pi](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ رمز عبور جدیدی برای شما تمشک پی را وارد کنید و کلیک کنید **بعد**.
 
-![pi wizard password](images/piwiz3.PNG)
+![رمز عبور جادوگر pi](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
-
-![pi wizard wifi](images/piwiz4.PNG)
-
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
-
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
-
-![pi wizard updating](images/piwiz6.PNG)
-
-+ Click **Done** or **Reboot** to finish the setup.
-
-**Note:** you will only need to reboot if that's necessary to complete an update.
-
-![pi wizard complete](images/piwiz7.PNG)
++ با انتخاب نام آن، وارد کردن گذرواژه و کلیک روی **به شبکه Wi-Fi خود، ** کلیک کنید.**بعدی.</li> </ul> 
+    
+    ![فی جادوگر](images/piwiz4.PNG)
+    
+    **توجه:** اگر مدل Raspberry Pi شما اتصال بی سیم ندارد، این صفحه را نمی بینید.
+    
+    + کلیک کنید **بعد** اجازه دهید جادوگر بررسی برای به روز رسانی به Raspbian و نصب آنها (ممکن است کمی طول بکشد).
+    
+    ![جی جی پی به روز رسانی](images/piwiz6.PNG)
+    
+    + کلیک کنید **انجام** یا **راه اندازی مجدد** برای پایان دادن به راه اندازی.
+    
+    **توجه:** شما فقط نیاز به راه اندازی مجدد اگر لازم است برای تکمیل به روز رسانی.
+    
+    ![جادوگر پی کامل](images/piwiz7.PNG)
