@@ -1,7 +1,7 @@
-## Introduction
+## Uvod
 
-Here you'll learn about your Raspberry Pi, what things you need to use it, and how to set it up.
+Ovdje ćete saznati više o vašem malom piću, o tome što vam je potrebno i kako ga postaviti.
 
-![plug in the pi](images/pi-plug-in.gif)
+![uključite pi](images/pi-plug-in.gif)
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){:target="_blank"}.
+Ako je potrebno ispisati ovaj projekt, koristite [Inačica za ispis](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){: target = „_ blank”}.
