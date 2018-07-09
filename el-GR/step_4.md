@@ -1,37 +1,37 @@
-## Connect your Raspberry Pi
+## Συνδέστε το Raspberry Pi
 
-Let's get everything connected. It's important to do this in the right order, so that all your components are safe.
+Ας πάρουμε τα πάντα συνδεδεμένα. Είναι σημαντικό να το κάνετε αυτό με τη σωστή σειρά, έτσι ώστε όλα τα στοιχεία σας να είναι ασφαλή.
 
-![pi connections](images/pi-labelled.png)
+![pi](images/pi-labelled.png)
 
-+ Insert the SD card you've set up with Raspbian (via NOOBS) into the micro SD card slot at the underside of your Pi. 
++ Τοποθετήστε την κάρτα SD που έχετε ρυθμίσει με το Raspbian (μέσω NOOBS) στην υποδοχή κάρτας micro SD στην κάτω πλευρά του Pi. 
 
-![sd card](images/pi-sd.png)
+![κάρτα SD](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+**Σημείωση:** Πολλές κάρτες micro SD θα μπαίνουν μέσα σε ένα μεγαλύτερο προσαρμογέα - μπορείτε να σύρετε την κάρτα έξω χρησιμοποιώντας το χείλος στο κάτω μέρος.
 
-![sd card holder](images/sd-card-holder.png)
+![sd κάτοχος κάρτας](images/sd-card-holder.png)
 
-+ Find the USB cable for your mouse, and connect the mouse to a USB port on the Raspberry Pi (it doesn't matter which one).
++ Βρείτε το καλώδιο USB για το ποντίκι σας και συνδέστε το ποντίκι σε μια θύρα USB στο Raspberry Pi (δεν έχει σημασία ποια).
 
-![mouse](images/pi-mouse.png)
+![ποντίκι](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Συνδέστε το πληκτρολόγιο με τον ίδιο τρόπο.
 
-![keyboard](images/pi-keyboard.png)
+![πληκτρολόγιο](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large, flat side on top.
++ Κοιτάξτε τη θύρα HDMI στο Raspberry Pi - παρατηρήστε ότι έχει μια μεγάλη επίπεδη πλευρά στην κορυφή.
 
 ![hdmi](images/pi-hdmi.png)
 
-+ Make sure your screen is plugged into a wall socket and turned on. Use a cable to connect the screen to the Pi's HDMI port — use an adapter if necessary.
++ Βεβαιωθείτε ότι η οθόνη σας είναι συνδεδεμένη σε πρίζα και είναι ενεργοποιημένη. Χρησιμοποιήστε ένα καλώδιο για να συνδέσετε την οθόνη στη θύρα HDMI της Pi - χρησιμοποιήστε έναν προσαρμογέα εάν είναι απαραίτητο.
 
-**Note:** nothing will display on the screen, because the Pi is not running yet.
+**Σημείωση:** τίποτα δεν θα εμφανιστεί στην οθόνη, επειδή το Pi δεν εκτελείται ακόμα.
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ Εάν θέλετε να συνδέσετε το Pi στο διαδίκτυο μέσω Ethernet, χρησιμοποιήστε ένα καλώδιο Ethernet για να συνδέσετε τη θύρα Ethernet στο Raspberry Pi σε μια πρίζα Ethernet στον τοίχο ή στον δρομολογητή Internet. Δεν χρειάζεται να το κάνετε αυτό εάν χρησιμοποιείτε WiFi ή εάν δεν θέλετε να συνδεθείτε στο διαδίκτυο.
 
 ![ethernet](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ Ο ήχος θα προέλθει από την οθόνη σας εάν έχει ηχεία ή μπορείτε να συνδέσετε ακουστικά ή ηχεία στην υποδοχή ήχου, αν τα έχετε.
 
-![headphones](images/pi-headphones.png)
+![ακουστικά](images/pi-headphones.png)
