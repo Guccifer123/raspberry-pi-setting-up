@@ -1,31 +1,31 @@
-## Finish the setup
+## 설정 완료
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+처음으로 Raspberry Pi를 시작하면 **Raspberry Pi** 응용 프로그램이 시작되어 초기 설정을 안내합니다.
 
-![pi wizard](images/piwiz.gif)
+![파이 마법사](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ **Next (다음)** 을 클릭하여 설정을 시작합니다.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ **국가**, **언어**및 **시간대**를 설정 한 다음 **다음** 다시 클릭하십시오.
 
-![pi wizard country](images/piwiz2.PNG)
+![파이 마법사 국가](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Raspberry Pi의 새 암호를 입력하고 **클릭하십시오. 다음**.
 
-![pi wizard password](images/piwiz3.PNG)
+![파이 마법사 암호](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ 이름을 선택하고 비밀번호를 입력 한 다음 **클릭하여 Wi-Fi 네트워크에 연결합니다. 다음**.
 
-![pi wizard wifi](images/piwiz4.PNG)
+![파이 마법사 wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**주 :** 당신의 라즈베리 파이 모델에 무선 연결이없는 경우,이 화면이 표시되지 않습니다.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ **클릭하십시오. 다음을 클릭하십시오.** 마법사가 Raspbian에 대한 업데이트를 확인하고 설치하십시오 (약간의 시간이 소요될 수 있음).
 
-![pi wizard updating](images/piwiz6.PNG)
+![파이 마법사 업데이트](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ **완료** 또는 **재부팅** 을 클릭하여 설정을 완료하십시오.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**참고 :** 업데이트를 완료하는 데 필요한 경우 재부팅 만하면됩니다.
 
-![pi wizard complete](images/piwiz7.PNG)
+![파이 마법사 완료](images/piwiz7.PNG)
