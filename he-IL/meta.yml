@@ -1,25 +1,25 @@
 ---
-title: Setting up your Raspberry Pi
-hero_image: images/banner.png
-description: How to set up and start your Pi for the first time
+title: הגדרת Pi שלך פטל
+hero_image: תמונות / banner.png
+description: כיצד להגדיר ולהתחיל את פי בפעם הראשונה
 version: 4
 listed: true
 copyedit: true
 last_tested: "2018-05-16"
 steps:
   - 
-    title: Introduction
+    title: מבוא
   - 
-    title: What you will need
+    title: מה שאתה תצטרך
   - 
-    title: Set up your SD card
+    title: הגדר את כרטיס ה- SD שלך
   - 
-    title: Connect your Pi
+    title: חבר- Pi me
   - 
-    title: Start up your Pi
+    title: התחל את פיי
   - 
-    title: Finish the setup
+    title: סיים את ההתקנה
   - 
-    title: Where to find help
+    title: היכן ניתן למצוא עזרה
   - 
-    title: What next?
+    title: מה הלאה?
