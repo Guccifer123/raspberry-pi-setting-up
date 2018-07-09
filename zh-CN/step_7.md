@@ -1,11 +1,11 @@
-## Where to find help
+## 哪里可以找到帮助
 
-If you're having problems with your Pi, there are lots of ways you can get help and advice:
+如果你的Pi有问题，有很多方法可以获得帮助和建议：
 
-+ Check out the [help section](https://www.raspberrypi.org/help/) and the [troubleshooting guide](https://www.raspberrypi.org/learning/troubleshooting-guide/) on the Raspberry Pi website
++ 查看Raspberry Pi网站上的 [帮助部分](https://www.raspberrypi.org/help/) 和 [故障排除指南](https://www.raspberrypi.org/learning/troubleshooting-guide/)
 
-+ The [Raspberry Pi forum](https://www.raspberrypi.org/forums), including the [Beginners](https://www.raspberrypi.org/forums/viewforum.php?f=91) section, is a great place to ask questions and get support from the Raspberry Pi community
++ [Raspberry Pi论坛](https://www.raspberrypi.org/forums)，包括 [初学者](https://www.raspberrypi.org/forums/viewforum.php?f=91) 部分，是提出问题并获得Raspberry Pi社区支持的好地方
 
-+ Call out on [Twitter](https://twitter.com) using the hashtag #rpilearn, or submit a question on the [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
++ 使用#rpilearn标签在 [Twitter](https://twitter.com) 上呼叫，或在 [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)上提交问题
 
-+ You could also attend a free [Raspberry Jam](https://rpf.io/jam) community event to talk to people about their experiences and get some first-hand help from fellow Raspberry Pi users
++ 您还可以参加免费的 [Raspberry Jam](https://rpf.io/jam) 社区活动，与人们讨论他们的体验，并获得Raspberry Pi用户的第一手帮助
