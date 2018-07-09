@@ -1,31 +1,31 @@
 ## Завершите настройку
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Когда вы впервые запустите свою малину Pi, появится приложение **Welcome to Raspberry Pi** и проведет вас через начальную настройку.
 
 ![pi wizard](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Нажмите **Далее** чтобы начать настройку.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Установите **Страна**, **Язык**и **Часовой пояс**, затем нажмите **Далее** снова.
 
-![pi wizard country](images/piwiz2.PNG)
+![страна мастера pi](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Введите новый пароль для вашей малины Pi и нажмите **Далее**.
 
-![pi wizard password](images/piwiz3.PNG)
+![пароль мастера pi](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Подключитесь к своей сети Wi-Fi, выбрав его имя, введите пароль и нажмите **Далее**.
 
-![pi wizard wifi](images/piwiz4.PNG)
+![pi wizard](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Примечание:** , если ваша модель Raspberry Pi не имеет беспроводное подключение, вы не увидите этот экран.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Нажмите **Далее** пусть мастер проверяет обновления для Raspbian и устанавливает их (это может занять некоторое время).
 
-![pi wizard updating](images/piwiz6.PNG)
+![Обновление pi-мастера](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Нажмите **Готово** или **Перезагрузка** чтобы завершить настройку.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Примечание:** вам нужно будет только перезагрузить, если это необходимо для завершения обновления.
 
-![pi wizard complete](images/piwiz7.PNG)
+![Мастер pi завершен](images/piwiz7.PNG)
