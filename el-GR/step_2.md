@@ -1,77 +1,77 @@
-## What you will need
+## Τι θα χρειαστείτε
 
-### Which Raspberry Pi?
+### Ποιο είναι το Raspberry Pi;
 
-There are several [models of Raspberry Pi](https://www.raspberrypi.org/products/), and for most people the Raspberry Pi 3 Model B+ is the one to choose.
+Υπάρχουν πολλά μοντέλα [Raspberry Pi](https://www.raspberrypi.org/products/)και για τους περισσότερους ανθρώπους το Raspberry Pi 3 Model B + είναι αυτό που θα επιλέξετε.
 
-![Raspberry Pi 3](images/raspberry-pi.png)
+![Βατόμουρο Pi 3](images/raspberry-pi.png)
 
-The Raspberry Pi 3 Model B+ is the newest, fastest, and easiest to use.
+Το Raspberry Pi 3 Model B + είναι το νεότερο, γρηγορότερο και ευκολότερο στη χρήση.
 
-The Raspberry Pi Zero and Zero W are smaller and require less power, so they're useful for portable projects such as robots. It's generally easier to start a project with the Raspberry Pi 3, and to move to the Pi Zero when you have a working prototype that the smaller Pi would be useful for.
+Το Raspberry Pi Zero και Zero W είναι μικρότερα και απαιτούν λιγότερη ενέργεια, έτσι ώστε να είναι χρήσιμα για φορητά έργα όπως τα ρομπότ. Είναι γενικά ευκολότερο να ξεκινήσετε ένα έργο με το Raspberry Pi 3 και να μετακινηθείτε στο Pi Zero όταν έχετε ένα πρωτότυπο εργασίας που θα ήταν χρήσιμο για το μικρό Pi.
 
-If you want to buy a Raspberry Pi, head to [rpf.io/products](https://rpf.io/products).
+Αν θέλετε να αγοράσετε ένα Raspberry Pi, κατευθυνθείτε στο [rpf.io/products](https://rpf.io/products).
 
-### A power supply
+### Μια τροφοδοσία ρεύματος
 
-To connect to a power socket, the Raspberry Pi has a micro USB port (the same found that's found on many mobile phones).
+Για να συνδεθείτε σε μια πρίζα, το Raspberry Pi διαθέτει μια θύρα micro USB (η ίδια βρήκε ότι βρίσκεται σε πολλά κινητά τηλέφωνα).
 
-You will need a power supply which provides at least 2.5 amps. We recommend using the [official Raspberry Pi power supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
+Θα χρειαστείτε τροφοδοτικό που παρέχει τουλάχιστον 2,5 αμπέρ. Σας προτείνουμε να χρησιμοποιείτε το [επίσημη Raspberry Pi τροφοδοτικό](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
 
-![power supply](images/powersupply.png)
+![παροχή ηλεκτρικού ρεύματος](images/powersupply.png)
 
-### A micro SD card
+### Μια κάρτα micro SD
 
-Your Raspberry Pi needs an SD card to store all its files and the Raspbian operating system.
+Το Raspberry Pi σας χρειάζεται μια κάρτα SD για να αποθηκεύσει όλα τα αρχεία του και το λειτουργικό σύστημα Raspbian.
 
-![sd card](images/pi-sd.png)
+![κάρτα SD](images/pi-sd.png)
 
-You will need a micro SD card with a capacity of at least 8 GB.
+Θα χρειαστείτε μια κάρτα micro SD με χωρητικότητα τουλάχιστον 8 GB.
 
-Many sellers supply SD cards for Raspberry Pi that are already set up with Raspbian and ready to go.
+Πολλοί πωλητές προμηθεύουν κάρτες SD για Raspberry Pi που έχουν ήδη δημιουργηθεί με Raspbian και είναι έτοιμες να πάνε.
 
-### A keyboard and a mouse
+### Ένα πληκτρολόγιο και ένα ποντίκι
 
-To start using your Raspberry, you will need a USB keyboard and a USB mouse.
+Για να αρχίσετε να χρησιμοποιείτε το Raspberry, θα χρειαστείτε ένα πληκτρολόγιο USB και ένα ποντίκι USB.
 
-Once you've set your Pi up, you can use a Bluetooth keyboard and mouse, but you'll need a USB keyboard and mouse for setting up.
+Αφού ρυθμίσετε το Pi, μπορείτε να χρησιμοποιήσετε πληκτρολόγιο και ποντίκι Bluetooth, αλλά θα χρειαστείτε ένα πληκτρολόγιο και ποντίκι USB για τη ρύθμιση.
 
-### A TV or computer screen
+### Τηλεόραση ή οθόνη υπολογιστή
 
-To view the Raspbian desktop environment, you will need a screen and a cable to link the screen and the Pi. The screen can be a TV or a computer monitor. If the screen has built-in speakers, the Pi will be able to use these to play sound.
+Για να δείτε το περιβάλλον εργασίας Raspbian, θα χρειαστείτε μια οθόνη και ένα καλώδιο για να συνδέσετε την οθόνη και το Pi. Η οθόνη μπορεί να είναι τηλεόραση ή οθόνη υπολογιστή. Εάν η οθόνη έχει ενσωματωμένα ηχεία, το Pi θα μπορεί να τα χρησιμοποιήσει για να παίξει ήχο.
 
 #### HDMI
 
-The Raspberry Pi has a HDMI output port that is compatible with the HDMI port of most modern TVs and computer monitors. Many computer monitors may also have DVI or VGA ports.
+Το Raspberry Pi διαθέτει θύρα εξόδου HDMI συμβατή με τη θύρα HDMI των πιο σύγχρονων τηλεοράσεων και οθονών υπολογιστών. Πολλές οθόνες υπολογιστών μπορεί επίσης να έχουν θύρες DVI ή VGA.
 
-![hdmi port](images/hdmi-port.png)
+![hdmi θύρα](images/hdmi-port.png)
 
 #### DVI
 
-If your screen has a DVI port, you can connect the Pi to it using a HDMI-to-DVI cable.
+Εάν η οθόνη σας διαθέτει θύρα DVI, μπορείτε να συνδέσετε το Pi σε αυτό χρησιμοποιώντας καλώδιο HDMI-DVI.
 
-![dvi port](images/dvi-port.png)
+![θύρα dvi](images/dvi-port.png)
 
 #### VGA
 
-Some screens only have a VGA port.
+Ορισμένες οθόνες διαθέτουν μόνο θύρα VGA.
 
-![vga port](images/vga-port.png)
+![vga λιμάνι](images/vga-port.png)
 
-To connect your Pi to such a screen, you can use a HDMI-to-VGA adapter.
+Για να συνδέσετε το Pi σε μια τέτοια οθόνη, μπορείτε να χρησιμοποιήσετε έναν προσαρμογέα HDMI-to-VGA.
 
-![hdmi to vga adapter port](images/hdmi-vga-adapter.png)
+![hdmi στη θύρα προσαρμογέα vga](images/hdmi-vga-adapter.png)
 
-### Optional extras
+### Προαιρετικά πρόσθετα
 
-#### A case
+#### Μια υπόθεση
 
-You may want to put your Raspberry Pi in a case. This is not essential, but it will provide protection for your Pi. If you'd like, you can use the official case for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) or [Pi Zero or Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+Ίσως θελήσετε να τοποθετήσετε το Raspberry Pi σε μια περίπτωση. Αυτό δεν είναι απαραίτητο, αλλά θα παρέχει προστασία για το Pi σας. Εάν θέλετε, μπορείτε να χρησιμοποιήσετε την επίσημη περίπτωση για το [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) ή [Pi Zero ή Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
 
-#### Headphones or speakers
+#### Ακουστικά ή ηχεία
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
+Τα μεγάλα μοντέλα Raspberry Pi (όχι το Pi Zero / Zero W) διαθέτουν μια τυπική θύρα ήχου όπως αυτή του smart phone ή του MP3 player. Αν θέλετε, μπορείτε να συνδέσετε τα ακουστικά ή τα ηχεία σας έτσι ώστε το Pi να μπορεί να αναπαράγει ήχο. Εάν η οθόνη στην οποία συνδέετε το Pi σας διαθέτει ενσωματωμένα ηχεία, το Pi μπορεί να αναπαράγει ήχο μέσω αυτών.
 
-#### An Ethernet cable
+#### Ένα καλώδιο Ethernet
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+Τα μεγάλα μοντέλα Raspberry Pi (όχι το Pi Zero / Zero W) διαθέτουν μια τυπική θύρα Ethernet για να τα συνδέουν στο διαδίκτυο. Για να συνδέσετε ένα Pi Zero στο διαδίκτυο, χρειάζεστε έναν προσαρμογέα USB-to-Ethernet. Το Raspberry Pi 3 και το Pi Zero W μπορούν επίσης να συνδεθούν ασύρματα στον ιστό.
