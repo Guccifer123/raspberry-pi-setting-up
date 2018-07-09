@@ -1,53 +1,53 @@
-## Set up your SD card
+## আপনার এসডি কার্ড সেট আপ করুন
 
-If you have an SD card that doesn't have the Raspbian operating system on it yet, or if you want to reset your Raspberry Pi, you can easily install Raspbian yourself. To do so, you need a computer that has an SD card port — most laptop and desktop computers have one.
+যদি আপনার কাছে একটি এসডি কার্ড থাকে যার কাছে এখনও এটিতে রাসিবিএন অপারেটিং সিস্টেম নেই, অথবা যদি আপনি আপনার রাস্পবেরি পাই রিসেট করতে চান, তবে আপনি সহজভাবে নিজের কম্পিউটারে ইনস্টল করতে পারেন। এটি করার জন্য, আপনার এমন একটি কম্পিউটারের প্রয়োজন যার একটি SD কার্ড পোর্ট রয়েছে - বেশিরভাগ ল্যাপটপ এবং ডেস্কটপ কম্পিউটারে এক।
 
-### The Raspbian operating system via NOOBS
+### NOOBS মাধ্যমে Raspbian অপারেটিং সিস্টেম
 
-Using the NOOBS software is the easiest way to install Raspbian on your SD card.
+NOOBS সফটওয়্যারটি ব্যবহার করে আপনার এসসি কার্ডে র্যাসবিন ইনস্টল করার সবচেয়ে সহজ উপায়।
 
-#### Download NOOBS
+#### NOOBS ডাউনলোড করুন
 
-+ Visit the [Raspberry Pi downloads page](https://www.raspberrypi.org/downloads).
++ পরিদর্শন [রাস্পবেরী Pi ডাউনলোড পৃষ্ঠা](https://www.raspberrypi.org/downloads)।
 
-![Downloads page](images/downloads-page.png)
+![ডাউনলোড পৃষ্ঠা](images/downloads-page.png)
 
-+ You should see a box linking to the NOOBS files. Click on the box.
++ আপনি NOOBS ফাইলগুলির সাথে সংযুক্ত একটি বাক্স দেখতে পাবেন। বাক্সে ক্লিক করুন।
 
-![Click on NOOBS](images/click-noobs.png)
+![NOOBS এ ক্লিক করুন](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files. Make sure to pay attention to where you save the archive, so that you can find it again quickly.
++ ফাইলগুলির জিপ আর্কাইভটি ডাউনলোড করার সবচেয়ে সহজ বিকল্প হল। আপনি আর্কাইভ সংরক্ষণ যেখানে মনোযোগ দিতে ভুলবেন না, যাতে আপনি দ্রুত আবার এটি খুঁজে পেতে পারেন
 
-![Download zip](images/download-zip.png)
+![জিপ ডাউনলোড করুন](images/download-zip.png)
 
-#### Format the SD card
+#### এসডি কার্ড ফরম্যাট করুন
 
-Anything that's stored on the SD card will be overwritten during formatting. So if the SD card on which you want to install Raspbian currently has any files on it, e.g. from an older version of Raspbian, you may wish to back these files up first to not lose them permanently.
+এসডি কার্ডে সংরক্ষিত যেকোনো জিনিসকে ফরম্যাট করার সময় ওভাররাইট করা হবে। সুতরাং যদি আপনি যে SD কার্ডটি চালু করতে চান তবে বর্তমানে এটিতে কোনও ফাইল রয়েছে, যেমন রস্পবিনের একটি পুরোনো সংস্করণ থেকে, আপনি এই ফাইলগুলিকে সর্বদা স্থায়ীভাবে না খোলার জন্য এই ফাইলগুলিকে ফিরে পেতে পারেন
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ এসডি এসোসিয়েশন এর ওয়েবসাইট দেখুন এবং ডাউনলোড করুন [এসডি ফরম্যাট 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) উইন্ডোজ বা ম্যাকের জন্য।
 
-+ Follow the instructions to install the software.
++ সফ্টওয়্যার ইনস্টল করার জন্য নির্দেশাবলী অনুসরণ করুন।
 
-+ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
++ কম্পিউটার বা ল্যাপটপের SD কার্ড স্লটে আপনার এসডি কার্ড ঢোকান এবং এটিতে বরাদ্দকৃত ড্রাইভের অক্ষরের একটি নোট তৈরি করুন, উদাহরণস্বরূপ `F: /`
 
-+ In SD Formatter, select the drive letter for your SD card, and the format the card.
++ এসডি ফরম্যাটে, আপনার এসডি কার্ডের জন্য ড্রাইভের অক্ষর নির্বাচন করুন, এবং কার্ডটি ফর্ম্যাট করুন।
 
-#### Extract NOOBS from the zip archive
+#### জিপ আর্কাইভ থেকে NOOBS নিষ্কাশন
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+পরবর্তী, আপনি রবসবেরি পিআই ওয়েবসাইট থেকে ডাউনলোড করা NOOBS জিপ আর্কাইভ থেকে ফাইলগুলি বের করতে হবে।
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ ডাউনলোড আর্কাইভ খুঁজুন - ডিফল্টরূপে, এটি আপনার `Downloads` ফোল্ডারে থাকা উচিত।
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ ফাইলগুলি এক্সট্রাক্ট করতে ডাবল ক্লিক করুন, এবং ফলাফলটি এক্সপ্লোরার / ফাইন্ডার উইন্ডো খুলুন।
 
-#### Copy the files
+#### ফাইল অনুলিপি করুন
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ এখন অন্য এক্সপ্লোরার / ফাইন্ডার উইন্ডো খুলুন এবং এসডি কার্ডে নেভিগেট করুন। পাশাপাশি দুটি উইন্ডো পাশের অবস্থানের জন্য এটি সর্বোত্তম।
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ `NOOBS` ফোল্ডারে সকল ফাইল নির্বাচন করুন এবং তাদের কার্ডে কপি করার জন্য এসডি কার্ড উইন্ডোতে টেনে আনুন।
 
-![windows copy](images/copy3.png)
+![উইন্ডোজ কপি](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![ম্যাকস কপি](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ ফাইলগুলি একবার কপি করা হয়ে গেলে, আপনি SD কার্ডটি বের করতে পারেন।
