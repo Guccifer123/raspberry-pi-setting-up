@@ -42,12 +42,12 @@ A continuación, deberá extraer los archivos del archivo zip de NOOBS que desca
 
 #### Copia los archivos
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Ahora abra otra ventana Explorer / Finder y navegue a la tarjeta SD. Lo mejor es colocar las dos ventanas una al lado de la otra.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ Seleccione todos los archivos en la carpeta `NOOBS` y arrástrelos a la ventana de la tarjeta SD para copiarlos a la tarjeta.
 
-![windows copy](images/copy3.png)
+![copia de ventanas](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![macos copia](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ Una vez que todos los archivos han sido copiados, puede expulsar la tarjeta SD.
