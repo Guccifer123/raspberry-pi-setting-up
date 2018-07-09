@@ -1,37 +1,37 @@
-## Connect your Raspberry Pi
+## Hubungkan Raspberry Pi Anda
 
-Let's get everything connected. It's important to do this in the right order, so that all your components are safe.
+Mari kita terhubung semuanya. Penting untuk melakukan ini dalam urutan yang benar, sehingga semua komponen Anda aman.
 
-![pi connections](images/pi-labelled.png)
+![koneksi pi](images/pi-labelled.png)
 
-+ Insert the SD card you've set up with Raspbian (via NOOBS) into the micro SD card slot at the underside of your Pi. 
++ Masukkan kartu SD yang telah Anda siapkan dengan Raspbian (melalui NOOBS) ke slot kartu micro SD di bagian bawah Pi Anda. 
 
-![sd card](images/pi-sd.png)
+![kartu SD](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+**Catatan:** Banyak kartu micro SD akan masuk ke adaptor yang lebih besar - Anda dapat menggeser kartu keluar menggunakan bibir di bagian bawah.
 
-![sd card holder](images/sd-card-holder.png)
+![pemegang kartu sd](images/sd-card-holder.png)
 
-+ Find the USB cable for your mouse, and connect the mouse to a USB port on the Raspberry Pi (it doesn't matter which one).
++ Temukan kabel USB untuk mouse Anda, dan hubungkan mouse ke port USB pada Raspberry Pi (tidak masalah yang mana).
 
 ![mouse](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Hubungkan keyboard dengan cara yang sama.
 
 ![keyboard](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large, flat side on top.
++ Lihatlah port HDMI pada Raspberry Pi - perhatikan bahwa ia memiliki sisi datar yang besar di atas.
 
-![hdmi](images/pi-hdmi.png)
+![HDMI](images/pi-hdmi.png)
 
-+ Make sure your screen is plugged into a wall socket and turned on. Use a cable to connect the screen to the Pi's HDMI port — use an adapter if necessary.
++ Pastikan layar Anda dicolokkan ke stopkontak dinding dan dinyalakan. Gunakan kabel untuk menghubungkan layar ke port HDMI Pi - gunakan adaptor jika perlu.
 
-**Note:** nothing will display on the screen, because the Pi is not running yet.
+**Catatan:** tidak ada yang akan ditampilkan di layar, karena Pi belum berjalan.
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ Jika Anda ingin menghubungkan Pi ke internet melalui Ethernet, gunakan kabel Ethernet untuk menghubungkan port Ethernet pada Raspberry Pi ke soket Ethernet di dinding atau di router internet Anda. Anda tidak perlu melakukan ini jika Anda akan menggunakan WiFi atau jika Anda tidak ingin terhubung ke internet.
 
 ![ethernet](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ Suara akan datang dari layar Anda jika memiliki speaker atau Anda dapat menyambungkan headphone atau speaker ke jack audio jika Anda memilikinya.
 
-![headphones](images/pi-headphones.png)
+![headphone](images/pi-headphones.png)
