@@ -1,53 +1,53 @@
 ## SD kartınızı ayarlayın
 
-If you have an SD card that doesn't have the Raspbian operating system on it yet, or if you want to reset your Raspberry Pi, you can easily install Raspbian yourself. To do so, you need a computer that has an SD card port — most laptop and desktop computers have one.
+Raspbian işletim sistemine sahip olmayan bir SD kartınız varsa veya Raspberry Pi'nizi sıfırlamak istiyorsanız, Raspbian'ı kolayca yükleyebilirsiniz. Bunu yapmak için bir SD kart bağlantı noktasına sahip bir bilgisayara gereksiniminiz vardır - çoğu dizüstü bilgisayar ve masaüstü bilgisayarlarda bir tane vardır.
 
-### The Raspbian operating system via NOOBS
+### NOOBS üzerinden Raspbian işletim sistemi
 
-Using the NOOBS software is the easiest way to install Raspbian on your SD card.
+NOOBS yazılımını kullanmak, SD kartınıza Raspbian'ı yüklemenin en kolay yoludur.
 
-#### Download NOOBS
+#### NOOBS indir
 
-+ Visit the [Raspberry Pi downloads page](https://www.raspberrypi.org/downloads).
++ [Ahududu Pi indirme sayfasını ziyaret edin](https://www.raspberrypi.org/downloads).
 
-![Downloads page](images/downloads-page.png)
+![İndirmeler sayfası](images/downloads-page.png)
 
-+ You should see a box linking to the NOOBS files. Click on the box.
++ NOOBS dosyalarına bağlantı veren bir kutu görmelisiniz. Kutuyu tıklayın.
 
-![Click on NOOBS](images/click-noobs.png)
+![NOOBS'a tıklayın](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files. Make sure to pay attention to where you save the archive, so that you can find it again quickly.
++ En basit seçenek, dosyaların zip arşivini indirmektir. Arşivinizi nereye kaydettiğinize dikkat ettiğinizden emin olun, böylece hızlı bir şekilde tekrar bulabilirsiniz.
 
-![Download zip](images/download-zip.png)
+![Zip indir](images/download-zip.png)
 
-#### Format the SD card
+#### SD kartı biçimlendir
 
-Anything that's stored on the SD card will be overwritten during formatting. So if the SD card on which you want to install Raspbian currently has any files on it, e.g. from an older version of Raspbian, you may wish to back these files up first to not lose them permanently.
+SD kartta saklanan herhangi bir şey biçimlendirme sırasında üzerine yazılacaktır. Dolayısıyla, Raspbian'ı kurmak istediğiniz SD kartın üzerinde herhangi bir dosya varsa, örneğin Raspbian'ın eski bir sürümünde, bu dosyaları önce kalıcı olarak kaybetmemek için geri yüklemek isteyebilirsiniz.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ SD Association'ın web sitesini ziyaret edin ve Windows veya Mac için [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html).
 
-+ Follow the instructions to install the software.
++ Yazılımı kurmak için talimatları izleyin.
 
-+ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
++ SD kartınızı bilgisayara veya dizüstü bilgisayarın SD kart yuvasına takın ve buna tahsis edilen sürücü harfini not edin, örneğin `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and the format the card.
++ SD Formatter'de, SD kartınızın sürücü harfini seçin ve kartı formatlayın.
 
-#### Extract NOOBS from the zip archive
+#### Zip arşivinden NOOBS ayıklayın
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Ardından, Raspberry Pi web sitesinden indirdiğiniz NOOBS zip arşivindeki dosyaları ayıklamanız gerekecektir.
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ İndirilen arşivi bulun - varsayılan olarak `İndirme` klasörünüzde olmalıdır.
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ Dosyaları ayıklamak ve ortaya çıkan Explorer / Finder penceresini açık tutmak için çift tıklayın.
 
-#### Copy the files
+#### Dosyaları kopyala
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Şimdi başka bir Explorer / Finder penceresi açın ve SD karta gidin. İki pencereyi yan yana konumlandırmak en iyisidir.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ `NOOBS` klasöründeki tüm dosyaları seçin ve bunları karta kopyalamak için SD kart penceresine sürükleyin.
 
-![windows copy](images/copy3.png)
+![windows kopyası](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![macos kopyası](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ Dosyalar kopyalandıktan sonra SD kartını çıkarabilirsiniz.
