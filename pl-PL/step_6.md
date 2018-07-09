@@ -1,31 +1,31 @@
 ## Zakończ konfigurację
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Gdy uruchomisz Raspberry Pi po raz pierwszy, pojawi się aplikacja **Welcome to Raspberry Pi** i poprowadzi Cię przez początkową konfigurację.
 
-![pi wizard](images/piwiz.gif)
+![pi kreatora](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Kliknij **Dalej** aby rozpocząć konfigurację.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Ustaw swój **Kraj**, **Język**i **Strefa czasowa**, następnie ponownie kliknij **Następny**.
 
-![pi wizard country](images/piwiz2.PNG)
+![kraj czarodzieja](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Wprowadź nowe hasło do swojego Raspberry Pi i kliknij **Dalej**.
 
-![pi wizard password](images/piwiz3.PNG)
+![Hasło czarodzieja pi](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Połącz się z siecią Wi-Fi, wybierając jej nazwę, wprowadzając hasło i klikając **Dalej**.
 
-![pi wizard wifi](images/piwiz4.PNG)
+![pi kreatora wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Uwaga:** jeśli twój model Raspberry Pi nie ma łączności bezprzewodowej, nie zobaczysz tego ekranu.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Kliknij **Dalej** pozwól kreatorowi sprawdzić aktualizacje Raspbian i je zainstalować (może to chwilę potrwać).
 
-![pi wizard updating](images/piwiz6.PNG)
+![Aktualizacja czarodzieja pi](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Kliknij **Gotowe** lub **Uruchom ponownie** aby zakończyć konfigurację.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Uwaga:** konieczne będzie ponowne uruchomienie, tylko jeśli jest to konieczne, aby ukończyć aktualizację.
 
-![pi wizard complete](images/piwiz7.PNG)
+![pi kreator kompletny](images/piwiz7.PNG)
