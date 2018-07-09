@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## 啟動你的Raspberry Pi
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+您的Raspberry Pi沒有電源開關：只要將其連接到電源插座，它就會打開。 請注意，Pi的micro USB電源端口頂部有較長的扁平側面。
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ 將微型USB電源插入插座並將其連接到Pi的電源端口。
 
-![screenshot](images/pi-power.png)
+![截圖](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+您應該看到Raspberry Pi上的紅色LED亮起，表示Pi已連接到電源。 當它啟動時（這也稱為 **啟動**），您將看到覆盆子出現在屏幕的左上角。
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![引導覆盆子](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> 您的瀏覽器不支持WebM視頻，因此請嘗試使用FireFox或Chrome。 </video> 
 
-\--- collapse \---
+- - 坍方 - -
 
 * * *
 
-## title: First-time startup with NOOBS
+## 標題：NOOBS首次啟動
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+如果這是您第一次使用包含NOOBS的SD卡啟動Raspberry Pi，您將看到NOOBS安裝程序。 該軟件將指導您安裝Raspbian操作系統（OS）。
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ 安裝程序加載後，它將為您提供安裝操作系統的選擇。 選中 **Raspbian**的複選框，然後單擊 **安裝**。
 
-![install](images/install.png)
+![安裝](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ 在警告對話框中單擊 **是** ，然後高枕無憂。 Raspbian安裝過程需要一些時間。
 
-![installing](images/installing.png)
+![安裝](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ 安裝Raspbian後，單擊 **確定**。 您的Raspberry Pi將重新啟動，然後Raspbian將啟動。
 
-![installed](images/installed.png)
+![安裝](images/installed.png)
 
-\--- /collapse \---
+- - /坍方 - -
 
-After a few seconds the Raspbian Desktop will appear.
+幾秒鐘後，Raspbian Desktop將出現。
 
-![raspbian desktop](images/pi-desktop.jpg)
+![raspbian桌面](images/pi-desktop.jpg)
