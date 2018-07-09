@@ -1,7 +1,7 @@
-## Introduction
+## 介紹
 
-Here you'll learn about your Raspberry Pi, what things you need to use it, and how to set it up.
+在這裡，您將了解Raspberry Pi，使用它需要什麼，以及如何設置它。
 
-![plug in the pi](images/pi-plug-in.gif)
+![插上pi](images/pi-plug-in.gif)
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){:target="_blank"}.
+如果您需要打印此項目，請使用 [打印機友好版本](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){：target =“_ blank”}。
