@@ -1,11 +1,11 @@
 ## Gdzie znaleźć pomoc
 
-If you're having problems with your Pi, there are lots of ways you can get help and advice:
+Jeśli masz problemy ze swoim Pi, istnieje wiele sposobów na uzyskanie pomocy i porady:
 
-+ Check out the [help section](https://www.raspberrypi.org/help/) and the [troubleshooting guide](https://www.raspberrypi.org/learning/troubleshooting-guide/) on the Raspberry Pi website
++ Zapoznaj się z częścią [pomocy](https://www.raspberrypi.org/help/) i [przewodnikami dotyczącymi rozwiązywania problemów](https://www.raspberrypi.org/learning/troubleshooting-guide/) na stronie Raspberry Pi
 
-+ The [Raspberry Pi forum](https://www.raspberrypi.org/forums), including the [Beginners](https://www.raspberrypi.org/forums/viewforum.php?f=91) section, is a great place to ask questions and get support from the Raspberry Pi community
++ [forum Raspberry Pi](https://www.raspberrypi.org/forums), w tym [początkujących](https://www.raspberrypi.org/forums/viewforum.php?f=91) odcinek, jest doskonałym miejscem do zadawania pytań i uzyskać wsparcie od społeczności Raspberry Pi
 
-+ Call out on [Twitter](https://twitter.com) using the hashtag #rpilearn, or submit a question on the [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
++ Zadzwoń na [Twitter](https://twitter.com) używając hashtag #rpilearn lub prześlij pytanie na [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
 
-+ You could also attend a free [Raspberry Jam](https://rpf.io/jam) community event to talk to people about their experiences and get some first-hand help from fellow Raspberry Pi users
++ Można także uczestniczyć w bezpłatną [Raspberry Jam](https://rpf.io/jam) zdarzenie społeczności rozmawiać z ludźmi o swoich doświadczeniach i trochę z pierwszej ręki pomoc z innymi użytkownikami Raspberry Pi
