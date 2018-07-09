@@ -1,77 +1,77 @@
-## What you will need
+## 필요한 것
 
-### Which Raspberry Pi?
+### 어떤 라스베리 파이?
 
-There are several [models of Raspberry Pi](https://www.raspberrypi.org/products/), and for most people the Raspberry Pi 3 Model B+ is the one to choose.
+이 몇 가지 있습니다 [라즈베리 파이 모델](https://www.raspberrypi.org/products/), 대부분의 사람들의 라즈베리 파이 3 모델 B +를 선택하는 것입니다.
 
-![Raspberry Pi 3](images/raspberry-pi.png)
+![라스베리 파이 3](images/raspberry-pi.png)
 
-The Raspberry Pi 3 Model B+ is the newest, fastest, and easiest to use.
+Raspberry Pi 3 모델 B +는 가장 빠르고, 가장 빠르고 사용하기 쉽습니다.
 
-The Raspberry Pi Zero and Zero W are smaller and require less power, so they're useful for portable projects such as robots. It's generally easier to start a project with the Raspberry Pi 3, and to move to the Pi Zero when you have a working prototype that the smaller Pi would be useful for.
+Raspberry Pi Zero와 Zero W는 작아서 전력 소모가 적기 때문에 로봇과 같은 휴대용 프로젝트에 유용합니다. 일반적으로 Raspberry Pi 3로 프로젝트를 시작하고 작은 Pi가 유용 할 수있는 프로토 타입이 있으면 Pi Zero로 이동하는 것이 더 쉽습니다.
 
-If you want to buy a Raspberry Pi, head to [rpf.io/products](https://rpf.io/products).
+라스베리 파이를 사고 싶다면 [rpf.io/products로 가십시오](https://rpf.io/products).
 
-### A power supply
+### 전원 공급 장치
 
-To connect to a power socket, the Raspberry Pi has a micro USB port (the same found that's found on many mobile phones).
+전원 소켓에 연결하기 위해 Raspberry Pi에는 마이크로 USB 포트가 있습니다 (많은 휴대폰에서 찾아 볼 수 있습니다).
 
-You will need a power supply which provides at least 2.5 amps. We recommend using the [official Raspberry Pi power supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
+최소 2.5A를 제공하는 전원 공급 장치가 필요합니다. [공식 Raspberry Pi 전원 공급 장치](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/)사용하는 것이 좋습니다.
 
-![power supply](images/powersupply.png)
+![전원 공급 장치](images/powersupply.png)
 
-### A micro SD card
+### 마이크로 SD 카드
 
-Your Raspberry Pi needs an SD card to store all its files and the Raspbian operating system.
+귀하의 라즈베리 파이는 모든 파일과 Raspbian 운영 체제를 저장하기 위해 SD 카드가 필요합니다.
 
-![sd card](images/pi-sd.png)
+![SD 카드](images/pi-sd.png)
 
-You will need a micro SD card with a capacity of at least 8 GB.
+적어도 8GB 용량의 마이크로 SD 카드가 필요합니다.
 
-Many sellers supply SD cards for Raspberry Pi that are already set up with Raspbian and ready to go.
+많은 판매자가 이미 Raspbian과 함께 준비되어 있으며 갈 준비가 된 Raspberry Pi 용 SD 카드를 공급합니다.
 
-### A keyboard and a mouse
+### 키보드와 마우스
 
-To start using your Raspberry, you will need a USB keyboard and a USB mouse.
+라즈베리를 사용하려면 USB 키보드와 USB 마우스가 필요합니다.
 
-Once you've set your Pi up, you can use a Bluetooth keyboard and mouse, but you'll need a USB keyboard and mouse for setting up.
+일단 Pi를 설정하면 Bluetooth 키보드와 마우스를 사용할 수 있지만 설정하려면 USB 키보드와 마우스가 필요합니다.
 
-### A TV or computer screen
+### TV 또는 컴퓨터 화면
 
-To view the Raspbian desktop environment, you will need a screen and a cable to link the screen and the Pi. The screen can be a TV or a computer monitor. If the screen has built-in speakers, the Pi will be able to use these to play sound.
+Raspbian 데스크탑 환경을 보려면 화면과 Pi를 연결하기위한 화면과 케이블이 필요합니다. 화면은 TV 또는 컴퓨터 모니터 일 수 있습니다. 화면에 스피커가 내장되어있는 경우 Pi는이를 사용하여 사운드를 재생할 수 있습니다.
 
 #### HDMI
 
-The Raspberry Pi has a HDMI output port that is compatible with the HDMI port of most modern TVs and computer monitors. Many computer monitors may also have DVI or VGA ports.
+Raspberry Pi에는 최신 TV 및 컴퓨터 모니터의 HDMI 포트와 호환되는 HDMI 출력 포트가 있습니다. 많은 컴퓨터 모니터에는 DVI 또는 VGA 포트가있을 수도 있습니다.
 
-![hdmi port](images/hdmi-port.png)
+![HDM 포트](images/hdmi-port.png)
 
 #### DVI
 
-If your screen has a DVI port, you can connect the Pi to it using a HDMI-to-DVI cable.
+화면에 DVI 포트가 있으면 HDMI-DVI 케이블을 사용하여 Pi를 연결할 수 있습니다.
 
-![dvi port](images/dvi-port.png)
+![dvi 포트](images/dvi-port.png)
 
 #### VGA
 
-Some screens only have a VGA port.
+일부 화면에는 VGA 포트만 있습니다.
 
-![vga port](images/vga-port.png)
+![vga 포트](images/vga-port.png)
 
-To connect your Pi to such a screen, you can use a HDMI-to-VGA adapter.
+Pi를 그러한 화면에 연결하려면 HDMI-to-VGA 어댑터를 사용할 수 있습니다.
 
-![hdmi to vga adapter port](images/hdmi-vga-adapter.png)
+![hga 어댑터 포트 vga](images/hdmi-vga-adapter.png)
 
-### Optional extras
+### 옵션 사항
 
-#### A case
+#### 경우
 
-You may want to put your Raspberry Pi in a case. This is not essential, but it will provide protection for your Pi. If you'd like, you can use the official case for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) or [Pi Zero or Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+케이스에 라즈베리 파이를 넣을 수 있습니다. 이것은 필수적인 것은 아니지만 귀하의 파이에 대한 보호를 제공 할 것입니다. 원한다면 [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) 또는 [Pi Zero 또는 Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/)의 공식 사례를 사용할 수 있습니다.
 
-#### Headphones or speakers
+#### 헤드폰 또는 스피커
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
+대형 라즈베리 파이 모델 (Pi Zero / Zero W가 아님)에는 스마트 폰 또는 MP3 플레이어와 같은 표준 오디오 포트가 있습니다. 원한다면 Pi가 사운드를 재생할 수 있도록 헤드폰이나 스피커를 연결할 수 있습니다. Pi를 연결하는 화면에 내장 스피커가 있으면 Pi는이를 통해 소리를 재생할 수 있습니다.
 
-#### An Ethernet cable
+#### 이더넷 케이블
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+대형 라즈베리 파이 모델 (Pi Zero / Zero W가 아님)에는 표준 이더넷 포트가있어 인터넷에 연결할 수 있습니다. Pi Zero를 인터넷에 연결하려면 USB 대 이더넷 어댑터가 필요합니다. Raspberry Pi 3와 Pi Zero W는 또한 웹에 무선으로 연결할 수 있습니다.
