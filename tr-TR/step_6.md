@@ -1,31 +1,31 @@
 ## Kurulumu bitir
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Eğer ilk kez Ahududu Pi başlattığınızda, **Ahududu Pi hoş geldiniz** uygulaması açılır ve ilk kurulum sırasında size rehberlik edecektir.
 
-![pi wizard](images/piwiz.gif)
+![pi sihirbazı](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Kurulumu başlatmak için **İleri** tıklayın.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Senin Set **Ülke**, **Dili**ve **Timezone**, ardından **İleri** tekrar.
 
-![pi wizard country](images/piwiz2.PNG)
+![pi büyücü ülke](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Senin Ahududu Pi için yeni bir şifre girin ve tıklayın **Sonraki**.
 
-![pi wizard password](images/piwiz3.PNG)
+![pi sihirbazı şifre](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Adını seçip, şifreyi girerek ve **İleri'yi tıklatarak WiFi ağınıza bağlanın**.
 
-![pi wizard wifi](images/piwiz4.PNG)
+![pi sihirbaz wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Not:** sizin Ahududu Pi modeli kablosuz bağlantı yoksa, bu ekranı görmeyeceksiniz.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ **tıklayın İleri** Sihirbazın Raspbian için güncellemeleri kontrol etmesine izin verin ve bunları kurun (bu biraz zaman alabilir).
 
-![pi wizard updating](images/piwiz6.PNG)
+![pi sihirbaz güncelleme](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Kurulumu tamamlamak için **Bitti** veya **Yeniden Başlat** seçeneğini tıklatın.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Not:** Bir güncellemeyi tamamlamak için gerekliyse sadece yeniden başlatmanız gerekecek.
 
-![pi wizard complete](images/piwiz7.PNG)
+![pi sihirbazı tamamlandı](images/piwiz7.PNG)
