@@ -1,25 +1,25 @@
 ---
-title: Setting up your Raspberry Pi
-hero_image: images/banner.png
-description: How to set up and start your Pi for the first time
+title: Richten Sie Ihren Raspberry Pi ein
+hero_image: Bilder / Banner.png
+description: So richten Sie Ihren Pi ein und starten ihn zum ersten Mal
 version: 4
 listed: true
 copyedit: true
 last_tested: "2018-05-16"
 steps:
   - 
-    title: Introduction
+    title: Einführung
   - 
-    title: What you will need
+    title: Was wirst du brauchen
   - 
-    title: Set up your SD card
+    title: Richten Sie Ihre SD-Karte ein
   - 
-    title: Connect your Pi
+    title: Verbinde dein Pi
   - 
-    title: Start up your Pi
+    title: Starte deinen Pi
   - 
-    title: Finish the setup
+    title: Beenden Sie das Setup
   - 
-    title: Where to find help
+    title: Wo finde ich Hilfe?
   - 
-    title: What next?
+    title: Was als nächstes?
