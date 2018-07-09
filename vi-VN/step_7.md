@@ -1,11 +1,11 @@
 ## Tìm trợ giúp ở đâu
 
-If you're having problems with your Pi, there are lots of ways you can get help and advice:
+Nếu bạn gặp vấn đề với Pi của mình, có rất nhiều cách để bạn có thể nhận trợ giúp và tư vấn:
 
-+ Check out the [help section](https://www.raspberrypi.org/help/) and the [troubleshooting guide](https://www.raspberrypi.org/learning/troubleshooting-guide/) on the Raspberry Pi website
++ Kiểm tra các [phần trợ giúp](https://www.raspberrypi.org/help/) và [hướng dẫn gỡ rối](https://www.raspberrypi.org/learning/troubleshooting-guide/) trên trang web của Raspberry Pi
 
-+ The [Raspberry Pi forum](https://www.raspberrypi.org/forums), including the [Beginners](https://www.raspberrypi.org/forums/viewforum.php?f=91) section, is a great place to ask questions and get support from the Raspberry Pi community
++ Diễn đàn [Raspberry Pi](https://www.raspberrypi.org/forums), bao gồm [Beginners](https://www.raspberrypi.org/forums/viewforum.php?f=91) , là một nơi tuyệt vời để đặt câu hỏi và nhận hỗ trợ từ cộng đồng Raspberry Pi
 
-+ Call out on [Twitter](https://twitter.com) using the hashtag #rpilearn, or submit a question on the [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
++ Gọi ra trên [Twitter](https://twitter.com) sử dụng #rpilearn hashtag, hoặc gửi một câu hỏi trên [Raspberry Pi stack Trao đổi](https://raspberrypi.stackexchange.com/)
 
-+ You could also attend a free [Raspberry Jam](https://rpf.io/jam) community event to talk to people about their experiences and get some first-hand help from fellow Raspberry Pi users
++ Bạn cũng có thể tham dự một sự kiện cộng đồng [Raspberry Jam](https://rpf.io/jam) miễn phí để trò chuyện với mọi người về trải nghiệm của họ và nhận được sự trợ giúp trực tiếp từ những người dùng Raspberry Pi
