@@ -1,77 +1,77 @@
-## What you will need
+## Ono što će vam trebati
 
-### Which Raspberry Pi?
+### Koji maloprodajni pi?
 
-There are several [models of Raspberry Pi](https://www.raspberrypi.org/products/), and for most people the Raspberry Pi 3 Model B+ is the one to choose.
+Postoji nekoliko [modeli malina Pi](https://www.raspberrypi.org/products/), a za većinu ljudi malina Pi 3 Model B + je jedan odabrati.
 
-![Raspberry Pi 3](images/raspberry-pi.png)
+![Plava pi 3](images/raspberry-pi.png)
 
-The Raspberry Pi 3 Model B+ is the newest, fastest, and easiest to use.
+Raspberry Pi 3 Model B + je najnoviji, najbrži i najlakši za korištenje.
 
-The Raspberry Pi Zero and Zero W are smaller and require less power, so they're useful for portable projects such as robots. It's generally easier to start a project with the Raspberry Pi 3, and to move to the Pi Zero when you have a working prototype that the smaller Pi would be useful for.
+Raspberry Pi Zero i Zero W manji su i zahtijevaju manje energije pa su korisni za prijenosne projekte poput robota. Općenito je lakše započeti projekt s malinama Raspberry Pi 3 i premjestiti se na Pi Zero kada imate radni prototip da bi manji Pi bio koristan.
 
-If you want to buy a Raspberry Pi, head to [rpf.io/products](https://rpf.io/products).
+Ako želite kupiti Raspberry Pi, prijeđite na [rpf.io/products](https://rpf.io/products).
 
-### A power supply
+### Napajanje
 
-To connect to a power socket, the Raspberry Pi has a micro USB port (the same found that's found on many mobile phones).
+Da biste se priključili na utičnicu, Raspberry Pi ima mikro USB priključak (isti je pronađen na mnogim mobilnim telefonima).
 
-You will need a power supply which provides at least 2.5 amps. We recommend using the [official Raspberry Pi power supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
+Trebat će vam napajanje koja osigurava najmanje 2,5 ampera. Preporučujemo korištenje [službenog napajanja Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
 
-![power supply](images/powersupply.png)
+![napajanje](images/powersupply.png)
 
-### A micro SD card
+### Mikro SD kartica
 
-Your Raspberry Pi needs an SD card to store all its files and the Raspbian operating system.
+Vaša Raspberry Pi treba SD karticu za pohranu svih svojih datoteka i operacijskog sustava Raspbian.
 
-![sd card](images/pi-sd.png)
+![SD kartica](images/pi-sd.png)
 
-You will need a micro SD card with a capacity of at least 8 GB.
+Trebat će vam mikro SD kartica s kapacitetom od najmanje 8 GB.
 
-Many sellers supply SD cards for Raspberry Pi that are already set up with Raspbian and ready to go.
+Mnogi prodavači isporučuju SD kartice za Raspberry Pi koji su već postavljeni s Raspbian i spremni za odlazak.
 
-### A keyboard and a mouse
+### Tipkovnica i miš
 
-To start using your Raspberry, you will need a USB keyboard and a USB mouse.
+Da biste počeli koristiti maline, trebat će vam USB tipkovnica i USB miš.
 
-Once you've set your Pi up, you can use a Bluetooth keyboard and mouse, but you'll need a USB keyboard and mouse for setting up.
+Nakon što postavite svoj Pi, možete koristiti Bluetooth tipkovnicu i miš, ali trebat će vam USB tipkovnica i miš za postavljanje.
 
-### A TV or computer screen
+### TV ili zaslon računala
 
-To view the Raspbian desktop environment, you will need a screen and a cable to link the screen and the Pi. The screen can be a TV or a computer monitor. If the screen has built-in speakers, the Pi will be able to use these to play sound.
+Da biste vidjeli Raspbian desktop okruženje, trebat će vam ekran i kabel za povezivanje zaslona i Pi. Zaslon može biti TV ili monitor računala. Ako zaslon ima ugrađene zvučnike, Pi će ih moći koristiti za reprodukciju zvuka.
 
 #### HDMI
 
-The Raspberry Pi has a HDMI output port that is compatible with the HDMI port of most modern TVs and computer monitors. Many computer monitors may also have DVI or VGA ports.
+Raspberry Pi ima HDMI izlazni priključak koji je kompatibilan s HDMI priključkom najsuvremenijih televizora i monitora računala. Mnogi monitori računala također mogu imati DVI ili VGA priključke.
 
 ![hdmi port](images/hdmi-port.png)
 
 #### DVI
 
-If your screen has a DVI port, you can connect the Pi to it using a HDMI-to-DVI cable.
+Ako vaš zaslon ima DVI priključak, možete ga povezati pomoću HDMI-to-DVI kabela.
 
 ![dvi port](images/dvi-port.png)
 
 #### VGA
 
-Some screens only have a VGA port.
+Neki zasloni imaju samo VGA priključak.
 
-![vga port](images/vga-port.png)
+![vga luka](images/vga-port.png)
 
-To connect your Pi to such a screen, you can use a HDMI-to-VGA adapter.
+Za povezivanje Pi s takvim zaslonom, možete koristiti HDMI-to-VGA adapter.
 
-![hdmi to vga adapter port](images/hdmi-vga-adapter.png)
+![hdmi do vga adaptera](images/hdmi-vga-adapter.png)
 
-### Optional extras
+### Dodatni sadržaji
 
-#### A case
+#### Slučaj
 
-You may want to put your Raspberry Pi in a case. This is not essential, but it will provide protection for your Pi. If you'd like, you can use the official case for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) or [Pi Zero or Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+Vi svibanj želite staviti svoje Raspberry Pi u slučaju. Ovo nije neophodno, ali će osigurati zaštitu vašeg Pi. Ako želite, možete koristiti službeni slučaj za [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) ili [Pi Zero ili Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
 
-#### Headphones or speakers
+#### Slušalice ili zvučnici
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
+Veliki modeli Raspberry Pi (ne Pi Zero / Zero W) imaju standardni audio priključak kao što je onaj vaš pametni telefon ili MP3 player. Ako želite, možete spojiti svoje slušalice ili zvučnike tako da Pi može reproducirati zvuk. Ako zaslon koji povezujete s Piom ima ugrađene zvučnike, Pi može reproducirati zvuk kroz ove.
 
-#### An Ethernet cable
+#### Ethernet kabel
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+Veliki modeli Raspberry Pi (ne Pi Zero / Zero W) imaju standardni Ethernet priključak za povezivanje s internetom. Da biste Pi Zero povezali s internetom, potreban vam je USB-to-Ethernet adapter. Raspberry Pi 3 i Pi Zero W također se mogu bežično spojiti na web.
