@@ -1,77 +1,77 @@
-## What you will need
+## 你需要什麼
 
-### Which Raspberry Pi?
+### 哪個Raspberry Pi？
 
-There are several [models of Raspberry Pi](https://www.raspberrypi.org/products/), and for most people the Raspberry Pi 3 Model B+ is the one to choose.
+有幾個 [模式樹莓派的](https://www.raspberrypi.org/products/)，和大多數人的樹莓派3模型B +是一個選擇。
 
-![Raspberry Pi 3](images/raspberry-pi.png)
+![樹莓派3](images/raspberry-pi.png)
 
-The Raspberry Pi 3 Model B+ is the newest, fastest, and easiest to use.
+Raspberry Pi 3 Model B +是最新，最快，最容易使用的。
 
-The Raspberry Pi Zero and Zero W are smaller and require less power, so they're useful for portable projects such as robots. It's generally easier to start a project with the Raspberry Pi 3, and to move to the Pi Zero when you have a working prototype that the smaller Pi would be useful for.
+Raspberry Pi Zero和Zero W體積更小，功耗更低，因此它們對機器人等便攜式項目非常有用。 使用Raspberry Pi 3開始項目通常更容易，當你有一個小型Pi可用的工作原型時，移動到Pi Zero。
 
-If you want to buy a Raspberry Pi, head to [rpf.io/products](https://rpf.io/products).
+如果您想購買Raspberry Pi，請前往 [rpf.io/products](https://rpf.io/products)。
 
-### A power supply
+### 電源
 
-To connect to a power socket, the Raspberry Pi has a micro USB port (the same found that's found on many mobile phones).
+為了連接電源插座，Raspberry Pi有一個微型USB端口（與許多手機上的相同）。
 
-You will need a power supply which provides at least 2.5 amps. We recommend using the [official Raspberry Pi power supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
+您將需要一個至少提供2.5安培的電源。 我們建議使用 [官方Raspberry Pi電源](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/)。
 
-![power supply](images/powersupply.png)
+![電源](images/powersupply.png)
 
-### A micro SD card
+### 微型SD卡
 
-Your Raspberry Pi needs an SD card to store all its files and the Raspbian operating system.
+您的Raspberry Pi需要一張SD卡來存儲其所有文件和Raspbian操作系統。
 
-![sd card](images/pi-sd.png)
+![SD卡](images/pi-sd.png)
 
-You will need a micro SD card with a capacity of at least 8 GB.
+您將需要一個容量至少為8 GB的micro SD卡。
 
-Many sellers supply SD cards for Raspberry Pi that are already set up with Raspbian and ready to go.
+許多賣家為Raspberry Pi提供SD卡，這些卡已經與Raspbian一起設置並準備好了。
 
-### A keyboard and a mouse
+### 鍵盤和鼠標
 
-To start using your Raspberry, you will need a USB keyboard and a USB mouse.
+要開始使用Raspberry，您需要一個USB鍵盤和一個USB鼠標。
 
-Once you've set your Pi up, you can use a Bluetooth keyboard and mouse, but you'll need a USB keyboard and mouse for setting up.
+一旦你設置了Pi，就可以使用藍牙鍵盤和鼠標，但是你需要一個USB鍵盤和鼠標進行設置。
 
-### A TV or computer screen
+### 電視或電腦屏幕
 
-To view the Raspbian desktop environment, you will need a screen and a cable to link the screen and the Pi. The screen can be a TV or a computer monitor. If the screen has built-in speakers, the Pi will be able to use these to play sound.
+要查看Raspbian桌面環境，您需要一個屏幕和一條電纜來鏈接屏幕和Pi。 屏幕可以是電視或計算機顯示器。 如果屏幕有內置揚聲器，Pi將能夠使用它們播放聲音。
 
 #### HDMI
 
-The Raspberry Pi has a HDMI output port that is compatible with the HDMI port of most modern TVs and computer monitors. Many computer monitors may also have DVI or VGA ports.
+Raspberry Pi具有HDMI輸出端口，可與大多數現代電視和計算機顯示器的HDMI端口兼容。 許多計算機顯示器也可能具有DVI或VGA端口。
 
-![hdmi port](images/hdmi-port.png)
+![hdmi港口](images/hdmi-port.png)
 
 #### DVI
 
-If your screen has a DVI port, you can connect the Pi to it using a HDMI-to-DVI cable.
+如果您的屏幕有DVI端口，您可以使用HDMI轉DVI電纜將Pi連接到它。
 
-![dvi port](images/dvi-port.png)
+![dvi端口](images/dvi-port.png)
 
 #### VGA
 
-Some screens only have a VGA port.
+有些屏幕只有VGA端口。
 
-![vga port](images/vga-port.png)
+![vga端口](images/vga-port.png)
 
-To connect your Pi to such a screen, you can use a HDMI-to-VGA adapter.
+要將Pi連接到此類屏幕，您可以使用HDMI-to-VGA適配器。
 
-![hdmi to vga adapter port](images/hdmi-vga-adapter.png)
+![hdmi到vga適配器端口](images/hdmi-vga-adapter.png)
 
-### Optional extras
+### 可選的附加功能
 
-#### A case
+#### 一個案例
 
-You may want to put your Raspberry Pi in a case. This is not essential, but it will provide protection for your Pi. If you'd like, you can use the official case for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) or [Pi Zero or Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+你可能想把Raspberry Pi放在一個盒子裡。 這不是必需的，但它會為你的Pi提供保護。 如果您願意，可以使用 [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) 或 [Pi Zero或Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/)的官方案例。
 
-#### Headphones or speakers
+#### 耳機或揚聲器
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
+大型Raspberry Pi型號（不是Pi Zero / Zero W）具有標準音頻端口，就像智能​​手機或MP3播放器上的那樣。 如果您願意，可以連接耳機或揚聲器，以便Pi可以播放聲音。 如果您正在連接Pi的屏幕具有內置揚聲器，則Pi可以通過這些播放聲音。
 
-#### An Ethernet cable
+#### 以太網電纜
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+大型Raspberry Pi型號（不是Pi Zero / Zero W）具有標準以太網端口，可將它們連接到互聯網。 要將Pi Zero連接到互聯網，您需要一個USB轉以太網適配器。 Raspberry Pi 3和Pi Zero W也可以無線連接到網絡。
