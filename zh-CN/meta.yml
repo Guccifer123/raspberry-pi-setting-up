@@ -1,25 +1,25 @@
 ---
-title: Setting up your Raspberry Pi
-hero_image: images/banner.png
-description: How to set up and start your Pi for the first time
+title: 设置Raspberry Pi
+hero_image: 图片/ banner.png
+description: 如何首次设置和启动Pi
 version: 4
 listed: true
 copyedit: true
-last_tested: "2018-05-16"
+last_tested: "2018年5月16日"
 steps:
   - 
-    title: Introduction
+    title: 介绍
   - 
-    title: What you will need
+    title: 你需要什么
   - 
-    title: Set up your SD card
+    title: 设置SD卡
   - 
-    title: Connect your Pi
+    title: 连接你的Pi
   - 
-    title: Start up your Pi
+    title: 启动你的Pi
   - 
-    title: Finish the setup
+    title: 完成设置
   - 
-    title: Where to find help
+    title: 哪里可以找到帮助
   - 
-    title: What next?
+    title: 接下来是什么？
