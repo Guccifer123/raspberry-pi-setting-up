@@ -1,0 +1,25 @@
+---
+title: Configurando tu Raspberry Pi
+hero_image: images / banner.png
+description: Cómo configurar e iniciar su Pi por primera vez
+version: 4
+listed: true
+copyedit: true
+last_tested: "2018-05-16"
+steps:
+  - 
+    title: Introducción
+  - 
+    title: Que necesitarás
+  - 
+    title: Configura tu tarjeta SD
+  - 
+    title: Conecta tu Pi
+  - 
+    title: Pon en marcha tu Pi
+  - 
+    title: Termina la configuración
+  - 
+    title: Donde encontrar ayuda
+  - 
+    title: '¿Qué sigue?'
