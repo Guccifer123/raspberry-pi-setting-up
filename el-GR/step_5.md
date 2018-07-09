@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## Ξεκινήστε το Raspberry Pi
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+Το Raspberry Pi δεν διαθέτει διακόπτη τροφοδοσίας: μόλις το συνδέσετε σε μια πρίζα, θα ενεργοποιηθεί. Παρατηρήστε ότι η θύρα τροφοδοσίας micro USB της Pi έχει μακρύτερη επίπεδη πλευρά στην κορυφή.
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ Συνδέστε μια τροφοδοσία micro USB σε μια πρίζα και συνδέστε τη σε θύρα τροφοδοσίας Pi.
 
 ![screenshot](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+Θα πρέπει να δείτε ένα κόκκινο LED που ανάβει στο Raspberry Pi, το οποίο δείχνει ότι το Pi είναι συνδεδεμένο στην τροφοδοσία. Καθώς ξεκινά (αυτό ονομάζεται επίσης **εκκίνηση**), θα δείτε σμέουρα εμφανίζεται στην πάνω αριστερή πλευρά της οθόνης σας.
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![σμέουρα μπότες](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Το πρόγραμμα περιήγησής σας δεν υποστηρίζει βίντεο WebM, επομένως δοκιμάστε το FireFox ή το Chrome. </video> 
 
-\--- collapse \---
+\--- κατάρρευση \---
 
 * * *
 
-## title: First-time startup with NOOBS
+## τίτλος: Πρώτη εκκίνηση με NOOBS
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+Εάν αυτή είναι η πρώτη φορά που ξεκινάτε το Raspberry Pi με κάρτα SD που περιέχει NOOBS, θα δείτε το πρόγραμμα εγκατάστασης NOOBS. Αυτό το λογισμικό θα σας καθοδηγήσει στην εγκατάσταση του λειτουργικού συστήματος Raspbian (OS).
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ Όταν το πρόγραμμα εγκατάστασης έχει φορτωθεί, θα σας προσφέρει μια επιλογή από το OS που θα εγκαταστήσει. Επιλέξτε το πλαίσιο για το **Raspbian**και, στη συνέχεια, κάντε κλικ στο **Εγκατάσταση**.
 
-![install](images/install.png)
+![εγκαθιστώ](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ Κάντε κλικ στο κουμπί **Ναι** στο παράθυρο διαλόγου προειδοποίησης, και στη συνέχεια, καθίστε πίσω και να χαλαρώσετε. Η διαδικασία εγκατάστασης Raspbian θα πάρει λίγο χρόνο.
 
-![installing](images/installing.png)
+![εγκατάσταση](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ Όταν έχει εγκατασταθεί το Raspbian, κάντε κλικ στο **OK**. Το Raspberry Pi θα ξεκινήσει και η Raspbian θα εκκινήσει.
 
-![installed](images/installed.png)
+![εγκατασταθεί](images/installed.png)
 
-\--- /collapse \---
+\--- /κατάρρευση \---
 
-After a few seconds the Raspbian Desktop will appear.
+Μετά από μερικά δευτερόλεπτα θα εμφανιστεί το Raspbian Desktop.
 
 ![raspbian desktop](images/pi-desktop.jpg)
