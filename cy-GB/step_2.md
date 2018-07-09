@@ -66,12 +66,12 @@ I gysylltu eich Pi i sgrin o'r fath, gallwch ddefnyddio adapter HDMI-i-VGA.
 
 #### Achos
 
-Efallai y byddwch am roi eich Pi Mws mewn achos. Nid yw hyn yn hanfodol, ond bydd yn amddiffyn eich Pi. If you'd like, you can use the official case for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) or [Pi Zero or Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+Efallai y byddwch am roi eich Pi Mws mewn achos. Nid yw hyn yn hanfodol, ond bydd yn amddiffyn eich Pi. Os hoffech chi, gallwch ddefnyddio'r achos swyddogol ar gyfer y [Mafon Môr 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) neu [Pi Zero neu Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
 
-#### Headphones or speakers
+#### Clustffonau neu siaradwyr
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
+Mae gan y modelau mawr Môr Môr (nid y Pi Zero / Zero W) borthladd sain safonol fel yr un ar eich ffôn smart neu chwaraewr MP3. Os ydych chi eisiau, gallwch gysylltu eich clustffonau neu'ch siaradwyr fel bod y Pi yn gallu chwarae sain. Os yw'r sgrin rydych chi'n cysylltu eich Pi i wedi siaradwyr adeiledig, gall y Pi chwarae sain trwy'r rhain.
 
-#### An Ethernet cable
+#### Cebl Ethernet
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+Mae gan y modelau mawr Môr Môr (nid y Pi Zero / Zero W) borthladd Ethernet safonol i'w cysylltu â'r rhyngrwyd. I gysylltu Pi Zero i'r rhyngrwyd, mae angen addasydd USB-i-Ethernet arnoch chi. Gall y Mws Pi 3 a Pi Zero W hefyd fod wedi'u cysylltu'n ddiwifr â'r we.
