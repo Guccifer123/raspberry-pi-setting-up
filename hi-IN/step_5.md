@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## अपने रास्पबेरी पाई शुरू करो
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+आपके रास्पबेरी पी में पावर स्विच नहीं है: जैसे ही आप इसे पावर आउटलेट से कनेक्ट करते हैं, यह चालू हो जाएगा। ध्यान दें कि पीआई के माइक्रो यूएसबी पावर पोर्ट में शीर्ष पर एक लंबा फ्लैट पक्ष है।
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ एक सॉकेट में एक माइक्रो यूएसबी बिजली की आपूर्ति प्लग करें और इसे पीआई के पावर पोर्ट से कनेक्ट करें।
 
-![screenshot](images/pi-power.png)
+![स्क्रीनशॉट](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+आपको रास्पबेरी पीआई पर एक लाल एलईडी लाइट देखना चाहिए, जो इंगित करता है कि पीआई शक्ति से जुड़ा हुआ है। जैसे ही यह शुरू होता है (इसे **बूटिंग**भी कहा जाता है), आप अपनी स्क्रीन के ऊपरी बाएं हाथ में रास्पबेरी दिखाई देंगे।
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![बूट रास्पबेरी](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> आपका ब्राउज़र वेबएम वीडियो का समर्थन नहीं करता है, इसलिए फ़ायरफ़ॉक्स या क्रोम आज़माएं। </video> 
 
-\--- collapse \---
+\--- पतन \---
 
 * * *
 
-## title: First-time startup with NOOBS
+## शीर्षक: एनओबीबीएस के साथ पहली बार स्टार्टअप
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+यदि यह पहली बार है कि आप अपने रास्पबेरी पीआई को एनओबीबीएस युक्त एक एसडी कार्ड के साथ शुरू कर रहे हैं, तो आप एनओयूबीएस इंस्टॉलर देखेंगे। यह सॉफ्टवेयर आपको रास्पियन ऑपरेटिंग सिस्टम (ओएस) स्थापित करने के माध्यम से चलाएगा।
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ जब इंस्टॉलर लोड हो जाता है, तो यह आपको एक ओएस इंस्टॉल करने का विकल्प प्रदान करेगा। **रास्पियन**लिए बॉक्स को चेक करें, और उसके बाद **इंस्टॉल करें**क्लिक करें।
 
-![install](images/install.png)
+![इंस्टॉल करें](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ चेतावनी संवाद बॉक्स में **हां** क्लिक करें, और फिर वापस बैठें और आराम करें। रास्पियन स्थापना प्रक्रिया में थोड़ा समय लगेगा।
 
-![installing](images/installing.png)
+![स्थापना](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ जब रास्पियन स्थापित किया गया है, तो **ठीक**क्लिक करें। आपका रास्पबेरी पाई फिर से शुरू हो जाएगा, और रास्पियन तब बूट हो जाएगा।
 
-![installed](images/installed.png)
+![स्थापित](images/installed.png)
 
-\--- /collapse \---
+\--- / पतन \---
 
-After a few seconds the Raspbian Desktop will appear.
+कुछ सेकंड के बाद रास्पियन डेस्कटॉप दिखाई देगा।
 
-![raspbian desktop](images/pi-desktop.jpg)
+![रास्पियन डेस्कटॉप](images/pi-desktop.jpg)
