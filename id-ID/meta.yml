@@ -1,25 +1,25 @@
 ---
-title: Setting up your Raspberry Pi
-hero_image: images/banner.png
-description: How to set up and start your Pi for the first time
+title: Menyiapkan Raspberry Pi Anda
+hero_image: images / banner.png
+description: Cara mengatur dan memulai Pi Anda untuk pertama kalinya
 version: 4
 listed: true
 copyedit: true
 last_tested: "2018-05-16"
 steps:
   - 
-    title: Introduction
+    title: pengantar
   - 
-    title: What you will need
+    title: Apa yang Anda butuhkan
   - 
-    title: Set up your SD card
+    title: Siapkan kartu SD Anda
   - 
-    title: Connect your Pi
+    title: Hubungkan Pi Anda
   - 
-    title: Start up your Pi
+    title: Mulai Pi Anda
   - 
-    title: Finish the setup
+    title: Selesaikan pengaturan
   - 
-    title: Where to find help
+    title: Di mana menemukan bantuan
   - 
-    title: What next?
+    title: Apa selanjutnya?
