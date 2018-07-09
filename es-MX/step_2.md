@@ -22,56 +22,56 @@ Necesitará una fuente de alimentación que proporcione al menos 2.5 amperios. S
 
 ### Una tarjeta micro SD
 
-Your Raspberry Pi needs an SD card to store all its files and the Raspbian operating system.
+Su Raspberry Pi necesita una tarjeta SD para almacenar todos sus archivos y el sistema operativo Raspbian.
 
-![sd card](images/pi-sd.png)
+![tarjeta SD](images/pi-sd.png)
 
-You will need a micro SD card with a capacity of at least 8 GB.
+Necesitará una tarjeta micro SD con una capacidad de al menos 8 GB.
 
-Many sellers supply SD cards for Raspberry Pi that are already set up with Raspbian and ready to go.
+Muchos vendedores suministran tarjetas SD para Raspberry Pi que ya están configuradas con Raspbian y listas para funcionar.
 
-### A keyboard and a mouse
+### Un teclado y un mouse
 
-To start using your Raspberry, you will need a USB keyboard and a USB mouse.
+Para comenzar a usar su Raspberry, necesitará un teclado USB y un mouse USB.
 
-Once you've set your Pi up, you can use a Bluetooth keyboard and mouse, but you'll need a USB keyboard and mouse for setting up.
+Una vez que haya configurado su Pi, puede usar un teclado y mouse Bluetooth, pero necesitará un teclado USB y un mouse para configurarlo.
 
-### A TV or computer screen
+### Una pantalla de TV o computadora
 
-To view the Raspbian desktop environment, you will need a screen and a cable to link the screen and the Pi. The screen can be a TV or a computer monitor. If the screen has built-in speakers, the Pi will be able to use these to play sound.
+Para ver el entorno de escritorio Raspbian, necesitará una pantalla y un cable para vincular la pantalla y el Pi. La pantalla puede ser un televisor o un monitor de computadora. Si la pantalla tiene parlantes incorporados, el Pi podrá usarlos para reproducir sonido.
 
 #### HDMI
 
-The Raspberry Pi has a HDMI output port that is compatible with the HDMI port of most modern TVs and computer monitors. Many computer monitors may also have DVI or VGA ports.
+El Raspberry Pi tiene un puerto de salida HDMI que es compatible con el puerto HDMI de la mayoría de los televisores modernos y monitores de computadora. Muchos monitores de computadora también pueden tener puertos DVI o VGA.
 
-![hdmi port](images/hdmi-port.png)
+![puerto hdmi](images/hdmi-port.png)
 
 #### DVI
 
-If your screen has a DVI port, you can connect the Pi to it using a HDMI-to-DVI cable.
+Si su pantalla tiene un puerto DVI, puede conectar el Pi con un cable HDMI a DVI.
 
-![dvi port](images/dvi-port.png)
+![puerto dvi](images/dvi-port.png)
 
 #### VGA
 
-Some screens only have a VGA port.
+Algunas pantallas solo tienen un puerto VGA.
 
-![vga port](images/vga-port.png)
+![puerto vga](images/vga-port.png)
 
-To connect your Pi to such a screen, you can use a HDMI-to-VGA adapter.
+Para conectar su Pi a dicha pantalla, puede usar un adaptador de HDMI a VGA.
 
-![hdmi to vga adapter port](images/hdmi-vga-adapter.png)
+![puerto adaptador hdmi a vga](images/hdmi-vga-adapter.png)
 
-### Optional extras
+### Extras opcionales
 
-#### A case
+#### Un caso
 
-You may want to put your Raspberry Pi in a case. This is not essential, but it will provide protection for your Pi. If you'd like, you can use the official case for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) or [Pi Zero or Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+Es posible que desee poner su Raspberry Pi en un estuche. Esto no es esencial, pero brindará protección para su Pi. Si desea, puede utilizar el caso oficial para el [Frambuesa Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) o [Pi Cero o Cero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
 
-#### Headphones or speakers
+#### Auriculares o parlantes
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
+Los grandes modelos de Raspberry Pi (no el Pi Zero / Zero W) tienen un puerto de audio estándar como el de su teléfono inteligente o reproductor de MP3. Si lo desea, puede conectar sus auriculares o parlantes para que el Pi pueda reproducir el sonido. Si la pantalla a la que está conectando su Pi tiene parlantes incorporados, el Pi puede reproducir el sonido a través de estos.
 
-#### An Ethernet cable
+#### Un cable de Ethernet
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+Los grandes modelos de Raspberry Pi (no el Pi Zero / Zero W) tienen un puerto Ethernet estándar para conectarlos a Internet. Para conectar un Pi Zero a Internet, necesita un adaptador de USB a Ethernet. El Raspberry Pi 3 y Pi Zero W también se pueden conectar de forma inalámbrica a la web.
