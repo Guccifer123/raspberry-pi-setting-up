@@ -68,10 +68,10 @@ Một số màn hình chỉ có cổng VGA.
 
 Bạn có thể muốn đặt Raspberry Pi của bạn trong một trường hợp. Điều này là không cần thiết, nhưng nó sẽ cung cấp bảo vệ cho Pi của bạn. Nếu bạn muốn, bạn có thể sử dụng trường hợp chính thức cho [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) hoặc [Pi Zero hoặc Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
 
-#### Headphones or speakers
+#### Tai nghe hoặc loa
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
+Các mô hình Raspberry Pi lớn (không phải Pi Zero / Zero W) có một cổng âm thanh chuẩn như cổng trên điện thoại thông minh hoặc máy nghe nhạc MP3 của bạn. Nếu muốn, bạn có thể kết nối tai nghe hoặc loa để Pi có thể phát âm thanh. Nếu màn hình bạn đang kết nối Pi của bạn có loa tích hợp, Pi có thể phát âm thanh thông qua các loa này.
 
-#### An Ethernet cable
+#### Cáp Ethernet
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+Các mô hình Raspberry Pi lớn (không phải là Pi Zero / Zero W) có một cổng Ethernet tiêu chuẩn để kết nối chúng với internet. Để kết nối Pi Zero với Internet, bạn cần có bộ điều hợp USB-tới-Ethernet. Raspberry Pi 3 và Pi Zero W cũng có thể được kết nối không dây với web.
