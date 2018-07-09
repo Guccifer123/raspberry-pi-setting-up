@@ -1,53 +1,53 @@
-## Set up your SD card
+## Sediakan kad SD anda
 
-If you have an SD card that doesn't have the Raspbian operating system on it yet, or if you want to reset your Raspberry Pi, you can easily install Raspbian yourself. To do so, you need a computer that has an SD card port — most laptop and desktop computers have one.
+Jika anda mempunyai kad SD yang tidak mempunyai sistem operasi Raspbian di atasnya, atau jika anda mahu menetapkan semula Ras Raspberry Pi anda, anda boleh dengan mudah memasang Raspbian sendiri. Untuk berbuat demikian, anda memerlukan komputer yang mempunyai port kad SD - kebanyakan komputer riba dan komputer desktop mempunyai satu.
 
-### The Raspbian operating system via NOOBS
+### Sistem operasi Raspbian melalui NOOBS
 
-Using the NOOBS software is the easiest way to install Raspbian on your SD card.
+Menggunakan perisian NOOBS adalah cara paling mudah untuk memasang Raspbian pada kad SD anda.
 
-#### Download NOOBS
+#### Muat turun NOOBS
 
-+ Visit the [Raspberry Pi downloads page](https://www.raspberrypi.org/downloads).
++ Lawati [Raspberry Pi muat turun halaman](https://www.raspberrypi.org/downloads).
 
-![Downloads page](images/downloads-page.png)
+![Halaman muat turun](images/downloads-page.png)
 
-+ You should see a box linking to the NOOBS files. Click on the box.
++ Anda harus melihat kotak yang menghubungkan ke fail NOOBS. Klik pada kotak.
 
-![Click on NOOBS](images/click-noobs.png)
+![Klik pada NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files. Make sure to pay attention to where you save the archive, so that you can find it again quickly.
++ Pilihan paling mudah adalah untuk memuat turun arkib zip fail. Pastikan untuk memberi perhatian kepada tempat anda menyimpan arkib, supaya anda dapat menemukannya dengan cepat.
 
-![Download zip](images/download-zip.png)
+![Muat turun zip](images/download-zip.png)
 
-#### Format the SD card
+#### Format kad SD
 
-Anything that's stored on the SD card will be overwritten during formatting. So if the SD card on which you want to install Raspbian currently has any files on it, e.g. from an older version of Raspbian, you may wish to back these files up first to not lose them permanently.
+Apa-apa sahaja yang disimpan pada kad SD akan ditulis ganti semasa pemformatan. Oleh itu, jika kad SD yang anda mahu pasang Raspbian kini mempunyai sebarang fail di atasnya, contohnya dari versi lama Raspbian, anda mungkin mahu memulangkan fail-fail ini terlebih dahulu untuk tidak kehilangannya secara kekal.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Lawati laman web Persatuan SD dan muat turun [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) untuk Windows atau Mac.
 
-+ Follow the instructions to install the software.
++ Ikut arahan untuk memasang perisian.
 
-+ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Masukkan kad SD anda ke dalam slot kad SD komputer atau komputer riba dan tulis nota huruf drive yang diberikan kepadanya, mis. `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and the format the card.
++ Dalam Formatter SD, pilih huruf pemacu untuk kad SD anda, dan formatkan kad itu.
 
-#### Extract NOOBS from the zip archive
+#### Ekstrak NOOBS dari arkib zip
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Seterusnya, anda perlu mengeluarkan fail dari arkib zip NOOBS yang anda muat turun dari laman web Raspberry Pi.
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ Cari arkib yang dimuat turun - secara lalai, ia perlu berada di dalam anda `Downloads` folder.
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ Klik dua kali untuk mengekstrak fail, dan jadikan window Explorer / Finder yang terhasil terbuka.
 
-#### Copy the files
+#### Salin fail
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Sekarang buka tetingkap Explorer / Finder lain dan navigasi ke kad SD. Adalah lebih baik untuk meletakkan kedua-dua tingkap itu berdampingan.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ Pilih semua fail dalam folder `NOOBS` dan seretnya ke dalam tetingkap kad SD untuk menyalinnya ke kad.
 
-![windows copy](images/copy3.png)
+![tingkap salinan](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![salinan macos](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ Setelah semua fail disalin, anda boleh mengeluarkan kad SD.
