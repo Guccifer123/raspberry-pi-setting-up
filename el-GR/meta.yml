@@ -1,25 +1,25 @@
 ---
-title: Setting up your Raspberry Pi
-hero_image: images/banner.png
-description: How to set up and start your Pi for the first time
+title: Ρύθμιση του σμέουρου Pi σας
+hero_image: εικόνες / banner.png
+description: Πώς να ρυθμίσετε και να ξεκινήσετε το Pi σας για πρώτη φορά
 version: 4
 listed: true
 copyedit: true
 last_tested: "2018-05-16"
 steps:
   - 
-    title: Introduction
+    title: Εισαγωγή
   - 
-    title: What you will need
+    title: Τι θα χρειαστείτε
   - 
-    title: Set up your SD card
+    title: Ρυθμίστε την κάρτα SD σας
   - 
-    title: Connect your Pi
+    title: Συνδέστε το Pi σας
   - 
-    title: Start up your Pi
+    title: Ξεκινήστε το Pi
   - 
-    title: Finish the setup
+    title: Ολοκληρώστε τη ρύθμιση
   - 
-    title: Where to find help
+    title: Πού θα βρείτε βοήθεια
   - 
-    title: What next?
+    title: Ποιο είναι το επόμενο?
