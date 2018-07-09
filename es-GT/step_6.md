@@ -1,31 +1,31 @@
 ## Termina la configuración
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Cuando encienda su Raspberry Pi por primera vez, aparecerá la aplicación **Bienvenido a Raspberry Pi** y lo guiará a través de la configuración inicial.
 
-![pi wizard](images/piwiz.gif)
+![pi asistente](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Haga clic en **Siguiente** para comenzar la configuración.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Configure **Country**, **Language**y **Timezone**, luego haga clic en **Next** nuevamente.
 
-![pi wizard country](images/piwiz2.PNG)
+![pi país mago](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Ingrese una nueva contraseña para su Raspberry Pi y haga clic en **Siguiente**.
 
-![pi wizard password](images/piwiz3.PNG)
+![pi asistente de contraseña](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Conéctese a su red WiFi seleccionando su nombre, ingresando la contraseña y haciendo clic en **Siguiente**.
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Nota:** si su modelo Raspberry Pi no tiene conectividad inalámbrica, no verá esta pantalla.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Haga clic en **Siguiente** deje que el asistente verifique las actualizaciones de Raspbian e instálelas (esto podría demorar un poco).
 
-![pi wizard updating](images/piwiz6.PNG)
+![pi asistente de actualización](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Haga clic en **Listo** o **Reinicie** para finalizar la configuración.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Nota:** solo necesitará reiniciar si es necesario para completar una actualización.
 
-![pi wizard complete](images/piwiz7.PNG)
+![pi asistente completado](images/piwiz7.PNG)
