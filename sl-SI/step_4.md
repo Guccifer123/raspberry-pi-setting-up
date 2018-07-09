@@ -2,36 +2,36 @@
 
 Dajmo vse, kar je povezano. Pomembno je, da to naredite v pravilnem vrstnem redu, tako da so vse vaše komponente varne.
 
-![pi connections](images/pi-labelled.png)
+![pi povezave](images/pi-labelled.png)
 
-+ Insert the SD card you've set up with Raspbian (via NOOBS) into the micro SD card slot at the underside of your Pi. 
++ Vstavite kartico SD, ki ste jo namestili z Raspbian (prek NOOBS) v režo za kartice micro SD na spodnji strani vašega Pi. 
 
 ![sD kartice](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+**Opomba:** Veliko kartic micro SD bo prišlo v večji adapter - kartico lahko potisnete z uporabo ustnice na dnu.
 
-![sd card holder](images/sd-card-holder.png)
+![nosilec kartice sd](images/sd-card-holder.png)
 
-+ Find the USB cable for your mouse, and connect the mouse to a USB port on the Raspberry Pi (it doesn't matter which one).
++ Poiščite USB kabel za miško in povežite miško z USB-priključkom na Raspberry Pi (ne glede na to, kateri je eden).
 
-![mouse](images/pi-mouse.png)
+![miš](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Enako povežite tipkovnico.
 
-![keyboard](images/pi-keyboard.png)
+![tipkovnico](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large, flat side on top.
++ Oglejte si priključek HDMI na Raspberry Pi - obvestite, da ima veliko, ravno stran zgoraj.
 
 ![hdmi](images/pi-hdmi.png)
 
-+ Make sure your screen is plugged into a wall socket and turned on. Use a cable to connect the screen to the Pi's HDMI port — use an adapter if necessary.
++ Prepričajte se, da je zaslon priključen v zidno vtičnico in vklopljen. Uporabite kabel za priključitev zaslona na vrata HDMI Pi - po potrebi uporabite adapter.
 
-**Note:** nothing will display on the screen, because the Pi is not running yet.
+**Opomba:** se na zaslonu ne prikaže nič, ker Pi še ne deluje.
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ Če želite priključiti Pi na internet preko Ethernet-a, uporabite ethernetni kabel za povezavo ethernetnega priključka na Raspberry Pi v ethernet vtičnico na steni ali na vašem internetnem usmerjevalniku. To vam ni treba storiti, če boste uporabljali WiFi ali če se ne želite povezati z internetom.
 
 ![ethernet](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ Zvok bo prišel z vašega zaslona, ​​če ima zvočnike ali pa lahko priključite slušalke ali zvočnike na avdio vtičnico, če jih imate.
 
-![headphones](images/pi-headphones.png)
+![slušalke](images/pi-headphones.png)
