@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## আপনার রাস্পবেরি পাই শুরু
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+আপনার রাস্পবেরি পিআই একটি পাওয়ার সুইচ নেই: যত তাড়াতাড়ি আপনি একটি পাওয়ার আউটলেট এটি সংযোগ, এটি চালু হবে। লক্ষ্য করুন যে Pi এর মাইক্রো ইউএসবি পাওয়ার পোর্টের উপরে একটি দীর্ঘ সমতল অংশ আছে।
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ একটি সকেট মধ্যে একটি মাইক্রো ইউএসবি পাওয়ার সাপ্লাই প্লাগ এবং আপনি Pi এর ক্ষমতা পোর্ট এটি সংযোগ।
 
-![screenshot](images/pi-power.png)
+![স্ক্রিনশট](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+আপনি রাস্পবেরি পিআইতে একটি লাল LED আলো দেখতে পাবেন, যা নির্দেশ করে যে Pi ক্ষমতা সংযুক্ত। এটি শুরু হওয়ার আগে (এটি **বুটিং**নামেও পরিচিত), আপনি আপনার স্ক্রিনের উপরের বামদিকে রাশবেরি প্রদর্শিত হবে।
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![বুট রাস্পবেরি](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> আপনার ব্রাউজার WebM ভিডিও সমর্থন করে না, তাই ফায়ারফক্স বা ক্রোমের চেষ্টা করুন </video> 
 
-\--- collapse \---
+\--- সংকোচন \---
 
 * * *
 
-## title: First-time startup with NOOBS
+## শিরোনাম: NOOBS এর সাথে প্রথমবারের মতো প্রারম্ভ
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+যদি এই প্রথমবারের মত আপনি আপনার রস্পবেই পিআইটি একটি NOOBS ধারণকারী SD কার্ডের সাথে শুরু করছেন, আপনি NOOBS ইনস্টলারটি দেখতে পাবেন। এই সফটওয়্যারটি আপনাকে রাশবিয়ান অপারেটিং সিস্টেম (ওএস) ইনস্টল করার মাধ্যমে চালিত করবে।
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ ইনস্টলার লোড হয়েছে যখন, এটি আপনি ইনস্টল করার জন্য যে একটি অপারেটিং সিস্টেম অফার অফার হবে। **রাশবিল**জন্য বক্স চেক করুন, এবং তারপর **ইনস্টল করুন**ক্লিক করুন।
 
-![install](images/install.png)
+![ইনস্টল](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ সতর্কবার্তা ডায়ালগ বাক্সে **টিতে** ক্লিক করুন, এবং তারপর বসুন এবং শিথিল করুন। Raspbian ইনস্টলেশনের প্রক্রিয়াটি একটু সময় লাগবে।
 
-![installing](images/installing.png)
+![ইনস্টল করার](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ Raspbian ইনস্টল করা হয়েছে, **ক্লিক করুন ঠিক আছে**। আপনার রাস্পবেরি Pi পুনরায় আরম্ভ হবে, এবং রাশববিব তারপর বুট আপ হবে।
 
-![installed](images/installed.png)
+![ইনস্টল](images/installed.png)
 
-\--- /collapse \---
+\--- / পতন \---
 
-After a few seconds the Raspbian Desktop will appear.
+কয়েক সেকেন্ডের পরে রাস্পবেরি ডেস্কটপ প্রদর্শিত হবে।
 
-![raspbian desktop](images/pi-desktop.jpg)
+![রাস্পবানি ডেস্কটপ](images/pi-desktop.jpg)
