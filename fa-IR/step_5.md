@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## تمشک خود را شروع کنید
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+Raspberry Pi شما یک سوئیچ قدرت ندارد: به محض این که آن را به یک منبع برق وصل کنید، آن را روشن کنید. توجه داشته باشید که پورت USB میکرو USB Pi یک طرف مسطح بلندتر دارد.
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ یک منبع تغذیه میکرو USB را به یک سوکت وصل کنید و آن را به پورت Power Pi وصل کنید.
 
-![screenshot](images/pi-power.png)
+![تصویری](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+شما باید یک چراغ قرمز روشن بر روی Raspberry Pi، که نشان می دهد Pi به قدرت متصل است. همانطور که شروع می شود (این نیز **بوت شدن**نامیده می شود)، تمشک را در سمت چپ بالای صفحه ظاهر می کنید.
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![بوت تمشک](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> مرورگر شما از Video WebM پشتیبانی نمی کند، بنابراین FireFox یا Chrome را امتحان کنید. </video> 
 
-\--- collapse \---
+\--- سقوط - فروپاشی \---
 
 * * *
 
-## title: First-time startup with NOOBS
+## عنوان: راه اندازی اولین بار با NOOBS
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+اگر این اولین بار است که شما Raspberry Pi را با یک کارت SD حاوی NOOBS شروع می کنید، نصب NOOBS را مشاهده خواهید کرد. این نرم افزار شما را از طریق نصب سیستم عامل Raspbian (OS) راه اندازی می کند.
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ هنگامی که نصب کننده بارگذاری شده است، آن را به شما انتخاب می کند که سیستم عامل را نصب کنید. کادر برای **Raspbian**علامت بزنید و سپس روی **Install**کلیک کنید.
 
-![install](images/install.png)
+![نصب](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ روی **بله** در کادر گفتگوی هشدار کلیک کنید و سپس پشت سر بگذارید و استراحت کنید. فرایند نصب Raspbian زمان کمی خواهد برد.
 
-![installing](images/installing.png)
+![نصب کردن](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ هنگامی که Raspberry که نصب شده است، کلیک کنید **OK**. Raspberry Pi شما راه اندازی مجدد خواهد شد و Raspbian پس از آن بارگذاری خواهد شد.
 
-![installed](images/installed.png)
+![نصب شده است](images/installed.png)
 
-\--- /collapse \---
+\--- /سقوط - فروپاشی \---
 
-After a few seconds the Raspbian Desktop will appear.
+پس از چند ثانیه دسکتاپ Raspbian ظاهر خواهد شد.
 
-![raspbian desktop](images/pi-desktop.jpg)
+![دسکتاپ raspbian](images/pi-desktop.jpg)
