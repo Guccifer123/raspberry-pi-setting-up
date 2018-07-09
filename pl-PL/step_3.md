@@ -34,20 +34,20 @@ Wszystko, co jest zapisane na karcie SD, zostanie nadpisane podczas formatowania
 
 #### Wyodrębnij NOOBS z archiwum zip
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Następnie musisz wyodrębnić pliki z archiwum zip NOOBS pobranego ze strony Raspberry Pi.
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ Znajdź pobrane archiwum - domyślnie powinien znajdować się w folderze `pobrań`.
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ Kliknij go dwukrotnie, aby wyodrębnić pliki, i pozostaw otwarte okno Eksploratora / Findera.
 
-#### Copy the files
+#### Skopiuj pliki
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Teraz otwórz kolejne okno Eksploratora / Findera i przejdź do karty SD. Najlepiej ustawić dwa okna obok siebie.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ Wybierz wszystkie pliki w folderze `NOOBS` i przeciągnij je do okna karty SD, aby skopiować je na kartę.
 
-![windows copy](images/copy3.png)
+![kopia okien](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![kopia makra](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ Po skopiowaniu wszystkich plików możesz wysunąć kartę SD.
