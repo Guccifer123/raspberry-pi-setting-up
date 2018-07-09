@@ -10,28 +10,28 @@
 
 **Примечание:** много микро SD-карт появится внутри большего адаптера - вы можете вытащить карту с помощью губы внизу.
 
-![sd card holder](images/sd-card-holder.png)
+![держатель карточки sd](images/sd-card-holder.png)
 
-+ Find the USB cable for your mouse, and connect the mouse to a USB port on the Raspberry Pi (it doesn't matter which one).
++ Найдите USB-кабель для мыши и подключите мышь к порту USB на малине Pi (неважно, какой из них).
 
-![mouse](images/pi-mouse.png)
+![мышь](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Подключите клавиатуру таким же образом.
 
-![keyboard](images/pi-keyboard.png)
+![клавиатура](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large, flat side on top.
++ Посмотрите на порт HDMI на малине Pi - обратите внимание, что он имеет большую плоскую сторону сверху.
 
-![hdmi](images/pi-hdmi.png)
+![HDMI](images/pi-hdmi.png)
 
-+ Make sure your screen is plugged into a wall socket and turned on. Use a cable to connect the screen to the Pi's HDMI port — use an adapter if necessary.
++ Убедитесь, что ваш экран подключен к розетке и включен. Используйте кабель для подключения экрана к порту HDMI Pi - при необходимости используйте адаптер.
 
-**Note:** nothing will display on the screen, because the Pi is not running yet.
+**Примечание:** ничего не будет отображаться на экране, потому что Pi еще не запущен.
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ Если вы хотите подключить Pi к Интернету через Ethernet, используйте Ethernet-кабель для подключения Ethernet-порта на Raspberry Pi к разъему Ethernet на стене или на вашем интернет-маршрутизаторе. Вам не нужно это делать, если вы будете использовать Wi-Fi или если вы не хотите подключаться к Интернету.
 
-![ethernet](images/pi-ethernet.png)
+![локальные сети](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ Звук будет выводиться с вашего экрана, если у него есть динамики, или вы можете подключить наушники или динамики к аудиоразъему, если они у вас есть.
 
-![headphones](images/pi-headphones.png)
+![наушники](images/pi-headphones.png)
