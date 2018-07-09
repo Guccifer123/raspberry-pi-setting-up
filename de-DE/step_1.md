@@ -1,7 +1,7 @@
-## Introduction
+## Einführung
 
-Here you'll learn about your Raspberry Pi, what things you need to use it, and how to set it up.
+Hier erfahren Sie mehr über Ihren Raspberry Pi, welche Dinge Sie benötigen und wie Sie ihn einrichten.
 
-![plug in the pi](images/pi-plug-in.gif)
+![stecke den pi ein](images/pi-plug-in.gif)
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){:target="_blank"}.
+Wenn Sie das Projekt drucken möchten, nutzen Sie bitte die [Druckversion](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){: target = „_ blank“}.
