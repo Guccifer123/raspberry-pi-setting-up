@@ -1,7 +1,7 @@
 ## esittely
 
-Here you'll learn about your Raspberry Pi, what things you need to use it, and how to set it up.
+Täältä löydät Raspberry Pi: n, mitä asioita sinun täytyy käyttää ja miten se voidaan määrittää.
 
-![plug in the pi](images/pi-plug-in.gif)
+![kytke pi](images/pi-plug-in.gif)
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){:target="_blank"}.
+Jos haluat tulostaa tämän projektin, käytä [tulostusystävällistä versiota](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){: target = "_ blank"}.
