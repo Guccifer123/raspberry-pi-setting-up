@@ -1,53 +1,53 @@
 ## Opsæt dit SD-kort
 
-If you have an SD card that doesn't have the Raspbian operating system on it yet, or if you want to reset your Raspberry Pi, you can easily install Raspbian yourself. To do so, you need a computer that has an SD card port — most laptop and desktop computers have one.
+Hvis du har et SD-kort, der ikke har Raspbian-operativsystemet på det endnu, eller hvis du vil nulstille din Raspberry Pi, kan du nemt installere Raspbian selv. For at gøre det har du brug for en computer, der har en SD-kortport - de fleste bærbare og stationære computere har en.
 
-### The Raspbian operating system via NOOBS
+### Raspbian operativsystemet via NOOBS
 
-Using the NOOBS software is the easiest way to install Raspbian on your SD card.
+Brug af NOOBS-softwaren er den nemmeste måde at installere Raspbian på dit SD-kort.
 
 #### Download NOOBS
 
-+ Visit the [Raspberry Pi downloads page](https://www.raspberrypi.org/downloads).
++ Besøg [Raspberry Pi downloads side](https://www.raspberrypi.org/downloads).
 
-![Downloads page](images/downloads-page.png)
+![Downloads side](images/downloads-page.png)
 
-+ You should see a box linking to the NOOBS files. Click on the box.
++ Du skal se en boks, der linker til NOOBS-filerne. Klik på boksen.
 
-![Click on NOOBS](images/click-noobs.png)
+![Klik på NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files. Make sure to pay attention to where you save the archive, so that you can find it again quickly.
++ Den nemmeste mulighed er at downloade zip-arkivet for filerne. Sørg for at være opmærksom på, hvor du gemmer arkivet, så du hurtigt kan finde det igen.
 
 ![Download zip](images/download-zip.png)
 
-#### Format the SD card
+#### Formater SD-kortet
 
-Anything that's stored on the SD card will be overwritten during formatting. So if the SD card on which you want to install Raspbian currently has any files on it, e.g. from an older version of Raspbian, you may wish to back these files up first to not lose them permanently.
+Alt, der er gemt på SD-kortet, overskrives under formatering. Så hvis SD-kortet, som du vil installere Raspbian for øjeblikket, har nogen filer på det, f.eks. Fra en ældre version af Raspbian, kan du ønske at bakke disse filer op først for ikke at miste dem permanent.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Besøg SD Association's hjemmeside og download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) til Windows eller Mac.
 
-+ Follow the instructions to install the software.
++ Følg vejledningen for at installere softwaren.
 
-+ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Indsæt dit SD-kort i computerens eller laptopens SD-kortspor og noter det drevbogstav, der er tildelt det, f.eks. `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and the format the card.
++ Vælg SD-kort i SD Format, og format kortet.
 
-#### Extract NOOBS from the zip archive
+#### Uddrag NOOBS fra zip arkivet
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Derefter skal du udpakke filerne fra NOOBS zip-arkivet, du downloadede fra Raspberry Pi-webstedet.
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ Find det downloadede arkiv - det skal som standard være i din `Downloads` mappe.
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ Dobbeltklik på det for at udpakke filerne, og hold det resulterende Explorer / Finder-vindue åbent.
 
-#### Copy the files
+#### Kopier filerne
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Nu åbner du et andet Explorer / Finder-vindue og navigerer til SD-kortet. Det er bedst at placere de to vinduer side om side.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ Vælg alle filerne i mappen `NOOBS` og træk dem i SD-kortvinduet for at kopiere dem til kortet.
 
-![windows copy](images/copy3.png)
+![Windows kopi](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![macos kopi](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ Når filerne er blevet kopieret over, kan du skubbe SD-kortet ud.
