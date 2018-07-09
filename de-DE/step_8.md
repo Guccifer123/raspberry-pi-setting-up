@@ -1,10 +1,10 @@
-## What next?
+## Was als nächstes?
 
-+ Take a look at our [Using your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using) guide.
++ Werfen Sie einen Blick auf unsere [Anleitung mit Ihrem Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using).
 
-+ Explore what you can do with your Raspberry Pi by creating some of our [digital making projects](https://projects.raspberrypi.org), for example:
++ Erkunden Sie, was Sie mit Ihrem Raspberry Pi machen können, indem Sie zum Beispiel eines unserer [digitalen Making-Projekte erstellen](https://projects.raspberrypi.org):
     
-    + [Robot antenna](https://projects.raspberrypi.org/en/projects/robot-antenna) — control a robot's antenna light with a Raspberry Pi and code blocks
-    + [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) — learn how to code your own musical instruments
-    + [Turtle race](https://projects.raspberrypi.org/en/projects/turtle-race) — race digital turtles against each other
-    + [Push button stop-motion](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) — make your own stop-motion animation rig with a button and a [Raspberry Pi Camera Module](https://www.raspberrypi.org/products/camera-module-v2/)
+    + [Roboterantenne](https://projects.raspberrypi.org/en/projects/robot-antenna) - Steuern Sie das Antennenlicht eines Roboters mit einem Raspberry Pi und Codeblöcken
+    + [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) - lernen , wie Sie Ihre eigenen Musikinstrumente codieren
+    + [Schildkröte Rennen](https://projects.raspberrypi.org/en/projects/turtle-race) - Rennen digitale Schildkröten gegeneinander
+    + [Knopfdruck Stop-Motion](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) - Erstellen Sie Ihr eigenes Stop-Motion-Animations-Rig mit einem Knopf und einem [Raspberry Pi Camera Module](https://www.raspberrypi.org/products/camera-module-v2/)
