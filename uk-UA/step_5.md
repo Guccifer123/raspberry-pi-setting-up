@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## Почніть свою малину Пі
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+Ваш Raspberry Pi не має вимикача живлення: як тільки ви підключите його до розетки, вона буде включена. Зверніть увагу, що порт мікро-USB USB має довшу плоску сторону зверху.
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ Підключіть мікро-USB-джерело живлення до розетки та підключіть його до порту живлення Pi.
 
-![screenshot](images/pi-power.png)
+![скріншот](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+Ви повинні побачити червоний світлодіодний індикатор, що світиться на Малину Пі, що вказує на те, що Pi підключено до живлення. Коли він запускається (це також називається **завантаження**), ви побачите, що малина з'явиться у верхній лівій частині екрана.
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![завантажте малину](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Ваш браузер не підтримує WebM відео, тому спробуйте FireFox або Chrome. </video> 
 
-\--- collapse \---
+\--- колапс \---
 
 * * *
 
-## title: First-time startup with NOOBS
+## title: Перший запуск з NOOBS
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+Якщо це перший раз, коли ви запускаєте Raspberry Pi з SD-картою, що містить NOOBS, ви побачите програму встановлення NOOBS. Це програмне забезпечення допоможе вам встановити операційну систему Raspbian (ОС).
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ Коли програма встановлення завантажиться, вона запропонує вам вибір, яку ОС встановити. Установіть прапорець для **Raspbian**, а потім натисніть **Install**.
 
-![install](images/install.png)
+![встановити](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ Клацніть **Так** в діалоговому вікні попередження, а потім сідайте і розслабтеся. Процес установки Raspbian займе деякий час.
 
-![installing](images/installing.png)
+![встановлення](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ Коли встановлено Raspbian, натисніть **OK**. Ваша Малина Пі буде перезавантажена, і Raspbian потім завантажиться.
 
-![installed](images/installed.png)
+![встановлено](images/installed.png)
 
-\--- /collapse \---
+\--- / колапс \---
 
-After a few seconds the Raspbian Desktop will appear.
+Через кілька секунд з'явиться робочий стіл Raspbian.
 
-![raspbian desktop](images/pi-desktop.jpg)
+![робота на робочому столі](images/pi-desktop.jpg)
