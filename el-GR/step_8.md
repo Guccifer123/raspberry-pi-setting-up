@@ -1,10 +1,10 @@
-## What next?
+## Ποιο είναι το επόμενο?
 
-+ Take a look at our [Using your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using) guide.
++ Ρίξτε μια ματιά στο [Χρησιμοποιώντας τον οδηγό Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using).
 
-+ Explore what you can do with your Raspberry Pi by creating some of our [digital making projects](https://projects.raspberrypi.org), for example:
++ Εξερευνήστε τι μπορείτε να κάνετε με το Raspberry Pi σας με τη δημιουργία μερικών από μας [ψηφιακών έργων λήψης](https://projects.raspberrypi.org), για παράδειγμα:
     
-    + [Robot antenna](https://projects.raspberrypi.org/en/projects/robot-antenna) — control a robot's antenna light with a Raspberry Pi and code blocks
-    + [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) — learn how to code your own musical instruments
-    + [Turtle race](https://projects.raspberrypi.org/en/projects/turtle-race) — race digital turtles against each other
-    + [Push button stop-motion](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) — make your own stop-motion animation rig with a button and a [Raspberry Pi Camera Module](https://www.raspberrypi.org/products/camera-module-v2/)
+    + [Κεραία ρομπότ](https://projects.raspberrypi.org/en/projects/robot-antenna) - Ελέγξτε το φως κεραίας ενός ρομπότ με μπλοκ Raspberry Pi και κωδικό
+    + [Ροκ μπάντα](https://projects.raspberrypi.org/en/projects/rock-band) - μάθετε πώς να κωδικοποιείτε τα δικά σας μουσικά όργανα
+    + [Κούρσα χελώνα](https://projects.raspberrypi.org/en/projects/turtle-race) - φυλή ψηφιακές χελώνες ο ένας εναντίον του άλλου
+    + [Πατήστε το πλήκτρο stop-motion](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) - Δημιουργήστε το δικό σας κινούμενο γραφείο στάσης με κίνηση με ένα κουμπί και μια [κάμερα Raspberry Pi Module](https://www.raspberrypi.org/products/camera-module-v2/)
