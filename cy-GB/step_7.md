@@ -1,11 +1,11 @@
 ## Ble i ddod o hyd i help
 
-If you're having problems with your Pi, there are lots of ways you can get help and advice:
+Os ydych chi'n cael problemau gyda'ch Pi, mae yna lawer o ffyrdd y gallwch gael help a chyngor:
 
-+ Check out the [help section](https://www.raspberrypi.org/help/) and the [troubleshooting guide](https://www.raspberrypi.org/learning/troubleshooting-guide/) on the Raspberry Pi website
++ Edrychwch ar y [help adran](https://www.raspberrypi.org/help/) a'r [ganllaw datrys problemau](https://www.raspberrypi.org/learning/troubleshooting-guide/) ar wefan Raspberry Pi
 
-+ The [Raspberry Pi forum](https://www.raspberrypi.org/forums), including the [Beginners](https://www.raspberrypi.org/forums/viewforum.php?f=91) section, is a great place to ask questions and get support from the Raspberry Pi community
++ Y [Fforwm Mafon Pi](https://www.raspberrypi.org/forums), gan gynnwys y [Dechreuwyr](https://www.raspberrypi.org/forums/viewforum.php?f=91) adran, yn lle gwych i ofyn cwestiynau a chael cefnogaeth gan y gymuned Mafon Pi
 
-+ Call out on [Twitter](https://twitter.com) using the hashtag #rpilearn, or submit a question on the [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
++ Ffoniwch allan ar [Twitter](https://twitter.com) gan ddefnyddio'r hashtag #rpilearn, neu gyflwyno cwestiwn ar y [Mafon Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
 
-+ You could also attend a free [Raspberry Jam](https://rpf.io/jam) community event to talk to people about their experiences and get some first-hand help from fellow Raspberry Pi users
++ Fe allech chi hefyd fynychu digwyddiad cymunedol [Raspberry Jam](https://rpf.io/jam) am ddim i siarad â phobl am eu profiadau a chael rhywfaint o gymorth uniongyrchol gan ddefnyddwyr cyd-mafon Pi
