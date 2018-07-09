@@ -1,10 +1,10 @@
 ## Kaj je naslednje?
 
-+ Take a look at our [Using your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using) guide.
++ Oglejte si naš [Uporabite vodnik Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using).
 
-+ Explore what you can do with your Raspberry Pi by creating some of our [digital making projects](https://projects.raspberrypi.org), for example:
++ Raziščite, kaj lahko storite z vašim Raspberry Pi, tako da ustvarite nekaj naših [projektov za digitalno izdelavo](https://projects.raspberrypi.org), na primer:
     
-    + [Robot antenna](https://projects.raspberrypi.org/en/projects/robot-antenna) — control a robot's antenna light with a Raspberry Pi and code blocks
-    + [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) — learn how to code your own musical instruments
-    + [Turtle race](https://projects.raspberrypi.org/en/projects/turtle-race) — race digital turtles against each other
-    + [Push button stop-motion](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) — make your own stop-motion animation rig with a button and a [Raspberry Pi Camera Module](https://www.raspberrypi.org/products/camera-module-v2/)
+    + [Robotska antena](https://projects.raspberrypi.org/en/projects/robot-antenna) - krmilite antensko svetlobo robota z malinami Pi in kodnimi bloki
+    + [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) - naučite se kodirati svoje glasbene inštrumente
+    + [Turtle race](https://projects.raspberrypi.org/en/projects/turtle-race) - dirkajte digitalne želve drug proti drugemu
+    + [Stikalo za ustavitev gibanja tipke](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) - naredite lastno animacijsko ploščo za ustavitev gibanja s tipko in [modulom kamberca](https://www.raspberrypi.org/products/camera-module-v2/)
