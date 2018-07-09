@@ -1,37 +1,37 @@
-## Connect your Raspberry Pi
+## Cysylltwch eich Pi Mws
 
-Let's get everything connected. It's important to do this in the right order, so that all your components are safe.
+Gadewch i ni gael popeth cysylltiedig. Mae'n bwysig gwneud hyn yn y drefn gywir, fel bod eich holl gydrannau yn ddiogel.
 
-![pi connections](images/pi-labelled.png)
+![cysylltiadau pi](images/pi-labelled.png)
 
-+ Insert the SD card you've set up with Raspbian (via NOOBS) into the micro SD card slot at the underside of your Pi. 
++ Mewnosodwch y cerdyn SD rydych chi wedi'i sefydlu gyda Raspbian (trwy NOOBS) i mewn i'r slot cerdyn micro SD ar waelod eich Pi. 
 
 ![cerdyn sd](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+**Sylwer:** llawer o gardiau SD micro i mewn i addasydd mwy - gallwch chi sleidio'r cerdyn allan gan ddefnyddio'r gwefus ar y gwaelod.
 
-![sd card holder](images/sd-card-holder.png)
+![deiliad cerdyn sd](images/sd-card-holder.png)
 
-+ Find the USB cable for your mouse, and connect the mouse to a USB port on the Raspberry Pi (it doesn't matter which one).
++ Dod o hyd i'r cebl USB ar gyfer eich llygoden, a chysylltwch y llygoden i borthladd USB ar y Mws Mws (does dim ots pa un).
 
-![mouse](images/pi-mouse.png)
+![llygoden](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Cysylltwch y bysellfwrdd yn yr un modd.
 
-![keyboard](images/pi-keyboard.png)
+![bysellfwrdd](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large, flat side on top.
++ Edrychwch ar y porthladd HDMI ar y Mws Môr - rhowch wybod bod ganddo ochr fawr, fflat ar ei ben.
 
 ![hdmi](images/pi-hdmi.png)
 
-+ Make sure your screen is plugged into a wall socket and turned on. Use a cable to connect the screen to the Pi's HDMI port — use an adapter if necessary.
++ Gwnewch yn siŵr bod eich sgrîn wedi'i blymio i soced wal a'i droi ymlaen. Defnyddiwch gebl i gysylltu y sgrin i borthladd Pi's HDMI - defnyddiwch addasydd os oes angen.
 
-**Note:** nothing will display on the screen, because the Pi is not running yet.
+**Noder:** fydd dim yn dangos ar y sgrin, gan nad yw'r Pi yn rhedeg eto.
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ Os ydych chi eisiau cysylltu Pi i'r rhyngrwyd trwy Ethernet, defnyddiwch gebl Ethernet i gysylltu porthladd Ethernet ar y Mws Mws i soced Ethernet ar y wal neu ar eich llwybrydd rhyngrwyd. Nid oes angen i chi wneud hyn os byddwch chi'n defnyddio WiFi neu os nad ydych am gysylltu â'r rhyngrwyd.
 
 ![ethernet](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ Daw sain o'ch sgrîn os oes ganddo siaradwyr neu gallwch gysylltu clustffonau neu siaradwyr i'r jack sain os oes gennych chi.
 
-![headphones](images/pi-headphones.png)
+![clustffonau](images/pi-headphones.png)
