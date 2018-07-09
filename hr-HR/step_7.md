@@ -1,11 +1,11 @@
 ## Gdje pronaći pomoć
 
-If you're having problems with your Pi, there are lots of ways you can get help and advice:
+Ako imate problema s Pi-om, postoji mnogo načina na koje možete dobiti pomoć i savjete:
 
-+ Check out the [help section](https://www.raspberrypi.org/help/) and the [troubleshooting guide](https://www.raspberrypi.org/learning/troubleshooting-guide/) on the Raspberry Pi website
++ Pogledajte odjeljak [pomoći](https://www.raspberrypi.org/help/) i [vodiča za rješavanje problema](https://www.raspberrypi.org/learning/troubleshooting-guide/) na web stranici Raspberry Pi
 
-+ The [Raspberry Pi forum](https://www.raspberrypi.org/forums), including the [Beginners](https://www.raspberrypi.org/forums/viewforum.php?f=91) section, is a great place to ask questions and get support from the Raspberry Pi community
++ [Raspberry Pi forum](https://www.raspberrypi.org/forums), uključujući i [početnike](https://www.raspberrypi.org/forums/viewforum.php?f=91) odjeljka, odlično je mjesto za postavljanje pitanja i dobivanje podrške od zajednice maline Pi
 
-+ Call out on [Twitter](https://twitter.com) using the hashtag #rpilearn, or submit a question on the [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
++ Nazovite na [Twitter](https://twitter.com) pomoću hashtag # rpilearn, ili pošaljite pitanje na [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
 
-+ You could also attend a free [Raspberry Jam](https://rpf.io/jam) community event to talk to people about their experiences and get some first-hand help from fellow Raspberry Pi users
++ Također možete prisustvovati besplatnom [Raspberry Jam](https://rpf.io/jam) zajedničkom događaju kako biste razgovarali s ljudima o svojim iskustvima i dobili prvu pomoć od ostalih korisnika Raspberry Pi
