@@ -1,31 +1,31 @@
-## Finish the setup
+## Selesaikan pengaturan
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Saat Anda memulai Raspberry Pi untuk pertama kalinya, aplikasi **Selamat Datang di Raspberry Pi** akan muncul dan memandu Anda melalui pengaturan awal.
 
 ![pi wizard](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Klik **Next** untuk memulai pengaturan.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Atur **Negara**, **Bahasa**, dan **Zona Waktu**, lalu klik **Berikutnya** lagi.
 
-![pi wizard country](images/piwiz2.PNG)
+![negara penyihir pi](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Masukkan kata sandi baru untuk Raspberry Pi Anda dan klik **Next**.
 
-![pi wizard password](images/piwiz3.PNG)
+![kata sandi penyihir pi](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Hubungkan ke jaringan WiFi Anda dengan memilih namanya, memasukkan kata sandi, dan mengklik **Next**.
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Catatan:** jika model Raspberry Pi Anda tidak memiliki konektivitas nirkabel, Anda tidak akan melihat layar ini.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Klik **Next** biarkan wizard memeriksa pembaruan untuk Raspbian dan menginstalnya (ini mungkin memerlukan sedikit waktu).
 
-![pi wizard updating](images/piwiz6.PNG)
+![pembaruan pi wizard](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Klik **Selesai** atau **Reboot** untuk menyelesaikan pengaturan.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Catatan:** Anda hanya perlu melakukan boot ulang jika diperlukan untuk menyelesaikan pembaruan.
 
-![pi wizard complete](images/piwiz7.PNG)
+![pi wizard selesai](images/piwiz7.PNG)
