@@ -1,31 +1,31 @@
 ## Završite postavljanje
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Kad prvi put pokrenete Raspberry Pi, aplikacija **Welcome to Raspberry Pi** će se pojaviti i voditi vas kroz početno podešavanje.
 
-![pi wizard](images/piwiz.gif)
+![pi čarobnjaka](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Kliknite **Dalje** za početak postavljanja.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Postavite svoju **zemlju**, **jezik**i **vremensku zonu**, a zatim ponovno **slijedeća**.
 
-![pi wizard country](images/piwiz2.PNG)
+![pi čarobnjaka](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Unesite novu lozinku za Raspberry Pi i kliknite **sljedeći**.
 
-![pi wizard password](images/piwiz3.PNG)
+![pi čarobnjaka lozinku](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Povežite se s Wi-Fi mrežom odabirom njezina imena, unosom zaporke i klikom na **sljedeće**.
 
-![pi wizard wifi](images/piwiz4.PNG)
+![pi čarobnjak wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Napomena:** ako vaš model Raspberry Pi nema bežičnu povezivost, nećete vidjeti ovaj zaslon.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Kliknite **Dalje** neka čarobnjak provjerava ažuriranja Raspbian i instalira ih (to može potrajati malo).
 
-![pi wizard updating](images/piwiz6.PNG)
+![pi ažuriranje čarobnjaka](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Kliknite **Napunite** ili **Ponovno podizanje sustava** da biste dovršili postavljanje.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Napomena:** morat ćete ponovno pokrenuti samo ako je to potrebno za dovršetak ažuriranja.
 
-![pi wizard complete](images/piwiz7.PNG)
+![pi čarobnjak završen](images/piwiz7.PNG)
