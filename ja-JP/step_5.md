@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## あなたのラズベリーパイを始める
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+あなたのラズベリーパイには電源スイッチがありません。電源コンセントに接続すると電源がオンになります。 PiのマイクロUSB電源ポートの上部には平らな側面があります。
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ マイクロUSB電源をソケットに差し込み、Piの電源ポートに接続します。
 
-![screenshot](images/pi-power.png)
+![スクリーンショット](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+ラズベリーパイに赤色のLEDが点灯していることがわかります。これはPiが電源に接続されていることを示しています。 （これはとも呼ばれ、起動時に **起動する**）、あなたはラズベリーは、画面の左上に表示されます。
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![ブートラズベリー](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> お使いのブラウザはWebMビデオをサポートしていませんので、FireFoxまたはChromeを試してみてください。 </video> 
 
-\--- collapse \---
+\---崩壊\---
 
 * * *
 
-## title: First-time startup with NOOBS
+## タイトル：初めてのNOOBSスタートアップ
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+NOOBSを含むSDカードを使用してRaspberry Piを初めて起動する場合は、NOOBSインストーラが表示されます。 このソフトウェアは、Raspbianオペレーティングシステム（OS）のインストール手順を説明します。
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ インストーラが読み込まれると、インストールするOSの選択肢が表示されます。 **Raspbian**チェックボックスをオンにして、 **Install**クリックします。
 
-![install](images/install.png)
+![インストール](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ 警告ダイアログボックスで **** してから、座ってリラックスしてください。 Raspbianのインストールプロセスには少し時間がかかります。
 
-![installing](images/installing.png)
+![インストールする](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ Raspbianがインストールされている場合は、クリックしてください **OK**。 あなたのRaspberry Piが再起動し、Raspbianが起動します。
 
-![installed](images/installed.png)
+![インストール済み](images/installed.png)
 
-\--- /collapse \---
+\--- /崩壊\---
 
-After a few seconds the Raspbian Desktop will appear.
+数秒後にRaspbian Desktopが表示されます。
 
-![raspbian desktop](images/pi-desktop.jpg)
+![ラスベスデスクトップ](images/pi-desktop.jpg)
