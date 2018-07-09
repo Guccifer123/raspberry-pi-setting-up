@@ -60,18 +60,18 @@ Raspbian ڈیسک ٹاپ ماحول کو دیکھنے کے لئے، آپ اسک�
 
 اپنی پی آئی اس اس اسکرین سے منسلک کرنے کے لئے، آپ HDMI سے VGA اڈاپٹر استعمال کرسکتے ہیں.
 
-![hdmi to vga adapter port](images/hdmi-vga-adapter.png)
+![ویگا اڈاپٹر پورٹ میں HDMI](images/hdmi-vga-adapter.png)
 
-### Optional extras
+### اختیاری اخراجات
 
-#### A case
+#### ایک معاملہ
 
-You may want to put your Raspberry Pi in a case. This is not essential, but it will provide protection for your Pi. If you'd like, you can use the official case for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) or [Pi Zero or Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+آپ اپنے کیسس پیس کو ایک کیس میں ڈالنا چاہتے ہیں. یہ ضروری نہیں ہے، لیکن یہ آپ کے پی آئی کے تحفظ فراہم کرے گا. اگر آپ چاہتے ہیں تو آپ کے لئے سرکاری کیس استعمال کر سکتے ہیں [رسبری PI 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) یا [پائی زیرو یا زیرو W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
 
-#### Headphones or speakers
+#### ہیڈ فون یا اسپیکر
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
+بڑے ریکسیری پی آئی ماڈلز (پیرو زیرو / زیرو ڈبلیو) میں آپ کے سمارٹ فون یا MP3 پلیئر پر ایک معیاری آڈیو پورٹ ہے. اگر آپ چاہتے ہیں تو، آپ اپنے ہی ہیڈ فون یا اسپیکر سے رابطہ قائم کرسکتے ہیں تاکہ پی آئی آئی کو آواز ادا کرسکیں. اگر اسکرین آپ اپنے پی آئی پی سے منسلک کر رہے ہیں تو بلٹ ان اسپیکرز میں ہیں، پی آئی ان کے ذریعے آواز ادا کر سکتا ہے.
 
-#### An Ethernet cable
+#### ایک ایتھرنیٹ کیبل
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+بڑے ریکسیری پائی ماڈلز (پیرو زیرو / زیرو ڈبلیو) میں ان کو انٹرنیٹ سے منسلک کرنے کے لئے ایک معیاری ایتھرنیٹ بندرگاہ ہے. ایک پیرو زیرو انٹرنیٹ پر منسلک کرنے کے لئے، آپ کو USB-to-Ethernet اڈاپٹر کی ضرورت ہے. راسبیری پائی 3 اور پیرو زیرو ڈبلیو کو بھی وائرلیس ویب سے منسلک کیا جا سکتا ہے.
