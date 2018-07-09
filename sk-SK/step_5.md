@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## Spustite svoj Malinový pi
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+Vaša Raspberry Pi nemá vypínač: akonáhle ho pripájate do elektrickej zásuvky, zapne sa. Všimnite si, že napájací port Micro pre USB má dlhšiu rovnú stranu na vrchu.
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ Pripojte napájanie micro USB do zásuvky a pripojte ho k portu napájania Pi.
 
 ![screenshot](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+Mali by ste vidieť červenú LED svietiť na Raspberry Pi, čo znamená, že Pi je pripojený k napájaniu. Keď sa spúšťa (toto sa tiež nazýva **bootovanie**), uvidíte maliny v ľavom hornom rohu obrazovky.
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![boot maliny](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Váš prehliadač nepodporuje video WebM, preto skúste FireFox alebo Chrome. </video> 
 
 \--- collapse \---
 
 * * *
 
-## title: First-time startup with NOOBS
+## názov: Prvé spustenie s NOOBS
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+Ak sa jedná o prvýkrát, keď začnete svoju Raspberry Pi so SD kartou obsahujúcou NOOBS, uvidíte inštalačný program NOOBS. Tento softvér vás prevedie inštaláciou operačného systému Raspbian (OS).
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ Po nainštalovaní inštalátora vám ponúkne možnosť vybrať si, ktorý operačný systém nainštalujete. Začiarknite políčko **Raspbian**a potom kliknite na **Install**.
 
-![install](images/install.png)
+![inštalovať](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ Kliknite **Áno** v dialógovom okne upozornenie, a potom sedieť a relaxovať. Inštalačný proces Raspbian bude trvať trochu času.
 
-![installing](images/installing.png)
+![inštalácia](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ Keď bol Raspbian nainštalovaný, kliknite na **OK**. Vaša Raspberry Pi sa reštartuje a Raspbian sa potom rozbehne.
 
-![installed](images/installed.png)
+![nainštalovaný](images/installed.png)
 
-\--- /collapse \---
+\--- / collapse \---
 
-After a few seconds the Raspbian Desktop will appear.
+Po niekoľkých sekundách sa zobrazí Raspbian Desktop.
 
 ![raspbian desktop](images/pi-desktop.jpg)
