@@ -1,11 +1,11 @@
 ## Kde nájsť pomoc
 
-If you're having problems with your Pi, there are lots of ways you can get help and advice:
+Ak máte problémy so svojím pi, existuje mnoho spôsobov, ako môžete získať pomoc a rady:
 
-+ Check out the [help section](https://www.raspberrypi.org/help/) and the [troubleshooting guide](https://www.raspberrypi.org/learning/troubleshooting-guide/) on the Raspberry Pi website
++ Pozrite sa na [nápovedu](https://www.raspberrypi.org/help/) a [sprievodca odstraňovaním](https://www.raspberrypi.org/learning/troubleshooting-guide/) na internetových stránkach Raspberry Pi
 
-+ The [Raspberry Pi forum](https://www.raspberrypi.org/forums), including the [Beginners](https://www.raspberrypi.org/forums/viewforum.php?f=91) section, is a great place to ask questions and get support from the Raspberry Pi community
++ [Raspberry Pi forum](https://www.raspberrypi.org/forums), vrátane [začiatočníkov](https://www.raspberrypi.org/forums/viewforum.php?f=91) sekcia, je skvelým miestom pre klásť otázky a získať podporu od komunity Raspberry Pi
 
-+ Call out on [Twitter](https://twitter.com) using the hashtag #rpilearn, or submit a question on the [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
++ Zavolajte na [Twitter](https://twitter.com) pomocou hashtag #rpilearn alebo položte otázku na [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
 
-+ You could also attend a free [Raspberry Jam](https://rpf.io/jam) community event to talk to people about their experiences and get some first-hand help from fellow Raspberry Pi users
++ Dalo by sa tiež zúčastniť zadarmo [malinovou marmeládou](https://rpf.io/jam) komunitný akciu hovoriť s ľuďmi o svoje skúsenosti a získať nejaké informácie z prvej ruky o pomoc ostatnými užívateľmi Raspberry Pi
