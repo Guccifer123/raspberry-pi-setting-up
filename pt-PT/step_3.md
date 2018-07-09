@@ -32,22 +32,22 @@ Qualquer coisa que esteja armazenada no cartão SD será sobrescrita durante a f
 
 + No SD Formatter, selecione a letra da unidade do cartão SD e formate o cartão.
 
-#### Extract NOOBS from the zip archive
+#### Extraia o NOOBS do arquivo zip
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Em seguida, você precisará extrair os arquivos do arquivo zip NOOBS que você baixou do site do Raspberry Pi.
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ Encontre o arquivo baixado - por padrão, ele deve estar na pasta `Downloads`.
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ Clique duas vezes nele para extrair os arquivos e mantenha aberta a janela resultante do Explorer / Finder.
 
-#### Copy the files
+#### Copie os arquivos
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Agora abra outra janela do Explorer / Finder e navegue até o cartão SD. É melhor posicionar as duas janelas lado a lado.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ Selecione todos os arquivos na pasta `NOOBS` e arraste-os para a janela do cartão SD para copiá-los para o cartão.
 
-![windows copy](images/copy3.png)
+![cópia do windows](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![cópia macos](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ Depois que os arquivos foram copiados, você pode ejetar o cartão SD.
