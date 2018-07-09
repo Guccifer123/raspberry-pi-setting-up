@@ -1,25 +1,25 @@
 ---
-title: Setting up your Raspberry Pi
-hero_image: images/banner.png
-description: How to set up and start your Pi for the first time
+title: Postavljanje vašeg malina Pi
+hero_image: slike / banner.png
+description: Kako postaviti i pokrenuti svoj Pi po prvi put
 version: 4
 listed: true
 copyedit: true
-last_tested: "2018-05-16"
+last_tested: "2018/05/16"
 steps:
   - 
-    title: Introduction
+    title: Uvod
   - 
-    title: What you will need
+    title: Ono što će vam trebati
   - 
-    title: Set up your SD card
+    title: Postavite SD karticu
   - 
-    title: Connect your Pi
+    title: Povežite svoj Pi
   - 
-    title: Start up your Pi
+    title: Pokrenite Pi
   - 
-    title: Finish the setup
+    title: Završite postavljanje
   - 
-    title: Where to find help
+    title: Gdje pronaći pomoć
   - 
-    title: What next?
+    title: Što dalje?
