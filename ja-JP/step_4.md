@@ -1,37 +1,37 @@
-## Connect your Raspberry Pi
+## あなたのラズベリーパイを接続
 
-Let's get everything connected. It's important to do this in the right order, so that all your components are safe.
+すべてのものをつなぎましょう。 これを正しい順序で実行することが重要であり、すべてのコンポーネントが安全です。
 
-![pi connections](images/pi-labelled.png)
+![パイ接続](images/pi-labelled.png)
 
-+ Insert the SD card you've set up with Raspbian (via NOOBS) into the micro SD card slot at the underside of your Pi. 
++ RaspbianでセットアップしたSDカード（NOOBS経由）をあなたのPiの下にあるマイクロSDカードスロットに挿入します。 
 
-![sd card](images/pi-sd.png)
+![SDカード](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+**注意：** 大型のアダプターの中には、たくさんのマイクロSDカードが入っています。底にある唇を使ってカードを引き出すことができます。
 
-![sd card holder](images/sd-card-holder.png)
+![SDカードホルダー](images/sd-card-holder.png)
 
-+ Find the USB cable for your mouse, and connect the mouse to a USB port on the Raspberry Pi (it doesn't matter which one).
++ あなたのマウスのUSBケーブルを見つけて、マウスをラズベリーパイのUSBポートに接続します（どちらが問題ではありません）。
 
-![mouse](images/pi-mouse.png)
+![マウス](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ 同じ方法でキーボードを接続してください。
 
-![keyboard](images/pi-keyboard.png)
+![キーボード](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large, flat side on top.
++ ラズベリーパイのHDMIポートを見てください。大きな平らな側面が上にあることに注意してください。
 
-![hdmi](images/pi-hdmi.png)
+![HDMi](images/pi-hdmi.png)
 
-+ Make sure your screen is plugged into a wall socket and turned on. Use a cable to connect the screen to the Pi's HDMI port — use an adapter if necessary.
++ スクリーンがコンセントに差し込まれ、電源が入っていることを確認してください。 ケーブルを使用して画面をPiのHDMIポートに接続します - 必要に応じてアダプタを使用してください。
 
-**Note:** nothing will display on the screen, because the Pi is not running yet.
+**注：** Piはまだ実行されていないので何も、画面上に表示されません。
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ Piをイーサネット経由でインターネットに接続する場合は、イーサネットケーブルを使用して、ラズベリーパイのイーサネットポートを壁のイーサネットソケットまたはインターネットルータに接続します。 WiFiを使用している場合や、インターネットに接続したくない場合は、これを行う必要はありません。
 
-![ethernet](images/pi-ethernet.png)
+![イーサネット](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ スピーカーを持っている場合はサウンドが画面から出てくるか、ヘッドフォンやスピーカーがあればオーディオジャックに接続できます。
 
-![headphones](images/pi-headphones.png)
+![ヘッドフォン](images/pi-headphones.png)
