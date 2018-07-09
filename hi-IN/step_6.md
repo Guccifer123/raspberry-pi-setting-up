@@ -1,31 +1,31 @@
-## Finish the setup
+## सेटअप खत्म करो
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+जब आप पहली बार अपनी रास्पबेरी पीआई शुरू करते हैं, तो **रास्पबेरी पीआई** एप्लिकेशन में आपका स्वागत है और प्रारंभिक सेटअप के माध्यम से आपको मार्गदर्शन करेगा।
 
-![pi wizard](images/piwiz.gif)
+![पीआई जादूगर](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ सेटअप शुरू करने के लिए **अगला** पर क्लिक करें।
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ अपना **देश**, **भाषा**, और **टाइमज़ोन**सेट करें, फिर **अगला** फिर से क्लिक करें।
 
-![pi wizard country](images/piwiz2.PNG)
+![पीआई जादूगर देश](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ अपने रास्पबेरी पीआई के लिए एक नया पासवर्ड दर्ज करें और **अगला**क्लिक करें।
 
-![pi wizard password](images/piwiz3.PNG)
+![पीआई जादूगर पासवर्ड](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ अपना नाम चुनकर, पासवर्ड दर्ज करके और **अगला**क्लिक करके अपने वाईफाई नेटवर्क से कनेक्ट करें।
 
-![pi wizard wifi](images/piwiz4.PNG)
+![पीआई जादूगर वाईफ़ाई](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**नोट:** यदि आपके रास्पबेरी पीआई मॉडल में वायरलेस कनेक्टिविटी नहीं है, तो आपको यह स्क्रीन नहीं दिखाई देगी।
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ **अगला** क्लिक करें विज़ार्ड रास्पियन के अपडेट के लिए जांचें और उन्हें इंस्टॉल करें (इसमें थोड़ी देर लग सकती है)।
 
-![pi wizard updating](images/piwiz6.PNG)
+![पीआई जादूगर अद्यतन](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ सेटअप को समाप्त करने के लिए **संपन्न** या **रीबूट** पर क्लिक करें।
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**नोट:** यदि आपको अद्यतन पूरा करने के लिए जरूरी है तो आपको केवल रीबूट करने की आवश्यकता होगी।
 
-![pi wizard complete](images/piwiz7.PNG)
+![पीआई जादूगर पूरा](images/piwiz7.PNG)
