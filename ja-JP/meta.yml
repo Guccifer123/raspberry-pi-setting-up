@@ -1,25 +1,25 @@
 ---
-title: Setting up your Raspberry Pi
-hero_image: images/banner.png
-description: How to set up and start your Pi for the first time
+title: あなたのラズベリーパイを設定する
+hero_image: images / banner.png
+description: 初めてPiをセットアップして起動する方法
 version: 4
 listed: true
 copyedit: true
 last_tested: "2018-05-16"
 steps:
   - 
-    title: Introduction
+    title: 前書き
   - 
-    title: What you will need
+    title: あなたが必要とするもの
   - 
-    title: Set up your SD card
+    title: SDカードを設定する
   - 
-    title: Connect your Pi
+    title: あなたのPiを接続
   - 
-    title: Start up your Pi
+    title: Piを起動する
   - 
-    title: Finish the setup
+    title: セットアップを完了してください
   - 
-    title: Where to find help
+    title: ヘルプを見つける場所
   - 
-    title: What next?
+    title: 次は何？
