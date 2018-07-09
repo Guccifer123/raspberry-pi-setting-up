@@ -46,8 +46,8 @@ Nato boste morali iz datoteke NOOBS zip arhivirati datoteke, ki ste jih prenesli
 
 + Izberite vse datoteke v mapi `NOOBS` in jih povlecite v okno SD kartice, da jih kopirate na kartico.
 
-![windows copy](images/copy3.png)
+![okno kopiranje](images/copy3.png)
 
 ![macos copy](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ Ko so datoteke kopirane, lahko SD kartico odstranite.
