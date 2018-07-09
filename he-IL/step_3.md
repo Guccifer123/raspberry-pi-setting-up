@@ -1,53 +1,53 @@
-## Set up your SD card
+## הגדר את כרטיס ה- SD שלך
 
-If you have an SD card that doesn't have the Raspbian operating system on it yet, or if you want to reset your Raspberry Pi, you can easily install Raspbian yourself. To do so, you need a computer that has an SD card port — most laptop and desktop computers have one.
+אם יש לך כרטיס SD כי אין את מערכת ההפעלה Raspbian על זה עדיין, או אם אתה רוצה לאפס את פי פטל שלך, אתה יכול בקלות להתקין Raspbian עצמך. כדי לעשות זאת, אתה צריך מחשב בעל יציאת כרטיס SD - רוב המחשבים הניידים והשולחניים יש אחד.
 
-### The Raspbian operating system via NOOBS
+### מערכת ההפעלה Raspbian באמצעות NOOBS
 
-Using the NOOBS software is the easiest way to install Raspbian on your SD card.
+באמצעות תוכנת NOOBS היא הדרך הקלה ביותר להתקין Raspbian על כרטיס SD שלך.
 
-#### Download NOOBS
+#### הורד NOOBS
 
-+ Visit the [Raspberry Pi downloads page](https://www.raspberrypi.org/downloads).
++ בקר בדף [הורדות Raspberry Pi](https://www.raspberrypi.org/downloads).
 
-![Downloads page](images/downloads-page.png)
+![דף הורדות](images/downloads-page.png)
 
-+ You should see a box linking to the NOOBS files. Click on the box.
++ אתה אמור לראות את התיבה המקשרת קבצים NOOBS. לחץ על התיבה.
 
-![Click on NOOBS](images/click-noobs.png)
+![לחץ על NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files. Make sure to pay attention to where you save the archive, so that you can find it again quickly.
++ האפשרות הפשוטה ביותר היא להוריד את ארכיון ה- zip של הקבצים. הקפד לשים לב למקום שבו אתה שומר את הארכיון, כך שתוכל למצוא אותו שוב במהירות.
 
-![Download zip](images/download-zip.png)
+![הורד zip](images/download-zip.png)
 
-#### Format the SD card
+#### אתחל את כרטיס ה- SD
 
-Anything that's stored on the SD card will be overwritten during formatting. So if the SD card on which you want to install Raspbian currently has any files on it, e.g. from an older version of Raspbian, you may wish to back these files up first to not lose them permanently.
+כל פריט שמאוחסן בכרטיס SD יוחלף במהלך העיצוב. אז אם את כרטיס SD שבו אתה רוצה להתקין Raspbian כרגע יש קבצים על זה, למשל מתוך גרסה ישנה יותר של Raspbian, ייתכן שתרצה לחזור קבצים אלה הראשון לא לאבד אותם לצמיתות.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ בקר באתר האגודה של SD ולהוריד [SD מעצב 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) עבור Windows או Mac.
 
-+ Follow the instructions to install the software.
++ בצע את ההוראות כדי להתקין את התוכנה.
 
-+ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
++ הכנס את כרטיס ה- SD לתוך המחשב או חריץ כרטיס ה- PC של המחשב הנייד ועשה הערה של אות הכונן שהוקצתה לו, למשל `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and the format the card.
++ ב- SD Formatter, בחר את אות הכונן עבור כרטיס ה- SD שלך ואת פורמט הכרטיס.
 
-#### Extract NOOBS from the zip archive
+#### חלץ NOOBS מארכיון zip
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+לאחר מכן, תצטרך לחלץ את הקבצים מארכיון NOOBS zip שהורדת מהאתר פטל פספרי.
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ אתר את הארכיון שהורדת - כברירת מחדל, הוא אמור להיות בתיקיה `הורדות`.
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ לחץ פעמיים על זה כדי לחלץ את הקבצים, ולשמור את החלון Explorer / Finder וכתוצאה מכך פתוח.
 
-#### Copy the files
+#### העתק את הקבצים
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ כעת פתח חלון Explorer / Finder נוסף ונווט אל כרטיס ה- SD. עדיף למקם את שני החלונות זה לצד זה.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ בחר את כל הקבצים בתיקיה `NOOBS` וגרור אותם לתוך חלון כרטיס ה- SD כדי להעתיק אותם לכרטיס.
 
-![windows copy](images/copy3.png)
+![חלונות עותק](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![מאקוס להעתיק](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ לאחר שהקבצים הועתקו, ניתן להוציא את כרטיס ה- SD.
