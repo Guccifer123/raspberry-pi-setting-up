@@ -1,31 +1,31 @@
 ## Dokončite nastavenie
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Pri spustení počítača Raspberry Pi prvýkrát je **Vitajte na Raspberry Pi** bude aplikácia vyskočí a vás prevedie úvodným nastavením.
 
-![pi wizard](images/piwiz.gif)
+![pi sprievodcu](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Kliknite na tlačidlo **Next** spustite inštaláciu.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Nastavte **krajinu**, **jazyk**a **časovú zónu**a potom kliknite na tlačidlo **Ďalší** znova.
 
-![pi wizard country](images/piwiz2.PNG)
+![pi krajiny pomocníka](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Zadajte nové heslo pre vaše Raspberry Pi a kliknite na tlačidlo **Next**.
 
-![pi wizard password](images/piwiz3.PNG)
+![pi sprievodcu](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Pripojte sa k sieti WiFi výberom svojho názvu, zadaním hesla a kliknutím na tlačidlo **Ďalej**.
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Poznámka:** Ak váš model Raspberry Pi nemá bezdrôtové pripojenie, táto obrazovka sa nezobrazí.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Kliknite na tlačidlo **Nasledujúci** nechajte sprievodcu skontrolovať aktualizácie Raspbian a nainštalujte ich (to môže chvíľu trvať).
 
-![pi wizard updating](images/piwiz6.PNG)
+![pi aktualizácia sprievodcu](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Kliknite **Hotovo** alebo **Reboot** pre dokončenie nastavenia.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Poznámka:** budete musieť reštartovať len vtedy, ak je to potrebné na dokončenie aktualizácie.
 
-![pi wizard complete](images/piwiz7.PNG)
+![pi sprievodca dokončený](images/piwiz7.PNG)
