@@ -1,53 +1,53 @@
-## Set up your SD card
+## Configura la tua scheda SD
 
-If you have an SD card that doesn't have the Raspbian operating system on it yet, or if you want to reset your Raspberry Pi, you can easily install Raspbian yourself. To do so, you need a computer that has an SD card port — most laptop and desktop computers have one.
+Se hai una scheda SD che non ha ancora il sistema operativo Raspbian su di esso, o se vuoi ripristinare il tuo Raspberry Pi, puoi facilmente installare Raspbian da solo. Per fare ciò, è necessario un computer dotato di una porta per scheda SD - la maggior parte dei computer portatili e desktop ne ha uno.
 
-### The Raspbian operating system via NOOBS
+### Il sistema operativo Raspbian tramite NOOBS
 
-Using the NOOBS software is the easiest way to install Raspbian on your SD card.
+L'uso del software NOOBS è il modo più semplice per installare Raspbian sulla tua scheda SD.
 
-#### Download NOOBS
+#### Scarica NOOBS
 
-+ Visit the [Raspberry Pi downloads page](https://www.raspberrypi.org/downloads).
++ Visita la pagina dei download di [Raspberry Pi](https://www.raspberrypi.org/downloads).
 
-![Downloads page](images/downloads-page.png)
+![Pagina di download](images/downloads-page.png)
 
-+ You should see a box linking to the NOOBS files. Click on the box.
++ Dovresti vedere una casella che collega i file NOOBS. Clicca sulla scatola.
 
-![Click on NOOBS](images/click-noobs.png)
+![Clicca su NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files. Make sure to pay attention to where you save the archive, so that you can find it again quickly.
++ L'opzione più semplice è scaricare l'archivio zip dei file. Assicurati di prestare attenzione a dove salvi l'archivio, in modo da poterlo ritrovare rapidamente.
 
-![Download zip](images/download-zip.png)
+![Scarica zip](images/download-zip.png)
 
-#### Format the SD card
+#### Formattare la scheda SD
 
-Anything that's stored on the SD card will be overwritten during formatting. So if the SD card on which you want to install Raspbian currently has any files on it, e.g. from an older version of Raspbian, you may wish to back these files up first to not lose them permanently.
+Tutto ciò che è memorizzato sulla scheda SD verrà sovrascritto durante la formattazione. Quindi, se la scheda SD su cui si desidera installare Raspbian ha attualmente dei file, ad esempio da una versione precedente di Raspbian, si potrebbe desiderare di eseguire il backup di questi file per non perderli definitivamente.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Visitare il sito Web di SD Association e scaricare [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) per Windows o Mac.
 
-+ Follow the instructions to install the software.
++ Seguire le istruzioni per installare il software.
 
-+ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Inserisci la scheda SD nello slot per scheda SD del computer o del laptop e prendi nota della lettera di unità assegnata ad esso, ad es. `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and the format the card.
++ In SD Formatter, selezionare la lettera dell'unità per la scheda SD e formattare la scheda.
 
-#### Extract NOOBS from the zip archive
+#### Estrarre NOOBS dall'archivio zip
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Successivamente, sarà necessario estrarre i file dall'archivio zip NOOBS scaricato dal sito Web Raspberry Pi.
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ Trova l'archivio scaricato: per impostazione predefinita, dovrebbe trovarsi nella cartella `Download`.
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ Fare doppio clic su di esso per estrarre i file e mantenere aperta la finestra Explorer / Finder risultante.
 
-#### Copy the files
+#### Copia i file
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Ora apri un'altra finestra Explorer / Finder e vai alla scheda SD. È meglio posizionare le due finestre una accanto all'altra.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ Seleziona tutti i file nella cartella `NOOBS` e trascinali nella finestra della scheda SD per copiarli sulla scheda.
 
-![windows copy](images/copy3.png)
+![Windows copia](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![copia macos](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ Una volta copiati tutti i file, è possibile espellere la scheda SD.
