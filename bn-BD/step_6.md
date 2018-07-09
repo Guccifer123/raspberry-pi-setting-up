@@ -1,31 +1,31 @@
-## Finish the setup
+## সেটআপ শেষ করুন
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+আপনি প্রথমবারের জন্য আপনার রাস্পবেরি পিআই শুরু করার সময়, **রস্পবেরি পি** অ্যাপ্লিকেশনে স্বাগতম আপনাকে পপ আপ করবে এবং প্রাথমিক সেটআপের মাধ্যমে আপনাকে নির্দেশ দেবে।
 
-![pi wizard](images/piwiz.gif)
+![পাই উইজার্ড](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ সেটআপ শুরু করার জন্য **পরবর্তী** ক্লিক করুন
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ আপনার **দেশ**, **ভাষা**এবং **টাইমজোন**, তারপর আবার **পরবর্তী** ক্লিক করুন।
 
-![pi wizard country](images/piwiz2.PNG)
+![পাই উইজার্ড দেশ](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ আপনার রাস্পবেরী Pi জন্য একটি নতুন পাসওয়ার্ড লিখুন এবং ক্লিক করুন **পরবর্তী**।
 
-![pi wizard password](images/piwiz3.PNG)
+![পিআই উইজার্ড পাসওয়ার্ড](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ আপনার ওয়াইফাই নেটওয়ার্কে তার নামটি নির্বাচন করে পাসওয়ার্ড প্রবেশ করান, এবং **পরবর্তী**ক্লিক করে সংযোগ স্থাপন করুন।
 
-![pi wizard wifi](images/piwiz4.PNG)
+![পাই উইজার্ড ওয়াইফাই](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**দ্রষ্টব্য:** যদি আপনার রাস্পবেরি পিআই মডেলের বেতার সংযোগ না থাকে তবে আপনি এই স্ক্রিনটি দেখতে পাবেন না।
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ ক্লিক করুন **পরবর্তী** উইজার্ড রাশিব্যাঙ্ক আপডেটের জন্য চেক করুন এবং তাদের ইনস্টল করুন (এটি একটু সময় নিতে পারে)।
 
-![pi wizard updating](images/piwiz6.PNG)
+![পিআই উইজার্ড আপডেট](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ ক্লিক করুন **সম্পন্ন** বা **রিবুট** সেটআপ সম্পূর্ণ হতে।
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**নোট:** যদি আপডেটটি সম্পূর্ণ করতে প্রয়োজন হয় তবে আপনাকে পুনরায় বুট করতে হবে।
 
-![pi wizard complete](images/piwiz7.PNG)
+![পাই উইজার্ড সম্পূর্ণ](images/piwiz7.PNG)
