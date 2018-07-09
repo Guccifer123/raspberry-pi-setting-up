@@ -24,30 +24,30 @@
 
 هر چیزی که بر روی کارت SD ذخیره می شود، در هنگام قالببندی تغییر خواهد کرد. بنابراین اگر کارت SD که شما می خواهید نصب Raspbian در حال حاضر هر گونه فایل در آن، به عنوان مثال از نسخه های قدیمی Raspbian، شما ممکن است بخواهید برای اولین بار این فایل ها را به عقب برگردانید تا آنها را به طور دائم از دست ندهید.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ به وب سایت انجمن SD بروید و [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) برای ویندوز یا مک دانلود کنید.
 
-+ Follow the instructions to install the software.
++ دستورالعمل ها را برای نصب نرم افزار دنبال کنید.
 
-+ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
++ کارت SD خود را به اسلات کارت SD یا لپ تاپ بفرستید و یادداشتی از قلم دیسک اختصاص داده شده به آن، مثلا `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and the format the card.
++ در SD Formatter، درایو برای کارت SD خود را انتخاب کنید و کارت را فرمت کنید.
 
-#### Extract NOOBS from the zip archive
+#### استخراج NOOBS از بایگانی زیپ
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+بعد، شما باید فایل های خود را از آرشیو آرشیو ZIP NOOBS که از وب سایت Raspberry Pi دانلود کرده اید استخراج کنید.
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ آرشیو دانلود شده را پیدا کنید - به طور پیشفرض، باید در پوشه `فایلهای شما` باشد.
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ برای استخراج فایلها روی آن دوبار کلیک کنید و پنجره بازشده Explorer / Finder باز شود.
 
-#### Copy the files
+#### فایل ها را کپی کنید
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ حالا یکی دیگر از Explorer / Finder را باز کنید و به کارت SD بروید. بهتر است که دو پنجره را کنار هم قرار دهیم.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ همه فایل ها را در پوشه `NOOBS` کنید و آنها را در پنجره کارت SD بکشید تا آنها را به کارت کپی کنید.
 
-![windows copy](images/copy3.png)
+![کپی ویندوز](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![کپی مکسو](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ هنگامی که تمام پرونده ها کپی شده اند، می توانید کارت SD را حذف کنید.
