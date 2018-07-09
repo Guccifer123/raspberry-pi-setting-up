@@ -1,37 +1,37 @@
-## Connect your Raspberry Pi
+## 連接您的Raspberry Pi
 
-Let's get everything connected. It's important to do this in the right order, so that all your components are safe.
+讓我們把一切都聯繫起來。 以正確的順序執行此操作非常重要，這樣您的所有組件都是安全的。
 
-![pi connections](images/pi-labelled.png)
+![pi連接](images/pi-labelled.png)
 
-+ Insert the SD card you've set up with Raspbian (via NOOBS) into the micro SD card slot at the underside of your Pi. 
++ 將您使用Raspbian設置的SD卡（通過NOOBS）插入Pi底部的micro SD卡插槽中。 
 
-![sd card](images/pi-sd.png)
+![SD卡](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+**注意：** 個較大的適配器內有許多微型SD卡 - 您可以使用底部的唇緣將卡滑出。
 
-![sd card holder](images/sd-card-holder.png)
+![SD卡持有人](images/sd-card-holder.png)
 
-+ Find the USB cable for your mouse, and connect the mouse to a USB port on the Raspberry Pi (it doesn't matter which one).
++ 找到鼠標的USB線，並將鼠標連接到Raspberry Pi上的USB端口（無論哪個都無關緊要）。
 
-![mouse](images/pi-mouse.png)
+![老鼠](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ 以相同的方式連接鍵盤。
 
-![keyboard](images/pi-keyboard.png)
+![鍵盤](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large, flat side on top.
++ 看看Raspberry Pi上的HDMI端口 - 請注意它頂部有一個大而扁平的側面。
 
-![hdmi](images/pi-hdmi.png)
+![HDMI](images/pi-hdmi.png)
 
-+ Make sure your screen is plugged into a wall socket and turned on. Use a cable to connect the screen to the Pi's HDMI port — use an adapter if necessary.
++ 確保您的屏幕已插入牆壁插座並打開。 使用電纜將屏幕連接到Pi的HDMI端口 - 如有必要，請使用適配器。
 
-**Note:** nothing will display on the screen, because the Pi is not running yet.
+**注意：** 屏幕上不顯示任何內容，因為Pi尚未運行。
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ 如果要通過以太網將Pi連接到Internet，請使用以太網電纜將Raspberry Pi上的以太網端口連接到牆上或Internet路由器上的以太網插槽。 如果您要使用WiFi或者您不想連接到互聯網，則無需執行此操作。
 
-![ethernet](images/pi-ethernet.png)
+![以太網絡](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ 如果有揚聲器，聲音將來自您的屏幕，或者如果您有耳機或揚聲器，則可以將它們連接到音頻插孔。
 
-![headphones](images/pi-headphones.png)
+![頭戴耳機](images/pi-headphones.png)
