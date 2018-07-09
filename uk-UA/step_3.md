@@ -2,52 +2,52 @@
 
 Якщо у вас є SD-карта, на якій ще немає операційної системи Raspbian, або якщо ви хочете скинути свою малину, Ви можете легко встановити Raspbian самостійно. Для цього потрібен комп'ютер із портом SD-карти - більшість ноутбуків і настільних комп'ютерів мають один.
 
-### The Raspbian operating system via NOOBS
+### Операційна система Raspbian через NOOBS
 
-Using the NOOBS software is the easiest way to install Raspbian on your SD card.
+Використання програмного забезпечення NOOBS - найпростіший спосіб встановлення Raspbian на SD-карту.
 
-#### Download NOOBS
+#### Завантажити NOOBS
 
-+ Visit the [Raspberry Pi downloads page](https://www.raspberrypi.org/downloads).
++ Відвідайте сторінку " [Малина Пі" сторінка](https://www.raspberrypi.org/downloads).
 
-![Downloads page](images/downloads-page.png)
+![Сторінка завантажень](images/downloads-page.png)
 
-+ You should see a box linking to the NOOBS files. Click on the box.
++ Ви повинні побачити поле, що посилається на файли NOOBS. Натисніть на коробку.
 
-![Click on NOOBS](images/click-noobs.png)
+![Натисніть на NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files. Make sure to pay attention to where you save the archive, so that you can find it again quickly.
++ Найпростішим варіантом є завантаження архіву архівів файлів. Обов'язково зверніть увагу на те, де ви зберігаєте архів, щоб швидко його знайти.
 
-![Download zip](images/download-zip.png)
+![Завантажити zip](images/download-zip.png)
 
-#### Format the SD card
+#### Форматуйте SD-карту
 
-Anything that's stored on the SD card will be overwritten during formatting. So if the SD card on which you want to install Raspbian currently has any files on it, e.g. from an older version of Raspbian, you may wish to back these files up first to not lose them permanently.
+Все, що зберігається на картці SD, буде перезаписано під час форматування. Отже, якщо SD-карта, на якій ви хочете встановити Raspbian, наразі має на ньому будь-які файли, наприклад, з більш старої версії програми Raspbian, то, можливо, вам слід спочатку повернути ці файли, щоб вони не втрачали їх назавжди.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Відвідайте веб-сайт асоціації SD і завантажте [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) для Windows або Mac.
 
-+ Follow the instructions to install the software.
++ Дотримуйтесь інструкцій, щоб встановити програмне забезпечення.
 
-+ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Вставте SD-карту в гніздо для картки SD на комп'ютері або на ноутбуці та помістіть на нього букву диска, наприклад, `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and the format the card.
++ У SD Formatter виберіть букву диска для вашої SD-карти та формат картки.
 
-#### Extract NOOBS from the zip archive
+#### Вилучіть NOOBS з архіву zip
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Далі вам доведеться витягнути файли з ZIP архіву NOOBS, завантаженого з веб-сайту Raspberry Pi.
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ Знайдіть завантажений архів - за замовчуванням він має бути у вашій папці `завантажень`.
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ Двічі клацніть на ньому, щоб витягнути файли, і збережіть відкрите вікно Explorer / Finder.
 
-#### Copy the files
+#### Скопіюйте файли
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Тепер відкрийте інше вікно Explorer / Finder та перейдіть на SD-карту. Найкраще розташувати обидва вікна пліч-о-пліч.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ Виберіть усі файли в папці `NOOBS` та перетягніть їх у вікно SD-карти, щоб скопіювати їх на карту.
 
-![windows copy](images/copy3.png)
+![копія Windows](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![копія macos](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ Після того, як усі файли були скопійовані, ви можете вийняти SD-карту.
