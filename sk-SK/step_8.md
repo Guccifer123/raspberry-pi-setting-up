@@ -1,10 +1,10 @@
 ## Čo ďalej?
 
-+ Take a look at our [Using your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using) guide.
++ Pozrite sa na našu [Použitie vašej Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using) sprievodca.
 
-+ Explore what you can do with your Raspberry Pi by creating some of our [digital making projects](https://projects.raspberrypi.org), for example:
++ Preskúmajte, čo môžete robiť s vašou Raspberry Pi vytvorením niektorých z našich [digitálnych projektov](https://projects.raspberrypi.org), napríklad:
     
-    + [Robot antenna](https://projects.raspberrypi.org/en/projects/robot-antenna) — control a robot's antenna light with a Raspberry Pi and code blocks
-    + [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) — learn how to code your own musical instruments
-    + [Turtle race](https://projects.raspberrypi.org/en/projects/turtle-race) — race digital turtles against each other
-    + [Push button stop-motion](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) — make your own stop-motion animation rig with a button and a [Raspberry Pi Camera Module](https://www.raspberrypi.org/products/camera-module-v2/)
+    + [Robotová anténa](https://projects.raspberrypi.org/en/projects/robot-antenna) - ovládanie antény robota s maltou Pi a kódovými blokmi
+    + [Rocková kapela](https://projects.raspberrypi.org/en/projects/rock-band) - naučte sa kódovať svoje vlastné hudobné nástroje
+    + [Turtle race](https://projects.raspberrypi.org/en/projects/turtle-race) - pretekajte digitálne korytnačky navzájom
+    + [Stlačením tlačidla stop-motion](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) - vytvorte si vlastnú animačnú zostavu stop motion s tlačidlom a [Malom Pi Camera Camera Module](https://www.raspberrypi.org/products/camera-module-v2/)
