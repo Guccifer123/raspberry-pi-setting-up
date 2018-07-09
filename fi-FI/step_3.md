@@ -1,53 +1,53 @@
 ## Aseta SD-kortti
 
-If you have an SD card that doesn't have the Raspbian operating system on it yet, or if you want to reset your Raspberry Pi, you can easily install Raspbian yourself. To do so, you need a computer that has an SD card port — most laptop and desktop computers have one.
+Jos sinulla on SD-kortti, jolla ei vielä ole Raspbian-käyttöjärjestelmää tai jos haluat nollata Raspberry Pi -sovelluksen, voit helposti asentaa Raspbian itse. Tätä varten tarvitset tietokoneen, jolla on SD-korttiportti - useimmilla kannettaviin tietokoneisiin ja pöytätietokoneisiin on yksi.
 
-### The Raspbian operating system via NOOBS
+### Raspbian-käyttöjärjestelmä NOOBS: n kautta
 
-Using the NOOBS software is the easiest way to install Raspbian on your SD card.
+NOOBS-ohjelmiston käyttö on helpoin tapa asentaa Raspbian SD-kortille.
 
-#### Download NOOBS
+#### Lataa NOOBS
 
-+ Visit the [Raspberry Pi downloads page](https://www.raspberrypi.org/downloads).
++ Käy [Raspberry Pi -lataussivulla](https://www.raspberrypi.org/downloads).
 
-![Downloads page](images/downloads-page.png)
+![Lataussivu](images/downloads-page.png)
 
-+ You should see a box linking to the NOOBS files. Click on the box.
++ Näet NOOBS-tiedostoihin yhdistetyn laatikon. Napsauta laatikkoa.
 
-![Click on NOOBS](images/click-noobs.png)
+![Napsauta NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files. Make sure to pay attention to where you save the archive, so that you can find it again quickly.
++ Yksinkertaisin vaihtoehto on ladata tiedostojen zip-arkisto. Muista kiinnittää huomiota siihen, missä tallennat arkiston, jotta voit löytää sen nopeasti uudelleen.
 
-![Download zip](images/download-zip.png)
+![Lataa zip](images/download-zip.png)
 
-#### Format the SD card
+#### Muotoile SD-kortti
 
-Anything that's stored on the SD card will be overwritten during formatting. So if the SD card on which you want to install Raspbian currently has any files on it, e.g. from an older version of Raspbian, you may wish to back these files up first to not lose them permanently.
+Kaikki, jotka on tallennettu SD-kortille, korvataan muotoilun aikana. Joten jos SD-kortti, johon haluat asentaa Raspbianin, on tällä hetkellä tiedostoja, esim. Vanhasta Raspbian-versiosta, voit halutessasi varmuuskopioida nämä tiedostot ensin, jotta et menetä niitä pysyvästi.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Käy SD Associationin verkkosivuilla ja lataa [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) Windowsille tai Macille.
 
-+ Follow the instructions to install the software.
++ Asenna ohjelmisto noudattamalla ohjeita.
 
-+ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Aseta SD-kortti tietokoneeseen tai kannettavan tietokoneen SD-korttipaikkaan ja kirjoita sille osoitetun aseman kirjain, esim. `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and the format the card.
++ Valitse SD Formatter -ohjelmassa SD-kortille aseman kirjain ja muodosta kortti.
 
-#### Extract NOOBS from the zip archive
+#### Poista NOOBS zip-arkistosta
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Seuraavaksi sinun on purettava tiedostot NPSPS-arkistosta, jonka olet ladannut Raspberry Pi -sivustosta.
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ Löydä ladattu arkisto - oletuksena sinun pitäisi olla `Lataukset` -kansiossa.
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ Kaksoisnapsauta sitä tiedostojen purkamiseksi ja säilytä Resurssienhallinta / Etsijä-ikkuna auki.
 
-#### Copy the files
+#### Kopioi tiedostot
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Avaa nyt uusi Explorer / Finder-ikkuna ja siirry SD-kortille. On parasta sijoittaa kaksi ikkunaa vierekkäin.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ Valitse kaikki `NOOBS` -kansiossa olevat tiedostot ja vedä ne SD-kortin ikkunaan, jotta voit kopioida ne korttiin.
 
-![windows copy](images/copy3.png)
+![ikkunat kopioida](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![macos kopio](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ Kun kaikki tiedostot on kopioitu, voit poistaa SD-kortin.
