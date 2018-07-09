@@ -1,0 +1,25 @@
+---
+title: Настройка малины Pi
+hero_image: Изображения / banner.png
+description: Как настроить и запустить свой Pi в первый раз
+version: 4
+listed: true
+copyedit: true
+last_tested: "2018-05-16"
+steps:
+  - 
+    title: Введение
+  - 
+    title: Что тебе понадобится
+  - 
+    title: Настройка SD-карты
+  - 
+    title: Подключите свой Pi
+  - 
+    title: Запустите свой Pi
+  - 
+    title: Завершите настройку
+  - 
+    title: Где найти помощь
+  - 
+    title: Что дальше?
