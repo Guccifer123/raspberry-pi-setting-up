@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## Запустите свой малиновый пи
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+У вашей малины Pi нет переключателя питания: как только вы подключите его к розетке, он включится. Обратите внимание, что порт питания Micro USB Pi имеет более длинную плоскую сторону сверху.
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ Подключите источник питания micro USB в гнездо и подключите его к порту питания Pi.
 
-![screenshot](images/pi-power.png)
+![Скриншот](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+Вы должны увидеть красный светодиод на малине Pi, что указывает на то, что Pi подключен к электросети. Как запускается (это также называется **загрузкой**), вы увидите , малина появится в верхнем левом углу экрана.
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![сапог малины](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Ваш браузер не поддерживает видео WebM, поэтому попробуйте FireFox или Chrome. </video> 
 
-\--- collapse \---
+\--- коллапс \---
 
 * * *
 
-## title: First-time startup with NOOBS
+## название: первый запуск с NOOBS
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+Если вы впервые запускаете свой малиновый Pi с SD-картой, содержащей NOOBS, вы увидите установщик NOOBS. Это программное обеспечение проведет вас через установку операционной системы Raspbian (ОС).
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ Когда установщик загрузится, он предложит вам выбрать, какую ОС установить. Установите флажок для **Raspbian**, а затем нажмите кнопку **Установить**.
 
-![install](images/install.png)
+![устанавливать](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ Нажмите **Да** в диалоговом окне предупреждения, а затем расслабьтесь и расслабьтесь. Процесс установки Raspbian займет немного времени.
 
-![installing](images/installing.png)
+![установка](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ Когда Raspbian установлен, нажмите **OK**. Ваш Raspberry Pi перезагрузится, и Raspbian загрузится.
 
-![installed](images/installed.png)
+![установлен](images/installed.png)
 
-\--- /collapse \---
+\--- / свернуть \---
 
-After a few seconds the Raspbian Desktop will appear.
+Через несколько секунд появится рабочий стол Raspbian.
 
-![raspbian desktop](images/pi-desktop.jpg)
+![Настольный компьютер](images/pi-desktop.jpg)
