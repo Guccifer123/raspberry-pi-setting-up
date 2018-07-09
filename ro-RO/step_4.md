@@ -1,37 +1,37 @@
-## Connect your Raspberry Pi
+## Conectează-ți Zmeura Pi
 
-Let's get everything connected. It's important to do this in the right order, so that all your components are safe.
+Să facem totul conectat. Este important să faceți acest lucru în ordinea corectă, astfel încât toate componentele să fie sigure.
 
-![pi connections](images/pi-labelled.png)
+![pi conexiuni](images/pi-labelled.png)
 
-+ Insert the SD card you've set up with Raspbian (via NOOBS) into the micro SD card slot at the underside of your Pi. 
++ Introduceți cartela SD pe care ați configurat-o cu Raspbian (prin NOOBS) în slotul pentru cardul micro SD aflat în partea inferioară a telefonului dvs. Pi. 
 
 ![card SD](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+**Notă:** O mulțime de carduri micro SD vor intra într-un adaptor mai mare - puteți glisa cartela folosind buza din partea inferioară.
 
-![sd card holder](images/sd-card-holder.png)
+![card de memorie sd](images/sd-card-holder.png)
 
-+ Find the USB cable for your mouse, and connect the mouse to a USB port on the Raspberry Pi (it doesn't matter which one).
++ Găsiți cablul USB al mouse-ului și conectați mouse-ul la un port USB de pe Raspberry Pi (nu contează pe care).
 
 ![mouse](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ Conectați tastatura în același mod.
 
-![keyboard](images/pi-keyboard.png)
+![tastatură](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large, flat side on top.
++ Uită-te la portul HDMI de pe Raspberry Pi - observați că are o latură mare, plat pe partea de sus.
 
 ![hdmi](images/pi-hdmi.png)
 
-+ Make sure your screen is plugged into a wall socket and turned on. Use a cable to connect the screen to the Pi's HDMI port — use an adapter if necessary.
++ Asigurați-vă că ecranul este conectat la o priză de perete și că este pornit. Utilizați un cablu pentru a conecta ecranul la portul HDMI al lui Pi - utilizați un adaptor, dacă este necesar.
 
-**Note:** nothing will display on the screen, because the Pi is not running yet.
+**Notă:** nu se va afișa nimic pe ecran, deoarece Pi încă nu rulează.
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ Dacă doriți să conectați dispozitivul Pi la internet prin Ethernet, utilizați un cablu Ethernet pentru a conecta portul Ethernet de pe Raspberry Pi la o priză Ethernet de pe perete sau de pe routerul dvs. de internet. Nu aveți nevoie să faceți acest lucru dacă veți utiliza WiFi sau dacă nu doriți să vă conectați la internet.
 
 ![ethernet](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ Sunetul va veni de pe ecran dacă are difuzoare sau puteți conecta căști sau difuzoare la mufa audio dacă le aveți.
 
-![headphones](images/pi-headphones.png)
+![Căști](images/pi-headphones.png)
