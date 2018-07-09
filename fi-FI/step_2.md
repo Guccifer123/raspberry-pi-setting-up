@@ -1,77 +1,77 @@
 ## Mitä tarvitset
 
-### Which Raspberry Pi?
+### Mikä Raspberry Pi?
 
-There are several [models of Raspberry Pi](https://www.raspberrypi.org/products/), and for most people the Raspberry Pi 3 Model B+ is the one to choose.
+On olemassa useita [malleja Raspberry Pi](https://www.raspberrypi.org/products/), ja useimmat ihmiset Raspberry Pi 3 Malli B + on yksi valita.
 
-![Raspberry Pi 3](images/raspberry-pi.png)
+![Vadelma Pi 3](images/raspberry-pi.png)
 
-The Raspberry Pi 3 Model B+ is the newest, fastest, and easiest to use.
+Vadelma Pi 3 -malli B + on uusin, nopein ja helpoin käyttää.
 
-The Raspberry Pi Zero and Zero W are smaller and require less power, so they're useful for portable projects such as robots. It's generally easier to start a project with the Raspberry Pi 3, and to move to the Pi Zero when you have a working prototype that the smaller Pi would be useful for.
+Raspberry Pi Zero ja Zero W ovat pienempiä ja vaativat vähemmän tehoa, joten ne ovat hyödyllisiä kannettavissa projekteissa, kuten robotteissa. On yleensä helpompaa aloittaa projekti Raspberry Pi 3: n kanssa ja siirtyä pi-nollaan, kun sinulla on käytännöllinen prototyyppi, jota pienempi Pi olisi hyödyllinen.
 
-If you want to buy a Raspberry Pi, head to [rpf.io/products](https://rpf.io/products).
+Jos haluat ostaa Vadelma Pi, pistä [rpf.io/products](https://rpf.io/products).
 
-### A power supply
+### Virtalähde
 
-To connect to a power socket, the Raspberry Pi has a micro USB port (the same found that's found on many mobile phones).
+Liittämällä pistorasiaan Raspberry Pi on mikro-USB-portti (sama löydetty, joka löytyy monilta matkapuhelimilta).
 
-You will need a power supply which provides at least 2.5 amps. We recommend using the [official Raspberry Pi power supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
+Tarvitset virtalähteen, joka tarjoaa vähintään 2,5 ampeeria. Suosittelemme [virallisen Raspberry Pi-virtalähteen](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
 
-![power supply](images/powersupply.png)
+![virtalähde](images/powersupply.png)
 
-### A micro SD card
+### Mikro-SD-kortti
 
-Your Raspberry Pi needs an SD card to store all its files and the Raspbian operating system.
+Raspberry Pi tarvitsee SD-kortin tallentamaan kaikki tiedostot ja Raspbian-käyttöjärjestelmä.
 
-![sd card](images/pi-sd.png)
+![sd kortti](images/pi-sd.png)
 
-You will need a micro SD card with a capacity of at least 8 GB.
+Tarvitset mikro SD-kortin, jonka kapasiteetti on vähintään 8 Gt.
 
-Many sellers supply SD cards for Raspberry Pi that are already set up with Raspbian and ready to go.
+Monet myyjät tarjoavat Raspberry Pi: n SD-kortteja, jotka on jo perustettu Raspbian-laitteella ja valmiina liikkeelle.
 
-### A keyboard and a mouse
+### Näppäimistö ja hiiri
 
-To start using your Raspberry, you will need a USB keyboard and a USB mouse.
+Jotta voit käyttää vadelmasi, tarvitset USB-näppäimistön ja USB-hiiren.
 
-Once you've set your Pi up, you can use a Bluetooth keyboard and mouse, but you'll need a USB keyboard and mouse for setting up.
+Kun olet asettanut Pi ylös, voit käyttää Bluetooth-näppäimistöä ja hiirtä, mutta tarvitset USB-näppäimistön ja hiiren asetukset.
 
-### A TV or computer screen
+### Televisio tai tietokoneen näyttö
 
-To view the Raspbian desktop environment, you will need a screen and a cable to link the screen and the Pi. The screen can be a TV or a computer monitor. If the screen has built-in speakers, the Pi will be able to use these to play sound.
+Jos haluat tarkastella Raspbian-työpöytäympäristöä, tarvitset näytön ja kaapelin, jolla voit liittää näytön ja Piin. Näyttö voi olla televisio tai tietokoneen näyttö. Jos näytössä on sisäänrakennetut kaiuttimet, Pi voi käyttää niitä toistamaan ääntä.
 
 #### HDMI
 
-The Raspberry Pi has a HDMI output port that is compatible with the HDMI port of most modern TVs and computer monitors. Many computer monitors may also have DVI or VGA ports.
+Raspberry Pi: llä on HDMI-lähtöportti, joka on yhteensopiva nykyaikaisten televisioiden ja tietokoneiden näytön HDMI-portin kanssa. Monissa tietokonenäytöissä voi olla myös DVI- tai VGA-portteja.
 
-![hdmi port](images/hdmi-port.png)
+![hdmi-portti](images/hdmi-port.png)
 
 #### DVI
 
-If your screen has a DVI port, you can connect the Pi to it using a HDMI-to-DVI cable.
+Jos näytölläsi on DVI-portti, voit liittää Piin HDMI-DVI-kaapelilla.
 
-![dvi port](images/dvi-port.png)
+![dvi-portti](images/dvi-port.png)
 
 #### VGA
 
-Some screens only have a VGA port.
+Joissakin näytöissä on vain VGA-portti.
 
-![vga port](images/vga-port.png)
+![vga-satama](images/vga-port.png)
 
-To connect your Pi to such a screen, you can use a HDMI-to-VGA adapter.
+Pi: n kytkeminen tällaiseen näyttöön voi käyttää HDMI-VGA-sovitinta.
 
-![hdmi to vga adapter port](images/hdmi-vga-adapter.png)
+![hdmi-vga-sovittimen porttiin](images/hdmi-vga-adapter.png)
 
-### Optional extras
+### Lisävarusteet
 
-#### A case
+#### Tapaus
 
-You may want to put your Raspberry Pi in a case. This is not essential, but it will provide protection for your Pi. If you'd like, you can use the official case for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) or [Pi Zero or Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+Voit halutessasi laittaa vadelmasi PI: n koteloon. Tämä ei ole välttämätöntä, mutta se suojaa Pi: täsi. Jos haluat, voit käyttää virallista tapausta [Vadelma Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) tai [Pi Zero tai Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
 
-#### Headphones or speakers
+#### Kuulokkeet tai kaiuttimet
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
+Suuret Raspberry Pi -mallit (ei Pi Zero / Zero W) sisältävät tavallisen äänisataman, kuten älypuhelimesi tai MP3-soittimen. Jos haluat, voit liittää kuulokkeet tai kaiuttimet niin, että Pi voi toistaa ääntä. Jos Pi-liittymäsi näyttöön on sisäänrakennetut kaiuttimet, Pi voi soittaa ääntä näiden kautta.
 
-#### An Ethernet cable
+#### Ethernet-kaapeli
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+Suuret Vadelma Pi -mallit (ei Pi Zero / Zero W) ovat standardi Ethernet-portti, jotta ne voidaan liittää internetiin. Pi-Zero-yhteyden muodostaminen Internetiin edellyttää USB-Ethernet-sovitinta. Raspberry Pi 3 ja Pi Zero W voidaan myös langattomasti liittää verkkoon.
