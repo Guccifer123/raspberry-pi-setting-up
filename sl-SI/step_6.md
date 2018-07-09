@@ -1,31 +1,31 @@
 ## Končajte nastavitev
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Ko prvič zaženete Raspberry Pi, se bo **Welcome to Application Raspberry Pi** pojavilo in vas vodilo skozi začetno nastavitev.
 
-![pi wizard](images/piwiz.gif)
+![pi čarovnik](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Če želite začeti nastavitev, kliknite **Naprej**.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Nastavite **Država**, **jezik**in **časovni pas**, nato **Naprej** znova.
 
-![pi wizard country](images/piwiz2.PNG)
+![pi wizard država](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Vnesite novo geslo za vašo Raspberry Pi in kliknite **Naprej**.
 
-![pi wizard password](images/piwiz3.PNG)
+![pi wizard geslo](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Povežite se z omrežjem WiFi tako, da izberete njegovo ime, vnesete geslo in kliknete **Naprej**.
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Opomba:** če vaš model Raspberry Pi nima brezžične povezave, tega zaslona ne boste videli.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Kliknite **Naprej** čarovnik preveri, ali so posodobitve na voljo v programu Raspbian in jih namestite (to lahko traja nekaj časa).
 
-![pi wizard updating](images/piwiz6.PNG)
+![pi čarovnik posodabljanje](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Kliknite **Končano** ali **Ponovite** da končate nastavitev.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Opomba:** boste morali ponovno zagnati le, če je to potrebno za dokončanje posodobitve.
 
-![pi wizard complete](images/piwiz7.PNG)
+![pi čarovnik končan](images/piwiz7.PNG)
