@@ -1,77 +1,77 @@
-## What you will need
+## מה שאתה תצטרך
 
-### Which Raspberry Pi?
+### איזה פטל פספרי?
 
-There are several [models of Raspberry Pi](https://www.raspberrypi.org/products/), and for most people the Raspberry Pi 3 Model B+ is the one to choose.
+ישנם מספר דגמים [של פספי Pi](https://www.raspberrypi.org/products/), ועל רוב האנשים את פספי Pi 3 מודל B + הוא אחד לבחור.
 
-![Raspberry Pi 3](images/raspberry-pi.png)
+![פספי פאי 3](images/raspberry-pi.png)
 
-The Raspberry Pi 3 Model B+ is the newest, fastest, and easiest to use.
+את פספי Pi 3 מודל B + הוא החדש, המהיר ביותר, והקלה ביותר לשימוש.
 
-The Raspberry Pi Zero and Zero W are smaller and require less power, so they're useful for portable projects such as robots. It's generally easier to start a project with the Raspberry Pi 3, and to move to the Pi Zero when you have a working prototype that the smaller Pi would be useful for.
+ה- Pixberry Pero Zero ו- Zero W קטנים יותר ודורשים פחות חשמל, ולכן הם שימושיים עבור פרוייקטים ניידים כגון רובוטים. זה בדרך כלל קל יותר להתחיל פרויקט עם פטל פייס 3, ולעבור פי אפס כאשר יש לך אב טיפוס עובד כי פי קטן יהיה שימושי.
 
-If you want to buy a Raspberry Pi, head to [rpf.io/products](https://rpf.io/products).
+אם אתה רוצה לקנות פטל פטל, ראש [rpf.io / מוצרים](https://rpf.io/products).
 
-### A power supply
+### ספק כוח
 
-To connect to a power socket, the Raspberry Pi has a micro USB port (the same found that's found on many mobile phones).
+כדי להתחבר לשקע חשמל, את פספי Pi יש יציאת USB מיקרו (זהה נמצא כי על טלפונים ניידים רבים).
 
-You will need a power supply which provides at least 2.5 amps. We recommend using the [official Raspberry Pi power supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
+אתה צריך ספק כוח אשר מספק לפחות 2.5 אמפר. אנו ממליצים להשתמש [הרשמי Raspberry פי אספקת החשמל](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
 
-![power supply](images/powersupply.png)
+![ספק כוח](images/powersupply.png)
 
-### A micro SD card
+### כרטיס מיקרו SD
 
-Your Raspberry Pi needs an SD card to store all its files and the Raspbian operating system.
+Pixpberry Pi שלך צריך כרטיס SD כדי לאחסן את כל הקבצים שלה ואת מערכת ההפעלה Raspbian.
 
-![sd card](images/pi-sd.png)
+![כרטיס זיכרון](images/pi-sd.png)
 
-You will need a micro SD card with a capacity of at least 8 GB.
+אתה צריך כרטיס מיקרו SD עם קיבולת של לפחות 8 GB.
 
-Many sellers supply SD cards for Raspberry Pi that are already set up with Raspbian and ready to go.
+מוכרים רבים מספקים כרטיסי SD עבור פטל פאי כי הם כבר להגדיר עם Raspbian ומוכן ללכת.
 
-### A keyboard and a mouse
+### מקלדת ועכבר
 
-To start using your Raspberry, you will need a USB keyboard and a USB mouse.
+כדי להתחיל להשתמש שלך Raspberry, תצטרך מקלדת USB ועכבר USB.
 
-Once you've set your Pi up, you can use a Bluetooth keyboard and mouse, but you'll need a USB keyboard and mouse for setting up.
+לאחר שתגדיר את ה- Pi שלך, תוכל להשתמש במקלדת ועכבר Bluetooth, אך תצטרך מקלדת ועכבר USB להגדרה.
 
-### A TV or computer screen
+### מסך טלוויזיה או מחשב
 
-To view the Raspbian desktop environment, you will need a screen and a cable to link the screen and the Pi. The screen can be a TV or a computer monitor. If the screen has built-in speakers, the Pi will be able to use these to play sound.
+כדי להציג את סביבת שולחן העבודה Raspbian, יהיה עליך מסך וכבל כדי לקשר את המסך ואת פי. המסך יכול להיות טלוויזיה או צג מחשב. אם המסך כולל רמקולים מובנים, ה- Pi יוכל להשתמש בהם להשמעת קול.
 
 #### HDMI
 
-The Raspberry Pi has a HDMI output port that is compatible with the HDMI port of most modern TVs and computer monitors. Many computer monitors may also have DVI or VGA ports.
+את פספרי Pi יש יציאת HDMI פלט התואמת יציאת HDMI של טלוויזיות המודרנית ביותר צגים המחשב. מסכי מחשב רבים עשויים להיות גם יציאות DVI או VGA.
 
-![hdmi port](images/hdmi-port.png)
+![יציאת HDMI](images/hdmi-port.png)
 
 #### DVI
 
-If your screen has a DVI port, you can connect the Pi to it using a HDMI-to-DVI cable.
+אם המסך שלך כולל יציאת DVI, באפשרותך לחבר את ה- Pi אליו באמצעות כבל HDMI ל- DVI.
 
-![dvi port](images/dvi-port.png)
+![יציאת dvi](images/dvi-port.png)
 
 #### VGA
 
-Some screens only have a VGA port.
+במסכים מסוימים יש רק יציאת VGA.
 
-![vga port](images/vga-port.png)
+![יציאת VGA](images/vga-port.png)
 
-To connect your Pi to such a screen, you can use a HDMI-to-VGA adapter.
+כדי לחבר את ה- Pi למסך כזה, ניתן להשתמש במתאם HDMI-to-VGA.
 
-![hdmi to vga adapter port](images/hdmi-vga-adapter.png)
+![hdmi כדי יציאת מתאם VGA - -](images/hdmi-vga-adapter.png)
 
-### Optional extras
+### תוספות אופציונאליות
 
-#### A case
+#### מקרה
 
-You may want to put your Raspberry Pi in a case. This is not essential, but it will provide protection for your Pi. If you'd like, you can use the official case for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) or [Pi Zero or Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+ייתכן שתרצה לשים את פספוס פאי שלך במקרה. זה לא חיוני, אבל זה יספק הגנה על פי שלך. אם אתה רוצה, אתה יכול להשתמש במקרה הרשמי עבור [פטל פייס 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) או [פי אפס או אפס W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
 
-#### Headphones or speakers
+#### אוזניות או רמקולים
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
+הדגמים הגדולים פייס פי (לא אפס פי / אפס W) יש יציאת שמע רגילה כמו זה על הטלפון החכם שלך או נגן MP3. אם אתה רוצה, אתה יכול לחבר את האוזניות שלך או רמקולים, כך פי יכול להשמיע קול. אם המסך שאתה מחבר את ה- Pi שלך כולל רמקולים מובנים, ה- Pi יכול להשמיע צליל דרך אלה.
 
-#### An Ethernet cable
+#### כבל Ethernet
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+הדגמים הגדולים פטל פי (לא אפס פי / אפס W) יש יציאת Ethernet סטנדרטית כדי לחבר אותם לאינטרנט. כדי לחבר פי אפס לאינטרנט, אתה צריך מתאם USB-to-Ethernet. את פספי פי 3 ו פי אפס W יכול גם להיות מחובר באופן אלחוטי לאינטרנט.
