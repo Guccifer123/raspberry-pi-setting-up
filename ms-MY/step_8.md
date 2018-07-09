@@ -1,10 +1,10 @@
-## What next?
+## Apa selepas ini?
 
-+ Take a look at our [Using your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using) guide.
++ Sila lihat pada kami [Menggunakan Raspberry Pi anda](https://projects.raspberrypi.org/en/projects/raspberry-pi-using) panduan.
 
-+ Explore what you can do with your Raspberry Pi by creating some of our [digital making projects](https://projects.raspberrypi.org), for example:
++ Menerokai apa yang anda boleh lakukan dengan Raspberry Pi anda dengan mewujudkan beberapa kami [membuat projek digital](https://projects.raspberrypi.org), sebagai contoh:
     
-    + [Robot antenna](https://projects.raspberrypi.org/en/projects/robot-antenna) — control a robot's antenna light with a Raspberry Pi and code blocks
-    + [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) — learn how to code your own musical instruments
-    + [Turtle race](https://projects.raspberrypi.org/en/projects/turtle-race) — race digital turtles against each other
-    + [Push button stop-motion](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) — make your own stop-motion animation rig with a button and a [Raspberry Pi Camera Module](https://www.raspberrypi.org/products/camera-module-v2/)
+    + [Robot antena](https://projects.raspberrypi.org/en/projects/robot-antenna) - mengawal cahaya antena robot dengan Raspberry Pi dan blok kod
+    + [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) - belajar bagaimana untuk mengodkan alat muzik anda sendiri
+    + [Penyu penyu](https://projects.raspberrypi.org/en/projects/turtle-race) - penyu digital perlumbaan antara satu sama lain
+    + [Tekan butang stop-motion](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) - buat rig animasi stop-motion anda sendiri dengan butang dan [Modul Kamera Raspberry Pi](https://www.raspberrypi.org/products/camera-module-v2/)
