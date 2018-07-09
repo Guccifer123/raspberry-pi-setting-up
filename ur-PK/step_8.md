@@ -1,10 +1,10 @@
 ## کیا اگلا؟
 
-+ Take a look at our [Using your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using) guide.
-
-+ Explore what you can do with your Raspberry Pi by creating some of our [digital making projects](https://projects.raspberrypi.org), for example:
++ ہماری Raspberry Pi</a> گائیڈ کا استعمال کرتے ہوئے ہماری پر نظر ڈالیں.</p></li> 
     
-    + [Robot antenna](https://projects.raspberrypi.org/en/projects/robot-antenna) — control a robot's antenna light with a Raspberry Pi and code blocks
-    + [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) — learn how to code your own musical instruments
-    + [Turtle race](https://projects.raspberrypi.org/en/projects/turtle-race) — race digital turtles against each other
-    + [Push button stop-motion](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) — make your own stop-motion animation rig with a button and a [Raspberry Pi Camera Module](https://www.raspberrypi.org/products/camera-module-v2/)
+    + آپ ہمارے میں سے کچھ کرنے کی طرف سے آپ رسبری PI کے ساتھ کیا کر سکتے ہیں دریافت کریں [ڈیجیٹل سازی منصوبوں](https://projects.raspberrypi.org)مثال کے طور پر:
+        
+        + [روبوٹ اینٹینا](https://projects.raspberrypi.org/en/projects/robot-antenna) - ایک راسبری پیئ اور کوڈ بلاکس کے ساتھ ایک روبوٹ کی اینٹینا روشنی کو کنٹرول
+        + [راک بینڈ](https://projects.raspberrypi.org/en/projects/rock-band) - سیکھیں کہ اپنے موسیقی کے آلات کیسے بنانا
+        + [کچھی ریس](https://projects.raspberrypi.org/en/projects/turtle-race) - ایک دوسرے کے خلاف دوڑ ڈیجیٹل کچھی
+        + [پش بٹن سٹاپ-تحریک](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) - ایک بٹن کے ساتھ اپنے اپنے سٹاپ تحریک حرکت پذیر رگ اور ایک [ریکسیری پائی کیمرے ماڈیول](https://www.raspberrypi.org/products/camera-module-v2/)</ul>
