@@ -1,31 +1,31 @@
 ## Voltooi de installatie
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Wanneer u uw Raspberry Pi voor de eerste keer opstart, zal de toepassing **Welcome to Raspberry Pi** verschijnen en u door de initiële installatie leiden.
 
-![pi wizard](images/piwiz.gif)
+![Pi wizard](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Klik op **Volgende** om de installatie te starten.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Stel uw **Land**, **Taal**en **Tijdzone**in en klik vervolgens opnieuw op **Volgende**.
 
-![pi wizard country](images/piwiz2.PNG)
+![pi tovenaarsland](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Voer een nieuw wachtwoord in voor uw Raspberry Pi en klik op **Volgende**.
 
-![pi wizard password](images/piwiz3.PNG)
+![pi wizardwachtwoord](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Maak verbinding met uw wifi-netwerk door de naam te selecteren, het wachtwoord in te voeren en op **volgende**klikken.
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Opmerking:** als uw Raspberry Pi-model geen draadloze verbinding heeft, ziet u dit scherm niet.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Klik op **Volgende** laat de wizard controleren of er updates zijn voor Raspbian en installeer ze (dit kan even duren).
 
-![pi wizard updating](images/piwiz6.PNG)
+![pi wizard bijwerken](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Klik op **Gereed** of **Reboot** om de installatie te voltooien.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Opmerking:** u hoeft alleen opnieuw op te starten als dat nodig is om een ​​update te voltooien.
 
-![pi wizard complete](images/piwiz7.PNG)
+![pi wizard compleet](images/piwiz7.PNG)
