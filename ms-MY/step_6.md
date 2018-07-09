@@ -1,31 +1,31 @@
-## Finish the setup
+## Selesaikan persediaan
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Apabila anda memulakan Raspberry Pi buat kali pertama, **Selamat datang ke aplikasi Raspberry Pi** akan muncul dan membimbing anda melalui persediaan awal.
 
-![pi wizard](images/piwiz.gif)
+![wizard pi](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Klik **Next** untuk memulakan persediaan.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Tetapkan **Negara**, **Bahasa**, dan **Zon**, kemudian klik **Next** lagi.
 
-![pi wizard country](images/piwiz2.PNG)
+![pi wizard negara](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Masukkan kata laluan baru untuk Ras Raspberry Pi anda dan klik **Seterusnya**.
 
-![pi wizard password](images/piwiz3.PNG)
+![kata laluan wizard pi](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Sambungkan ke rangkaian WiFi anda dengan memilih namanya, memasukkan kata laluan, dan mengklik **Seterusnya**.
 
-![pi wizard wifi](images/piwiz4.PNG)
+![wizard wizard pi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Nota:** jika model Raspberry Pi anda tidak mempunyai sambungan wayarles, anda tidak akan melihat skrin ini.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Klik **Next** biarkan penyihir memeriksa pembaruan untuk Raspbian dan pasangnya (ini mungkin mengambil sedikit masa).
 
-![pi wizard updating](images/piwiz6.PNG)
+![mengemaskini wizard pi](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Klik **Selesai** atau **Reboot** untuk menyelesaikan persediaan.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Nota:** anda hanya perlu reboot jika perlu untuk menyelesaikan kemas kini.
 
-![pi wizard complete](images/piwiz7.PNG)
+![wizard pi lengkap](images/piwiz7.PNG)
