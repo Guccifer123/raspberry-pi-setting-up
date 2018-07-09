@@ -1,31 +1,31 @@
-## Finish the setup
+## Lopeta asennus
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Kun käynnistät Raspberry Pi ensimmäisen kerran, **Tervetuloa Raspberry Pi** -sovellukseen avautuu ja ohjaa sinut alkuasetusten kautta.
 
-![pi wizard](images/piwiz.gif)
+![pi ohjatun](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Aloita asennus valitsemalla **Seuraava**.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ Aseta **maa**, **kieli**ja **aikavyöhyke**, sitten **Seuraava** uudelleen.
 
-![pi wizard country](images/piwiz2.PNG)
+![pi velho maa](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ Anna uusi salasana Raspberry Pi: lle ja napsauta **Seuraava**.
 
-![pi wizard password](images/piwiz3.PNG)
+![pi ohjatun salasanan](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ Muodosta yhteys WiFi-verkkoon valitsemalla sen nimen, syöttämällä salasana ja napsauttamalla **Seuraava**.
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**Huomaa:** jos Raspberry Pi -mallissa ei ole langatonta yhteyttä, et näe tätä näyttöä.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Napsauta **Seuraava** anna ohjatun toiminnon tarkistaa Raspbian-päivitykset ja asentaa ne (tämä saattaa kestää hetken).
 
-![pi wizard updating](images/piwiz6.PNG)
+![pi ohjatun päivityksen](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ Lopeta asennus valitsemalla **Tee** tai **Käynnistä uudelleen**.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**Huomautus:** sinun on käynnistettävä uudelleen vain, jos se on tarpeen päivityksen suorittamiseksi.
 
-![pi wizard complete](images/piwiz7.PNG)
+![pi ohjattu valmis](images/piwiz7.PNG)
