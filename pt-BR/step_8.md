@@ -1,10 +1,10 @@
 ## Qual o proximo?
 
-+ Take a look at our [Using your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using) guide.
++ Dê uma olhada no nosso guia [Using your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using).
 
-+ Explore what you can do with your Raspberry Pi by creating some of our [digital making projects](https://projects.raspberrypi.org), for example:
++ Explore o que você pode fazer com seu Raspberry Pi criando alguns de nossos [projetos de criação digital](https://projects.raspberrypi.org), por exemplo:
     
-    + [Robot antenna](https://projects.raspberrypi.org/en/projects/robot-antenna) — control a robot's antenna light with a Raspberry Pi and code blocks
-    + [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) — learn how to code your own musical instruments
-    + [Turtle race](https://projects.raspberrypi.org/en/projects/turtle-race) — race digital turtles against each other
-    + [Push button stop-motion](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) — make your own stop-motion animation rig with a button and a [Raspberry Pi Camera Module](https://www.raspberrypi.org/products/camera-module-v2/)
+    + [Antena do robô](https://projects.raspberrypi.org/en/projects/robot-antenna) - controle a luz de antena de um robô com um Raspberry Pi e blocos de código
+    + [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) - aprenda a codificar seus próprios instrumentos musicais
+    + [Tartaruga corrida](https://projects.raspberrypi.org/en/projects/turtle-race) - corrida tartarugas digitais uns contra os outros
+    + [Botão de pressão stop-motion](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) - faça o seu próprio equipamento de animação stop-motion com um botão e um módulo de câmera [Raspberry Pi](https://www.raspberrypi.org/products/camera-module-v2/)
