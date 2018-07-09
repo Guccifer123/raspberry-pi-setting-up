@@ -1,77 +1,77 @@
-## What you will need
+## तुम क्या आवश्यकता होगी
 
-### Which Raspberry Pi?
+### कौन सा रास्पबेरी पाई?
 
-There are several [models of Raspberry Pi](https://www.raspberrypi.org/products/), and for most people the Raspberry Pi 3 Model B+ is the one to choose.
+रास्पबेरी पीआई</a>कई मॉडल हैं, और अधिकांश लोगों के लिए रास्पबेरी पाई 3 मॉडल बी + चुनने वाला एक है।</p> 
 
-![Raspberry Pi 3](images/raspberry-pi.png)
+![रास्पबेरी पाई 3](images/raspberry-pi.png)
 
-The Raspberry Pi 3 Model B+ is the newest, fastest, and easiest to use.
+रास्पबेरी पाई 3 मॉडल बी + उपयोग करने वाला सबसे नया, सबसे तेज़ और आसान है।
 
-The Raspberry Pi Zero and Zero W are smaller and require less power, so they're useful for portable projects such as robots. It's generally easier to start a project with the Raspberry Pi 3, and to move to the Pi Zero when you have a working prototype that the smaller Pi would be useful for.
+रास्पबेरी पाई शून्य और शून्य डब्ल्यू छोटे हैं और कम बिजली की आवश्यकता है, इसलिए वे रोबोट जैसे पोर्टेबल परियोजनाओं के लिए उपयोगी हैं। रास्पबेरी पी 3 के साथ एक प्रोजेक्ट शुरू करना आम तौर पर आसान होता है, और जब आप एक काम कर रहे प्रोटोटाइप के लिए पीआई शून्य पर जाते हैं तो छोटे पीआई के लिए उपयोगी होगा।
 
-If you want to buy a Raspberry Pi, head to [rpf.io/products](https://rpf.io/products).
+यदि आप रास्पबेरी पीआई खरीदना चाहते हैं, तो [rpf.io/products](https://rpf.io/products)।
 
-### A power supply
+### एक बिजली की आपूर्ति
 
-To connect to a power socket, the Raspberry Pi has a micro USB port (the same found that's found on many mobile phones).
+पावर सॉकेट से कनेक्ट करने के लिए, रास्पबेरी पीआई में एक माइक्रो यूएसबी पोर्ट है (वही पाया जाता है जो कई मोबाइल फोन पर मिलता है)।
 
-You will need a power supply which provides at least 2.5 amps. We recommend using the [official Raspberry Pi power supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
+You will need a power supply which provides at least 2.5 amps. हम [आधिकारिक रास्पबेरी पीआई बिजली की आपूर्ति](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/)का उपयोग करने की सलाह देते हैं।
 
-![power supply](images/powersupply.png)
+![बिजली की आपूर्ति](images/powersupply.png)
 
-### A micro SD card
+### एक माइक्रो एसडी कार्ड
 
-Your Raspberry Pi needs an SD card to store all its files and the Raspbian operating system.
+आपकी रास्पबेरी पी को अपनी सभी फाइलों और रास्पियन ऑपरेटिंग सिस्टम को स्टोर करने के लिए एक एसडी कार्ड की आवश्यकता है।
 
-![sd card](images/pi-sd.png)
+![एसडी कार्ड](images/pi-sd.png)
 
-You will need a micro SD card with a capacity of at least 8 GB.
+आपको कम से कम 8 जीबी की क्षमता वाले माइक्रो एसडी कार्ड की आवश्यकता होगी।
 
-Many sellers supply SD cards for Raspberry Pi that are already set up with Raspbian and ready to go.
+कई विक्रेता रास्पबेरी पीआई के लिए एसडी कार्ड की आपूर्ति करते हैं जो पहले से ही रास्पियन के साथ स्थापित हैं और जाने के लिए तैयार हैं।
 
-### A keyboard and a mouse
+### एक कीबोर्ड और एक माउस
 
-To start using your Raspberry, you will need a USB keyboard and a USB mouse.
+अपने रास्पबेरी का उपयोग शुरू करने के लिए, आपको एक यूएसबी कीबोर्ड और यूएसबी माउस की आवश्यकता होगी।
 
-Once you've set your Pi up, you can use a Bluetooth keyboard and mouse, but you'll need a USB keyboard and mouse for setting up.
+एक बार जब आप अपना पीआई सेट कर लेंगे, तो आप ब्लूटूथ कीबोर्ड और माउस का उपयोग कर सकते हैं, लेकिन आपको सेट करने के लिए यूएसबी कीबोर्ड और माउस की आवश्यकता होगी।
 
-### A TV or computer screen
+### एक टीवी या कंप्यूटर स्क्रीन
 
-To view the Raspbian desktop environment, you will need a screen and a cable to link the screen and the Pi. The screen can be a TV or a computer monitor. If the screen has built-in speakers, the Pi will be able to use these to play sound.
+रास्पियन डेस्कटॉप वातावरण को देखने के लिए, आपको स्क्रीन और पीआई को जोड़ने के लिए एक स्क्रीन और केबल की आवश्यकता होगी। स्क्रीन एक टीवी या कंप्यूटर मॉनीटर हो सकती है। यदि स्क्रीन में अंतर्निहित स्पीकर हैं, तो पीआई ध्वनि चलाने के लिए इनका उपयोग कर पाएगा।
 
 #### HDMI
 
-The Raspberry Pi has a HDMI output port that is compatible with the HDMI port of most modern TVs and computer monitors. Many computer monitors may also have DVI or VGA ports.
+रास्पबेरी पीआई में एक एचडीएमआई आउटपुट पोर्ट है जो अधिकांश आधुनिक टीवी और कंप्यूटर मॉनीटर के एचडीएमआई पोर्ट के साथ संगत है। कई कंप्यूटर मॉनीटरों में डीवीआई या वीजीए बंदरगाह भी हो सकते हैं।
 
-![hdmi port](images/hdmi-port.png)
+![एचडीएमआई पोर्ट](images/hdmi-port.png)
 
-#### DVI
+#### डीवीआई
 
-If your screen has a DVI port, you can connect the Pi to it using a HDMI-to-DVI cable.
+यदि आपकी स्क्रीन में एक डीवीआई पोर्ट है, तो आप एचडीएमआई-टू-डीवीआई केबल का उपयोग करके पीआई को कनेक्ट कर सकते हैं।
 
-![dvi port](images/dvi-port.png)
+![डीवी पोर्ट](images/dvi-port.png)
 
-#### VGA
+#### वीजीए
 
-Some screens only have a VGA port.
+कुछ स्क्रीनों में केवल वीजीए पोर्ट होता है।
 
-![vga port](images/vga-port.png)
+![वीजीए पोर्ट](images/vga-port.png)
 
-To connect your Pi to such a screen, you can use a HDMI-to-VGA adapter.
+अपनी पीआई को ऐसी स्क्रीन से कनेक्ट करने के लिए, आप एचडीएमआई-टू-वीजीए एडाप्टर का उपयोग कर सकते हैं।
 
-![hdmi to vga adapter port](images/hdmi-vga-adapter.png)
+![वीडीए एडाप्टर पोर्ट के लिए hdmi](images/hdmi-vga-adapter.png)
 
-### Optional extras
+### अतिरिक्त विकल्प
 
-#### A case
+#### मामला
 
-You may want to put your Raspberry Pi in a case. This is not essential, but it will provide protection for your Pi. If you'd like, you can use the official case for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) or [Pi Zero or Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+आप एक मामले में अपने रास्पबेरी पीआई डाल सकते हैं। यह आवश्यक नहीं है, लेकिन यह आपके पीआई के लिए सुरक्षा प्रदान करेगा। यदि आप चाहें, तो आप [रास्पबेरी पीआई 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) या [पीआई शून्य या शून्य डब्ल्यू](https://www.raspberrypi.org/products/raspberry-pi-zero-case/)लिए आधिकारिक मामले का उपयोग कर सकते हैं।
 
-#### Headphones or speakers
+#### हेडफ़ोन या स्पीकर
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
+बड़े रास्पबेरी पीआई मॉडल (पीई ज़ीरो / ज़ीरो डब्ल्यू नहीं) के पास आपके स्मार्ट फोन या एमपी 3 प्लेयर पर एक मानक ऑडियो पोर्ट है। यदि आप चाहते हैं, तो आप अपने हेडफ़ोन या स्पीकर को कनेक्ट कर सकते हैं ताकि पीआई ध्वनि बजा सके। यदि आप जिस पीई को अपने पीआई से कनेक्ट कर रहे हैं, जिसमें अंतर्निहित स्पीकर हैं, तो पीआई इनके माध्यम से ध्वनि बजा सकता है।
 
-#### An Ethernet cable
+#### एक ईथरनेट केबल
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+बड़े रास्पबेरी पीआई मॉडल (पीई ज़ीरो / ज़ीरो डब्ल्यू नहीं) के पास इंटरनेट से कनेक्ट करने के लिए मानक ईथरनेट पोर्ट होता है। इंटरनेट पर पीआई ज़ीरो कनेक्ट करने के लिए, आपको यूएसबी-टू-ईथरनेट एडाप्टर की आवश्यकता होती है। रास्पबेरी पाई 3 और पी ज़ीरो डब्ल्यू भी वेब से वायरलेस कनेक्ट हो सकते हैं।
