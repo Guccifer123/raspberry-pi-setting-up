@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## Start din Raspberry Pi
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+Din Raspberry Pi har ingen strømafbryder: Så snart du tilslutter den til et stikkontakt, tændes den. Bemærk, at Pi's micro USB-strømport har en længere flad side på toppen.
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ Sæt en micro USB-strømforsyning i en stikkontakt, og tilslut den til Pi's strømport.
 
-![screenshot](images/pi-power.png)
+![skærmbillede](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+Du bør se en rød LED lyser på Raspberry Pi, hvilket indikerer, at Pi er forbundet til strøm. Da det starter (dette kaldes også **boot**), vil du se hindbær vises øverst til venstre på skærmen.
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![boot hindbær](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Din browser understøtter ikke WebM-video, så prøv FireFox eller Chrome. </video> 
 
-\--- collapse \---
+\--- bryder sammen \---
 
 * * *
 
-## title: First-time startup with NOOBS
+## titel: Første gang opstart med NOOBS
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+Hvis dette er første gang du starter din Raspberry Pi med et SD-kort, der indeholder NOOBS, vil du se NOOBS-installationsprogrammet. Denne software vil lede dig gennem installation af Raspbian-operativsystemet (OS).
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ Når installationsprogrammet er indlæst, vil det give dig et valg af, hvilket OS der skal installeres. Marker afkrydsningsfeltet for **Raspbian**, og klik derefter på **Installer**.
 
-![install](images/install.png)
+![installere](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ Klik på **Ja** i advarselsdialogboksen, og læn dig tilbage og slap af. Raspbian installationsprocessen tager lidt tid.
 
-![installing](images/installing.png)
+![installation](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ Når Raspbian er installeret, skal du klikke på **OK**. Din Raspberry Pi genstarter, og Raspbian starter derefter op.
 
-![installed](images/installed.png)
+![installeret](images/installed.png)
 
-\--- /collapse \---
+\--- /bryder sammen \---
 
-After a few seconds the Raspbian Desktop will appear.
+Efter et par sekunder vises Raspbian Desktop.
 
 ![raspbian desktop](images/pi-desktop.jpg)
