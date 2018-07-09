@@ -1,77 +1,77 @@
-## What you will need
+## ما سوف تحتاجه
 
-### Which Raspberry Pi?
+### التي توت العليق بي؟
 
-There are several [models of Raspberry Pi](https://www.raspberrypi.org/products/), and for most people the Raspberry Pi 3 Model B+ is the one to choose.
+هناك العديد من نماذج [من Raspberry Pi](https://www.raspberrypi.org/products/)، وبالنسبة لمعظم الناس ، فإن Raspberry Pi 3 Model B + هو الذي يختار.
 
 ![Raspberry Pi 3](images/raspberry-pi.png)
 
-The Raspberry Pi 3 Model B+ is the newest, fastest, and easiest to use.
+يعد طراز Raspberry Pi 3 Model B + أحدث وأسرع وأسهل استخدام.
 
-The Raspberry Pi Zero and Zero W are smaller and require less power, so they're useful for portable projects such as robots. It's generally easier to start a project with the Raspberry Pi 3, and to move to the Pi Zero when you have a working prototype that the smaller Pi would be useful for.
+تعد أجهزة Raspberry Pi Zero و Zero W أصغر وتتطلب طاقة أقل ، لذا فهي مفيدة للمشاريع المحمولة مثل الروبوتات. من الأسهل بشكل عام بدء مشروع باستخدام Raspberry Pi 3 ، والانتقال إلى Pi Zero عندما يكون لديك نموذج أولي يعمل على أن يكون Pi الأصغر مفيدًا.
 
-If you want to buy a Raspberry Pi, head to [rpf.io/products](https://rpf.io/products).
+إذا كنت ترغب في شراء Raspberry Pi ، توجه إلى [rpf.io/products](https://rpf.io/products).
 
-### A power supply
+### امدادات الطاقة
 
-To connect to a power socket, the Raspberry Pi has a micro USB port (the same found that's found on many mobile phones).
+للتوصيل بمقبس طاقة ، يوجد في Raspberry Pi منفذ USB صغير (وهو نفس الموجود الموجود في العديد من الهواتف المحمولة).
 
-You will need a power supply which provides at least 2.5 amps. We recommend using the [official Raspberry Pi power supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
+سوف تحتاج إلى مصدر طاقة يوفر ما لا يقل عن 2.5 أمبير. نوصي باستخدام وحدة التزويد [الرسمية لـ Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
 
-![power supply](images/powersupply.png)
+![مزود الطاقة](images/powersupply.png)
 
-### A micro SD card
+### بطاقة SD الصغيرة
 
-Your Raspberry Pi needs an SD card to store all its files and the Raspbian operating system.
+يحتاج جهاز Raspberry Pi إلى بطاقة SD لتخزين جميع ملفاته ونظام تشغيل Raspbian.
 
-![sd card](images/pi-sd.png)
+![بطاقة الذاكرة](images/pi-sd.png)
 
-You will need a micro SD card with a capacity of at least 8 GB.
+ستحتاج إلى بطاقة SD صغيرة بسعة 8 جيجابايت على الأقل.
 
-Many sellers supply SD cards for Raspberry Pi that are already set up with Raspbian and ready to go.
+العديد من البائعين توفير بطاقات SD ل Raspberry Pi التي تم إعدادها بالفعل مع Raspbian وعلى استعداد للذهاب.
 
-### A keyboard and a mouse
+### لوحة مفاتيح وماوس
 
-To start using your Raspberry, you will need a USB keyboard and a USB mouse.
+لبدء استخدام Raspberry ، ستحتاج إلى لوحة مفاتيح USB و ماوس USB.
 
-Once you've set your Pi up, you can use a Bluetooth keyboard and mouse, but you'll need a USB keyboard and mouse for setting up.
+بمجرد تعيين Pi ، يمكنك استخدام لوحة مفاتيح Bluetooth والماوس ، ولكنك ستحتاج إلى لوحة مفاتيح وماوس USB لإعدادهما.
 
-### A TV or computer screen
+### تلفزيون أو شاشة كمبيوتر
 
-To view the Raspbian desktop environment, you will need a screen and a cable to link the screen and the Pi. The screen can be a TV or a computer monitor. If the screen has built-in speakers, the Pi will be able to use these to play sound.
+لعرض بيئة سطح المكتب Raspbian ، ستحتاج إلى شاشة وكابل لربط الشاشة و Pi. يمكن أن تكون الشاشة تلفزيونًا أو شاشة كمبيوتر. إذا كانت الشاشة مزودة بمكبرات صوت مضمنة ، فستتمكن Pi من استخدامها لتشغيل الصوت.
 
 #### HDMI
 
-The Raspberry Pi has a HDMI output port that is compatible with the HDMI port of most modern TVs and computer monitors. Many computer monitors may also have DVI or VGA ports.
+يحتوي Raspberry Pi على منفذ إخراج HDMI متوافق مع منفذ HDMI لمعظم أجهزة التلفاز الحديثة وشاشات الكمبيوتر. قد يكون لدى العديد من أجهزة عرض الكمبيوتر منافذ DVI أو VGA أيضًا.
 
-![hdmi port](images/hdmi-port.png)
+![منفذ HDMI](images/hdmi-port.png)
 
 #### DVI
 
-If your screen has a DVI port, you can connect the Pi to it using a HDMI-to-DVI cable.
+إذا كانت الشاشة تحتوي على منفذ DVI ، فيمكنك توصيل Pi به باستخدام كبل HDMI-to-DVI.
 
-![dvi port](images/dvi-port.png)
+![ميناء DVI](images/dvi-port.png)
 
 #### VGA
 
-Some screens only have a VGA port.
+تحتوي بعض الشاشات فقط على منفذ VGA.
 
-![vga port](images/vga-port.png)
+![منفذ vga](images/vga-port.png)
 
-To connect your Pi to such a screen, you can use a HDMI-to-VGA adapter.
+لتوصيل Pi بمثل هذه الشاشة ، يمكنك استخدام محول HDMI إلى VGA.
 
-![hdmi to vga adapter port](images/hdmi-vga-adapter.png)
+![HDMI إلى منفذ محول VGA](images/hdmi-vga-adapter.png)
 
-### Optional extras
+### الإضافات الاختيارية
 
-#### A case
+#### حالة
 
-You may want to put your Raspberry Pi in a case. This is not essential, but it will provide protection for your Pi. If you'd like, you can use the official case for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) or [Pi Zero or Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+قد ترغب في وضع Raspberry Pi في حالة. هذا ليس ضروريًا ، ولكنه سيوفر الحماية لـ Pi الخاص بك. إذا كنت ترغب في ذلك ، يمكنك استخدام الحالة الرسمية لـ [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) أو [Pi Zero أو Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
 
-#### Headphones or speakers
+#### سماعات أو مكبرات الصوت
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard audio port like the one on your smart phone or MP3 player. If you want to, you can connect your headphones or speakers so that the Pi can play sound. If the screen you're connecting your Pi to has built-in speakers, the Pi can play sound through these.
+تحتوي طرز Raspberry Pi الكبيرة (وليس Pi Zero / Zero W) على منفذ صوت قياسي مثل المنفذ على هاتفك الذكي أو مشغل MP3. إذا كنت ترغب في ذلك ، يمكنك توصيل سماعات الرأس أو مكبرات الصوت بحيث يمكن للـ Pi تشغيل الصوت. إذا كانت الشاشة التي توصلها بـ Pi مزودة بمكبرات صوت مضمنة ، يمكن لـ Pi تشغيل الصوت من خلال هذه.
 
-#### An Ethernet cable
+#### كبل Ethernet
 
-The large Raspberry Pi models (not the Pi Zero/Zero W) have a standard Ethernet port to connect them to the internet. To connect a Pi Zero to the internet, you need a USB-to-Ethernet adaptor. The Raspberry Pi 3 and Pi Zero W can also be wirelessly connected to the web.
+تحتوي طرز Raspberry Pi الكبيرة (وليس Pi Zero / Zero W) على منفذ إيثرنت قياسي لربطها بالإنترنت. لتوصيل Pi Zero بالإنترنت ، تحتاج إلى محول USB إلى Ethernet. يمكن أيضًا توصيل جهاز Raspberry Pi 3 و Pi Zero W لاسلكيًا بالويب.
