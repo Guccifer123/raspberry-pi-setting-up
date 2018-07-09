@@ -1,0 +1,25 @@
+---
+title: Thiết lập Raspberry Pi của bạn
+hero_image: images / banner.png
+description: Cách thiết lập và khởi động Pi của bạn lần đầu tiên
+version: 4
+listed: true
+copyedit: true
+last_tested: "2018-05-16"
+steps:
+  - 
+    title: Giới thiệu
+  - 
+    title: Những gì bạn sẽ cần
+  - 
+    title: Thiết lập thẻ SD của bạn
+  - 
+    title: Kết nối Pi của bạn
+  - 
+    title: Khởi động Pi của bạn
+  - 
+    title: Hoàn tất thiết lập
+  - 
+    title: Tìm trợ giúp ở đâu
+  - 
+    title: Tiếp theo là gì?
