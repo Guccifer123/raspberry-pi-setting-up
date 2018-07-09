@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## Raspberry Pi'nizi başlatın
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+Raspberry Pi'nizde güç anahtarı yoktur: prize taktığınızda, yanar. Pi'nin mikro USB güç bağlantı noktasının üstte daha düz bir tarafı olduğuna dikkat edin.
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ Mikro USB güç kaynağını prize takın ve Pi'nin güç bağlantı noktasına bağlayın.
 
-![screenshot](images/pi-power.png)
+![ekran görüntüsü](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+Raspberry Pi'de kırmızı bir LED yanıyor, ki bu Pi'nin güce bağlı olduğunu gösteriyor. Başladığı zaman (buna ayrıca **önyükleme**denir), ekranınızın sol üst köşesinde ahududu göreceksiniz.
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![önyükleme ahududu](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Tarayıcınız WebM videosunu desteklemiyor, bu yüzden FireFox veya Chrome'u deneyin. </video> 
 
-\--- collapse \---
+\--- çöküş \---
 
 * * *
 
-## title: First-time startup with NOOBS
+## başlık: NOOBS ile ilk kez başlangıç
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+Bu, Raspberry Pi'nizi NOOBS içeren bir SD kartla ilk kez başlatıyorsa, NOOBS yükleyicisini göreceksiniz. Bu yazılım Raspbian işletim sistemini (OS) yükleyerek size yol gösterecektir.
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ Yükleyici yüklendiğinde, hangi işletim sisteminin yükleneceği konusunda size bir seçenek sunacaktır. **Raspbian**kutusunu işaretleyin ve ardından **Install**üzerine tıklayın.
 
-![install](images/install.png)
+![kurmak](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ Uyarı iletişim kutusunda **Evet** tıklatın ve arkanıza yaslanın ve rahatlayın. Raspbian kurulum süreci biraz zaman alacak.
 
-![installing](images/installing.png)
+![yükleme](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ Raspbian kurulduktan sonra **OK**tıklayın. Ahududu Pi'niz yeniden başlayacak ve Raspbian sonra açılacak.
 
-![installed](images/installed.png)
+![Kurulmuş](images/installed.png)
 
-\--- /collapse \---
+\--- /çöküş \---
 
-After a few seconds the Raspbian Desktop will appear.
+Birkaç saniye sonra Raspbian Desktop görünecektir.
 
-![raspbian desktop](images/pi-desktop.jpg)
+![raspbian masaüstü](images/pi-desktop.jpg)
