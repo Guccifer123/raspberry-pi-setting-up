@@ -6,48 +6,48 @@ Se você tiver um cartão SD que ainda não tenha o sistema operacional Raspbian
 
 Usando o software NOOBS é a maneira mais fácil de instalar o Raspbian no seu cartão SD.
 
-#### Download NOOBS
+#### Baixar NOOBS
 
-+ Visit the [Raspberry Pi downloads page](https://www.raspberrypi.org/downloads).
++ Visite o [Raspberry Pi downloads página](https://www.raspberrypi.org/downloads).
 
-![Downloads page](images/downloads-page.png)
+![Página de downloads](images/downloads-page.png)
 
-+ You should see a box linking to the NOOBS files. Click on the box.
++ Você deve ver uma caixa ligando para os arquivos NOOBS. Clique na caixa.
 
-![Click on NOOBS](images/click-noobs.png)
+![Clique no NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files. Make sure to pay attention to where you save the archive, so that you can find it again quickly.
++ A opção mais simples é baixar o arquivo zip dos arquivos. Certifique-se de prestar atenção em onde você salva o arquivo, para que você possa encontrá-lo novamente rapidamente.
 
-![Download zip](images/download-zip.png)
+![Baixar zip](images/download-zip.png)
 
-#### Format the SD card
+#### Formate o cartão SD
 
-Anything that's stored on the SD card will be overwritten during formatting. So if the SD card on which you want to install Raspbian currently has any files on it, e.g. from an older version of Raspbian, you may wish to back these files up first to not lose them permanently.
+Qualquer coisa que esteja armazenada no cartão SD será sobrescrita durante a formatação. Portanto, se o cartão SD no qual você deseja instalar o Raspbian atualmente tiver algum arquivo nele, por exemplo, de uma versão mais antiga do Raspbian, você pode querer fazer o backup desses arquivos primeiro para não perdê-los permanentemente.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Visite o site da SD Association e baixe [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) para Windows ou Mac.
 
-+ Follow the instructions to install the software.
++ Siga as instruções para instalar o software.
 
-+ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Insira o cartão SD no slot do cartão SD do computador ou laptop e anote a letra da unidade alocada a ele, por exemplo, `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and the format the card.
++ No SD Formatter, selecione a letra da unidade do cartão SD e formate o cartão.
 
-#### Extract NOOBS from the zip archive
+#### Extraia o NOOBS do arquivo zip
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Em seguida, você precisará extrair os arquivos do arquivo zip NOOBS que você baixou do site do Raspberry Pi.
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ Encontre o arquivo baixado - por padrão, ele deve estar na pasta `Downloads`.
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ Clique duas vezes nele para extrair os arquivos e mantenha aberta a janela resultante do Explorer / Finder.
 
-#### Copy the files
+#### Copie os arquivos
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Agora abra outra janela do Explorer / Finder e navegue até o cartão SD. É melhor posicionar as duas janelas lado a lado.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ Selecione todos os arquivos na pasta `NOOBS` e arraste-os para a janela do cartão SD para copiá-los para o cartão.
 
-![windows copy](images/copy3.png)
+![cópia do windows](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![cópia macos](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ Depois que os arquivos foram copiados, você pode ejetar o cartão SD.
