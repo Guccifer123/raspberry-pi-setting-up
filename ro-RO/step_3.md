@@ -16,38 +16,38 @@ Utilizarea software-ului NOOBS este cel mai simplu mod de a instala Raspbian pe 
 
 ![Faceți clic pe NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files. Make sure to pay attention to where you save the archive, so that you can find it again quickly.
++ Cea mai simplă opțiune este să descărcați arhiva zip a fișierelor. Asigurați-vă că acordați atenție locului în care salvați arhiva, astfel încât să o puteți găsi din nou rapid.
 
-![Download zip](images/download-zip.png)
+![Descărcați zip](images/download-zip.png)
 
-#### Format the SD card
+#### Formatați cardul SD
 
-Anything that's stored on the SD card will be overwritten during formatting. So if the SD card on which you want to install Raspbian currently has any files on it, e.g. from an older version of Raspbian, you may wish to back these files up first to not lose them permanently.
+Orice stocat pe cardul SD va fi suprascris în timpul formatării. Deci, dacă cardul SD pe care doriți să instalați Raspbian are în prezent fișiere de pe el, de exemplu dintr-o versiune mai veche a Raspbian, ați putea dori să întoarceți aceste fișiere mai întâi pentru a nu le pierde definitiv.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Accesați site-ul web al asociației SD și descărcați [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) pentru Windows sau Mac.
 
-+ Follow the instructions to install the software.
++ Urmați instrucțiunile pentru a instala software-ul.
 
-+ Insert your SD card into the computer or laptop’s SD card slot and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Introduceți cardul SD în slotul pentru cardul SD al computerului sau al laptopului și notați litera de unitate alocată acestuia, de exemplu `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and the format the card.
++ În formatatorul SD, selectați litera unității pentru cardul SD și formatați cardul.
 
-#### Extract NOOBS from the zip archive
+#### Extrageți NOOBS din arhiva zip
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Apoi, va trebui să extrageți fișierele din arhiva zip NOOBS pe care ați descărcat-o de pe site-ul Raspberry Pi.
 
-+ Find the downloaded archive — by default, it should be in your `Downloads` folder.
++ Găsiți arhiva descărcată - în mod implicit, ar trebui să fie în dosarul `Descărcări`.
 
-+ Double-click on it to extract the files, and keep the resulting Explorer/Finder window open.
++ Faceți dublu clic pe acesta pentru a extrage fișierele și păstrați fereastra Explorer / Finder rezultată.
 
-#### Copy the files
+#### Copiați fișierele
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Deschideți acum o altă fereastră Explorer / Finder și navigați pe cardul SD. Cel mai bine este să poziționați cele două ferestre una lângă alta.
 
-+ Select all the files in the `NOOBS` folder and drag them into the SD card window to copy them to the card.
++ Selectați toate fișierele din dosarul `NOOBS` și glisați-le în fereastra cartelei SD pentru a le copia pe carte.
 
-![windows copy](images/copy3.png)
+![Windows copie](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![copie macos](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ Odată ce fișierele au fost copiate, puteți scoate cardul SD.
