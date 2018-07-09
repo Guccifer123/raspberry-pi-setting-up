@@ -1,10 +1,10 @@
 ## Tiếp theo là gì?
 
-+ Take a look at our [Using your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using) guide.
++ Hãy xem [của chúng tôi bằng cách sử dụng hướng dẫn Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using) của bạn.
 
-+ Explore what you can do with your Raspberry Pi by creating some of our [digital making projects](https://projects.raspberrypi.org), for example:
++ Khám phá những gì bạn có thể làm với Raspberry Pi của bạn bằng cách tạo ra một số dự án tạo [kỹ thuật số số](https://projects.raspberrypi.org)của chúng tôi, ví dụ:
     
-    + [Robot antenna](https://projects.raspberrypi.org/en/projects/robot-antenna) — control a robot's antenna light with a Raspberry Pi and code blocks
-    + [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) — learn how to code your own musical instruments
-    + [Turtle race](https://projects.raspberrypi.org/en/projects/turtle-race) — race digital turtles against each other
-    + [Push button stop-motion](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) — make your own stop-motion animation rig with a button and a [Raspberry Pi Camera Module](https://www.raspberrypi.org/products/camera-module-v2/)
+    + [Ăng-ten Robot](https://projects.raspberrypi.org/en/projects/robot-antenna) - điều khiển đèn ăng ten của rô bốt bằng Raspberry Pi và các khối mã
+    + [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) - tìm hiểu cách viết mã nhạc cụ của riêng bạn
+    + [Rùa đua](https://projects.raspberrypi.org/en/projects/turtle-race) - cuộc đua rùa kỹ thuật số với nhau
+    + [Nhấn nút dừng chuyển động](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) - làm cho giàn khoan hoạt hình stop-motion của riêng bạn với một nút và [Raspberry Pi Camera Module](https://www.raspberrypi.org/products/camera-module-v2/)
