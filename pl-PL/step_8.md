@@ -1,10 +1,10 @@
 ## Co następne?
 
-+ Take a look at our [Using your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using) guide.
++ Spójrz na nasze [Korzystanie z przewodnika Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using).
 
-+ Explore what you can do with your Raspberry Pi by creating some of our [digital making projects](https://projects.raspberrypi.org), for example:
++ Sprawdź, co możesz zrobić ze swoim Raspberry Pi, tworząc niektóre z naszych [projektów cyfrowych](https://projects.raspberrypi.org), na przykład:
     
-    + [Robot antenna](https://projects.raspberrypi.org/en/projects/robot-antenna) — control a robot's antenna light with a Raspberry Pi and code blocks
-    + [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) — learn how to code your own musical instruments
-    + [Turtle race](https://projects.raspberrypi.org/en/projects/turtle-race) — race digital turtles against each other
-    + [Push button stop-motion](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) — make your own stop-motion animation rig with a button and a [Raspberry Pi Camera Module](https://www.raspberrypi.org/products/camera-module-v2/)
+    + [Antena robota](https://projects.raspberrypi.org/en/projects/robot-antenna) - kontroluj światło anteny robota za pomocą Raspberry Pi i bloków kodu
+    + [Zespół rockowy](https://projects.raspberrypi.org/en/projects/rock-band) - naucz się kodować własne instrumenty muzyczne
+    + [Turtle race](https://projects.raspberrypi.org/en/projects/turtle-race) - wyścigi cyfrowych żółwi przeciwko sobie
+    + [Przycisk zatrzymania ruchu](https://projects.raspberrypi.org/en/projects/push-button-stop-motion) - stwórz własne urządzenie do animacji poklatkowej za pomocą przycisku i [modułu kamery Raspberry Pi](https://www.raspberrypi.org/products/camera-module-v2/)
