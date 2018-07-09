@@ -1,11 +1,11 @@
-## Where to find help
+## Mistä löytää apua
 
-If you're having problems with your Pi, there are lots of ways you can get help and advice:
+Jos Sinulla on ongelmia Pi: n kanssa, on paljon tapoja saada apua ja neuvoja:
 
-+ Check out the [help section](https://www.raspberrypi.org/help/) and the [troubleshooting guide](https://www.raspberrypi.org/learning/troubleshooting-guide/) on the Raspberry Pi website
++ Katso [apuosio](https://www.raspberrypi.org/help/) ja [vianmääritysohje](https://www.raspberrypi.org/learning/troubleshooting-guide/) Raspberry Pi -sivustolla
 
-+ The [Raspberry Pi forum](https://www.raspberrypi.org/forums), including the [Beginners](https://www.raspberrypi.org/forums/viewforum.php?f=91) section, is a great place to ask questions and get support from the Raspberry Pi community
++ [Raspberry Pi foorumi](https://www.raspberrypi.org/forums), mukaan lukien [aloittelijat](https://www.raspberrypi.org/forums/viewforum.php?f=91) , on erinomainen paikka esittää kysymyksiä ja saada tukea Raspberry Pi -yhteisöltä
 
-+ Call out on [Twitter](https://twitter.com) using the hashtag #rpilearn, or submit a question on the [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
++ Soita [Twitterillä](https://twitter.com) käyttämällä hashtag #rpilearn -ohjelmaa tai lähetä kysymys [Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
 
-+ You could also attend a free [Raspberry Jam](https://rpf.io/jam) community event to talk to people about their experiences and get some first-hand help from fellow Raspberry Pi users
++ Voit myös osallistua ilmaiseksi [Raspberry Jam](https://rpf.io/jam) yhteisötapahtumaan keskustelemaan ihmisistä heidän kokemuksistaan ​​ja hankkimaan ensikäden apua Raspberry Pi -käyttäjiltä
