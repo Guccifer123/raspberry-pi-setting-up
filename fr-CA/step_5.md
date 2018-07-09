@@ -1,37 +1,37 @@
-## Start up your Raspberry Pi
+## Démarrez votre Raspberry Pi
 
-Your Raspberry Pi doesn't have a power switch: as soon as you connect it to a power outlet, it will turn on. Notice that the Pi's micro USB power port has a longer flat side on top.
+Votre Raspberry Pi n'a pas de commutateur d'alimentation: dès que vous le connectez à une prise de courant, il s'allume. Notez que le port d'alimentation micro USB du Pi a un côté plat plus long sur le dessus.
 
-+ Plug a micro USB power supply into a socket and connect it to you Pi's power port.
++ Branchez une alimentation micro-USB dans une prise et connectez-le au port d'alimentation de votre Pi.
 
-![screenshot](images/pi-power.png)
+![capture d'écran](images/pi-power.png)
 
-You should see a red LED light up on the Raspberry Pi, which indicates that the Pi is connected to power. As it starts up (this is also called **booting**), you will see raspberries appear in the top left-hand of your screen.
+Vous devriez voir une LED rouge s'allumer sur le Raspberry Pi, ce qui indique que le Pi est connecté à l'alimentation. Au démarrage (ceci est également appelé **démarrage**), vous verrez des framboises apparaître en haut à gauche de votre écran.
 
-![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Your browser does not support WebM video, so try FireFox or Chrome. </video> 
+![bottes de framboises](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Votre navigateur ne supporte pas la vidéo WebM, alors essayez FireFox ou Chrome. </video> 
 
-\--- collapse \---
+\--- effondrer \---
 
 * * *
 
-## title: First-time startup with NOOBS
+## title: Premier démarrage avec NOOBS
 
-If this is the first time you're starting your Raspberry Pi with an SD card containing NOOBS, you will see the NOOBS installer. This software will walk you through installing the Raspbian operating system (OS).
+Si c'est la première fois que vous démarrez votre Raspberry Pi avec une carte SD contenant NOOBS, vous verrez le programme d'installation NOOBS. Ce logiciel vous guidera à travers l'installation du système d'exploitation Raspbian (OS).
 
-+ When the installer has loaded, it will offer you a choice of which OS to install. Check the box for **Raspbian**, and then click **Install**.
++ Lorsque le programme d'installation est chargé, il vous offre le choix du système d'exploitation à installer. Cochez la case **Raspbian**, puis cliquez sur **Install**.
 
-![install](images/install.png)
+![installer](images/install.png)
 
-+ Click **Yes** in the warning dialogue box, and then sit back and relax. The Raspbian installation process will take a bit of time.
++ Cliquez sur **Oui** dans la boîte de dialogue d'avertissement, puis asseyez-vous et détendez-vous. Le processus d'installation de Raspbian prendra un peu de temps.
 
-![installing](images/installing.png)
+![installation](images/installing.png)
 
-+ When Raspbian has been installed, click **OK**. Your Raspberry Pi will restart, and Raspbian will then boot up.
++ Lorsque Raspbian a été installé, cliquez sur **OK**. Votre Raspberry Pi va redémarrer, et Raspbian va alors démarrer.
 
-![installed](images/installed.png)
+![installée](images/installed.png)
 
-\--- /collapse \---
+\--- /effondrer \---
 
-After a few seconds the Raspbian Desktop will appear.
+Après quelques secondes, le bureau de Raspbian apparaîtra.
 
-![raspbian desktop](images/pi-desktop.jpg)
+![bureau raspbian](images/pi-desktop.jpg)
