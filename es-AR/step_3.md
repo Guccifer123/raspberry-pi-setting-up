@@ -48,6 +48,6 @@ A continuación, deberá extraer los archivos del archivo zip de NOOBS que desca
 
 ![copia de ventanas](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![macos copia](images/macos_copy.png)
 
-+ Once the files have all been copied over, you can eject the SD card.
++ Una vez que todos los archivos han sido copiados, puede expulsar la tarjeta SD.
