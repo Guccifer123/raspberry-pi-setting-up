@@ -1,31 +1,31 @@
-## Finish the setup
+## סיים את ההתקנה
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+כאשר אתה מפעיל את פספוס פאי בפעם הראשונה, **ברוכים הבאים פספי Pi** היישום יצוץ להדריך אותך דרך ההתקנה הראשונית.
 
-![pi wizard](images/piwiz.gif)
+![אשף פיי](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ לחץ **הבא** כדי להתחיל את ההתקנה.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
++ גדר שלך **המדינה**, **שפה**, ו **איזור זמן**, ולאחר מכן לחץ על **הבאה** שוב.
 
-![pi wizard country](images/piwiz2.PNG)
+![ארץ האשף](images/piwiz2.PNG)
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
++ הזן סיסמה חדשה עבור שלך Raspberry Pi ולחץ על **הבא**.
 
-![pi wizard password](images/piwiz3.PNG)
+![סיסמת אשף pi - -](images/piwiz3.PNG)
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ התחבר לרשת ה- WiFi שלך על-ידי בחירה בשם, הזנת הסיסמה ולחיצה על **Next**.
 
-![pi wizard wifi](images/piwiz4.PNG)
+![אשף Wii wifi - -](images/piwiz4.PNG)
 
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
+**הערה:** אם מודל פאי הפטל שלך אין קישוריות אלחוטית, אתה לא תראה את המסך הזה.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ לחץ על **הבא** תן אשף לבדוק עדכונים Raspbian ולהתקין אותם (זה עלול לקחת קצת זמן).
 
-![pi wizard updating](images/piwiz6.PNG)
+![אשף עדכון](images/piwiz6.PNG)
 
-+ Click **Done** or **Reboot** to finish the setup.
++ לחץ על **בוצע** או **אתחל מחדש** כדי לסיים את ההתקנה.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+**הערה:** יהיה עליך לאתחל מחדש רק אם יש צורך להשלים עדכון.
 
-![pi wizard complete](images/piwiz7.PNG)
+![אשף פיי להשלים](images/piwiz7.PNG)
