@@ -1,37 +1,37 @@
-## Connect your Raspberry Pi
+## לחבר את פי פטל שלך
 
-Let's get everything connected. It's important to do this in the right order, so that all your components are safe.
+ללא שם: בואו לקבל הכל מחובר. חשוב לעשות את זה בסדר הנכון, כך שכל הרכיבים שלך בטוחים.
 
-![pi connections](images/pi-labelled.png)
+![חיבורי pi](images/pi-labelled.png)
 
-+ Insert the SD card you've set up with Raspbian (via NOOBS) into the micro SD card slot at the underside of your Pi. 
++ הכנס את כרטיס ה- SD שהגדרת עם Raspbian (דרך NOOBS) לתוך חריץ כרטיס מיקרו SD בחלק התחתון של פי שלך. 
 
-![sd card](images/pi-sd.png)
+![כרטיס זיכרון](images/pi-sd.png)
 
-**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
+**הערה:** הרבה כרטיסי מיקרו SD יגיעו בתוך מתאם גדול יותר - אתה יכול להחליק את הכרטיס החוצה באמצעות השפה בתחתית.
 
-![sd card holder](images/sd-card-holder.png)
+![בעל כרטיס SD](images/sd-card-holder.png)
 
-+ Find the USB cable for your mouse, and connect the mouse to a USB port on the Raspberry Pi (it doesn't matter which one).
++ מצא את כבל ה- USB עבור העכבר שלך, ולחבר את העכבר ליציאת ה- USB על פי פטל (זה לא משנה איזה).
 
-![mouse](images/pi-mouse.png)
+![עכבר](images/pi-mouse.png)
 
-+ Connect the keyboard in the same way.
++ חבר את המקלדת באותו אופן.
 
-![keyboard](images/pi-keyboard.png)
+![מקלדת](images/pi-keyboard.png)
 
-+ Look at the HDMI port on the Raspberry Pi — notice that it has a large, flat side on top.
++ תסתכל על יציאת HDMI על פי פטל - שים לב כי יש צד גדול, שטוח על גבי.
 
 ![hdmi](images/pi-hdmi.png)
 
-+ Make sure your screen is plugged into a wall socket and turned on. Use a cable to connect the screen to the Pi's HDMI port — use an adapter if necessary.
++ ודא שהמסך מחובר לשקע בקיר והופעל. השתמש בכבל כדי לחבר את המסך ליציאת HDMI של ה- Pi - השתמש במתאם במידת הצורך.
 
-**Note:** nothing will display on the screen, because the Pi is not running yet.
+**הערה:** דבר לא יוצג על המסך, מכיוון שהפיי עדיין אינו פועל.
 
-+ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
++ אם ברצונך לחבר את ה- Pi לאינטרנט באמצעות Ethernet, השתמש בכבל Ethernet כדי לחבר את יציאת ה- Ethernet על גבי ה- Raspberry Pi לשקע Ethernet על הקיר או על הנתב שלך באינטרנט. אתה לא צריך לעשות את זה אם אתה תהיה באמצעות WiFi או אם אתה לא רוצה להתחבר לאינטרנט.
 
-![ethernet](images/pi-ethernet.png)
+![אתרנט](images/pi-ethernet.png)
 
-+ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
++ צליל יגיע מהמסך אם יש לו רמקולים או שתוכל לחבר אוזניות או רמקולים לשקע השמע אם יש לך אותם.
 
-![headphones](images/pi-headphones.png)
+![אוזניות](images/pi-headphones.png)
