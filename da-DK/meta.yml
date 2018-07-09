@@ -1,0 +1,25 @@
+---
+title: Opsætning af din Raspberry Pi
+hero_image: images / banner.png
+description: Sådan opretter du og starter din Pi for første gang
+version: 4
+listed: true
+copyedit: true
+last_tested: "2018/05/16"
+steps:
+  - 
+    title: Introduktion
+  - 
+    title: Hvad du skal bruge
+  - 
+    title: Opsæt dit SD-kort
+  - 
+    title: Tilslut din Pi
+  - 
+    title: Start din Pi
+  - 
+    title: Afslut opsætningen
+  - 
+    title: Hvor finder man hjælp
+  - 
+    title: Hvad er det næste?
