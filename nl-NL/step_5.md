@@ -1,20 +1,20 @@
-## Start je Raspberry Pi op
+## Start de Pi op
 
-Uw Raspberry Pi heeft geen aan / uit-schakelaar: zodra u hem op een stopcontact aansluit, wordt hij ingeschakeld. Merk op dat de micro USB-poort van de Pi een langere platte kant aan de bovenkant heeft.
+De Raspberry Pi heeft geen aan/uit-schakelaar: zodra je hem op een stopcontact aansluit, wordt hij ingeschakeld. Je ziet dat de micro USB-poort van de Pi een langere platte kant aan de bovenkant heeft.
 
-+ Sluit een micro USB-voeding aan op een stopcontact en sluit deze aan op de voedingspoort van Pi.
++ Sluit een micro USB-voeding aan op een stopcontact en sluit die aan op de voedingspoort van Pi.
 
 ![screenshot](images/pi-power.png)
 
-Je zou een rode LED op de Raspberry Pi moeten zien oplichten, wat aangeeft dat de Pi is verbonden met stroom. Bij het opstarten (dit wordt ook wel **booting**), ziet u frambozen in de linkerbovenhoek van uw scherm verschijnen.
+Je zou een rode LED op de Raspberry Pi moeten zien oplichten, wat aangeeft dat de Pi is verbonden met stroom. Bij het opstarten (dit wordt ook wel **booting** genoemd), zie je frambozen in de linkerbovenhoek van het scherm verschijnen.
 
-![boot frambozen](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Uw browser ondersteunt geen WebM-video, dus probeer FireFox of Chrome. </video> 
+![boot frambozen](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> De browser ondersteunt geen WebM-video, dus probeer FireFox of Chrome. </video> 
 
-\--- ineenstorting \---
+\--- collapse \---
 
 * * *
 
-## titel: eerste keer opstarten met NOOBS
+## titel: Eerste keer opstarten met NOOBS
 
 Als dit de eerste keer is dat u uw Raspberry Pi start met een SD-kaart met NOOBS, ziet u het NOOBS-installatieprogramma. Deze software begeleidt u bij de installatie van het Raspbian-besturingssysteem (OS).
 
