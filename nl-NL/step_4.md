@@ -1,6 +1,6 @@
-## Verbind je Raspberry Pi
+## Verbind de Raspberry Pi
 
-Laten we alles met elkaar in verband brengen. Het is belangrijk om dit in de juiste volgorde te doen, zodat al uw componenten veilig zijn.
+We gaan alles aansluiten. Het is belangrijk om dit in de juiste volgorde te doen, zodat al uw componenten veilig zijn.
 
 ![pi-verbindingen](images/pi-labelled.png)
 
