@@ -28,21 +28,21 @@ Alles wat op de SD-kaart is opgeslagen, wordt tijdens het formatteren overschrev
 
 + Volg de instructies op om de software te installeren.
 
-+ Plaats uw SD-kaart in de computer of de SD-kaartsleuf van uw laptop en noteer de stationsletter die eraan is toegewezen, bijvoorbeeld `F: /`.
++ Plaats de SD-kaart in de computer of de SD-kaartsleuf van de laptop en onthou de stationsletter die eraan is toegewezen, bijvoorbeeld `F: /`.
 
-+ Selecteer in SD Formatter de stationsaanduiding voor uw SD-kaart en het formaat van de kaart.
++ Selecteer in SD Formatter de stationsaanduiding voor de SD-kaart en formatteer het kaartje.
 
-#### Extract NOOBS uit het zip-archief
+#### Haal NOOBS uit het zip-archief
 
-Vervolgens moet je de bestanden uit het NOOBS zip-archief halen dat je hebt gedownload van de Raspberry Pi-website.
+Dan moeten de bestanden uit het NOOBS zip-archief, dat je hebt gedownload van de Raspberry Pi-website, worden uitgepakt.
 
-+ Zoek het gedownloade archief - dit moet standaard in de map `Downloads`.
++ Zoek het gedownloade archiefbestand - meestal staat dat in de map `Downloads`.
 
-+ Dubbelklik erop om de bestanden te extraheren en houd het resulterende Verkenner / Zoeker-venster open.
++ Dubbelklik erop om de bestanden uit te pakken en houd het Verkenner/Finder-venster open.
 
 #### Kopieer de bestanden
 
-+ Open nu een ander Explorer / Finder-venster en navigeer naar de SD-kaart. Het is het beste om de twee vensters naast elkaar te plaatsen.
++ Open nu een ander Explorer/Finder-venster en navigeer naar de SD-kaart. Het is het beste om de twee vensters naast elkaar te plaatsen.
 
 + Selecteer alle bestanden in de map `NOOBS` en sleep ze naar het SD-kaartvenster om ze naar de kaart te kopiëren.
 
@@ -50,4 +50,4 @@ Vervolgens moet je de bestanden uit het NOOBS zip-archief halen dat je hebt gedo
 
 ![macos kopie](images/macos_copy.png)
 
-+ Nadat de bestanden allemaal zijn gekopieerd, kunt u de SD-kaart uitwerpen.
++ Nadat de bestanden allemaal zijn gekopieerd, kun de de SD-kaart uitwerpen.
