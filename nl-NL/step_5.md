@@ -16,22 +16,22 @@ Je zou een rode LED op de Raspberry Pi moeten zien oplichten, wat aangeeft dat d
 
 ## titel: Eerste keer opstarten met NOOBS
 
-Als dit de eerste keer is dat u uw Raspberry Pi start met een SD-kaart met NOOBS, ziet u het NOOBS-installatieprogramma. Deze software begeleidt u bij de installatie van het Raspbian-besturingssysteem (OS).
+Als dit de eerste keer is dat de Raspberry Pi start met een SD-kaart met NOOBS, dan zie je het NOOBS-installatieprogramma. Deze software begeleidt je bij de installatie van het Raspbian-besturingssysteem (OS).
 
-+ Wanneer het installatieprogramma is geladen, biedt het u de keuze welk besturingssysteem moet worden geïnstalleerd. Vink het selectievakje aan voor **Raspbian**en klik vervolgens op **Installeren**.
++ Wanneer het installatieprogramma is geladen is er een keuze welk besturingssysteem moet worden geïnstalleerd. Vink het selectievakje aan voor **Raspbian** en klik vervolgens op **Install**.
 
 ![installeren](images/install.png)
 
-+ Klik op **Ja** in het waarschuwingsvenster en leun achterover en ontspan. Het Raspbian installatieproces zal wat tijd kosten.
++ Klik op **Yes** in het waarschuwingsvenster, leun achterover en ontspan. Het Raspbian installatieproces kost wat tijd.
 
 ![installeren](images/installing.png)
 
-+ Wanneer Raspbian is geïnstalleerd, klikt u op **OK**. Je Raspberry Pi wordt opnieuw opgestart en Raspbian start dan op.
++ Als Raspbian is geïnstalleerd, klikt je op **OK**. De Raspberry Pi wordt herstart en Raspbian gaat booten.
 
 ![geïnstalleerd](images/installed.png)
 
-\--- / inklappen \---
+\--- /collapse \---
 
-Na een paar seconden verschijnt de Raspbian Desktop.
+Na een paar seconden verschijnt het Raspbian Bureaublad.
 
 ![raspbian-bureaublad](images/pi-desktop.jpg)
