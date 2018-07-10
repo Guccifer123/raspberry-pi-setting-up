@@ -1,31 +1,31 @@
 ## Voltooi de installatie
 
-Wanneer u uw Raspberry Pi voor de eerste keer opstart, zal de toepassing **Welcome to Raspberry Pi** verschijnen en u door de initiële installatie leiden.
+Als je de Raspberry Pi voor de eerste keer opstart, zal de toepassing **Welcome to Raspberry Pi** verschijnen en je door de eerste installatie leiden.
 
 ![Pi wizard](images/piwiz.gif)
 
-+ Klik op **Volgende** om de installatie te starten.
++ Klik op **Next** (volgende) om de installatie te starten.
 
-+ Stel uw **Land**, **Taal**en **Tijdzone**in en klik vervolgens opnieuw op **Volgende**.
++ Stel uw **Country **(Land), **Language **(Taal) en **Timezone **(Tijdzone) in en klik vervolgens opnieuw op **Next**.
 
-![pi tovenaarsland](images/piwiz2.PNG)
+![pi wizard land](images/piwiz2.PNG)
 
-+ Voer een nieuw wachtwoord in voor uw Raspberry Pi en klik op **Volgende**.
++ Voer een nieuw wachtwoord in voor de Raspberry Pi en klik op **Next**.
 
-![pi wizardwachtwoord](images/piwiz3.PNG)
+![pi wizard wachtwoord](images/piwiz3.PNG)
 
-+ Maak verbinding met uw wifi-netwerk door de naam te selecteren, het wachtwoord in te voeren en op **volgende**klikken.
++ Maak verbinding met het wifi-netwerk door de naam te selecteren, het wachtwoord in te voeren en op **Next** te klikken.
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
-**Opmerking:** als uw Raspberry Pi-model geen draadloze verbinding heeft, ziet u dit scherm niet.
+**Opmerking:** als het Raspberry Pi-model geen draadloze verbinding heeft, ziet je dit scherm niet.
 
-+ Klik op **Volgende** laat de wizard controleren of er updates zijn voor Raspbian en installeer ze (dit kan even duren).
++ Klik op **Next** en laat het programma controleren of er updates zijn voor Raspbian en installeer ze dan (dit kan even duren).
 
 ![pi wizard bijwerken](images/piwiz6.PNG)
 
-+ Klik op **Gereed** of **Reboot** om de installatie te voltooien.
++ Klik op **Done** (gedaan) of **Reboot** (opnieuw opstarten) om de installatie te voltooien.
 
-**Opmerking:** u hoeft alleen opnieuw op te starten als dat nodig is om een ​​update te voltooien.
+**Opmerking:** je hoeft alleen opnieuw op te starten als dat nodig is om een ​​update te voltooien.
 
 ![pi wizard compleet](images/piwiz7.PNG)
