@@ -38,17 +38,17 @@ Nadat je de Pi hebt opgestart, kun je een Bluetooth-toetsenbord en -muis gebruik
 
 ### Een tv of een computerscherm
 
-Om de Raspbian-desktopomgeving te bekijken, hebt u een scherm en een kabel nodig om het scherm en de Pi te linken. Het scherm kan een tv- of een computermonitor zijn. Als het scherm ingebouwde luidsprekers heeft, kan de Pi deze gebruiken om geluid af te spelen.
+Om de Raspbian-desktop (Engels voor bureaublad) te kunnen zien heb je een scherm en een kabel nodig om het scherm met de Pi te verbinden. Het scherm kan een tv- of een computermonitor zijn. Als het scherm ingebouwde luidsprekers heeft, kan de Pi die gebruiken om geluid af te spelen.
 
 #### HDMI
 
-De Raspberry Pi heeft een HDMI-uitgang die compatibel is met de HDMI-poort van de meeste moderne tv's en computermonitoren. Veel computermonitoren kunnen ook DVI- of VGA-poorten hebben.
+De Raspberry Pi heeft een HDMI-uitgang die past op de HDMI-poort van de meeste moderne tv's en computermonitoren. Veel computermonitoren kunnen ook DVI- of VGA-poorten hebben.
 
 ![HDMI-poort](images/hdmi-port.png)
 
 #### DVI
 
-Als uw scherm een ​​DVI-poort heeft, kunt u de Pi hierop aansluiten met behulp van een HDMI-naar-DVI-kabel.
+Als het scherm een ​​DVI-poort heeft, kun je de Pi hierop aansluiten met behulp van een HDMI-naar-DVI-kabel.
 
 ![DVI-poort](images/dvi-port.png)
 
@@ -58,20 +58,20 @@ Sommige schermen hebben alleen een VGA-poort.
 
 ![vga-poort](images/vga-port.png)
 
-Om uw Pi op zo'n scherm aan te sluiten, kunt u een HDMI-naar-VGA-adapter gebruiken.
+Om de Pi op zo'n scherm aan te sluiten, kun je een HDMI-naar-VGA-adapter gebruiken.
 
 ![HDMI naar VGA-adapterpoort](images/hdmi-vga-adapter.png)
 
 ### Optionele extra's
 
-#### Een zaak
+#### Behuizing
 
-U kunt uw Raspberry Pi in een hoesje plaatsen. Dit is niet essentieel, maar het biedt bescherming voor je Pi. Als je wilt, kun je de officiële case voor de [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) of [Pi Zero of Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+Je kunt de Raspberry Pi in een behuizing doen. Het is niet noodzakelijk, maar het beschermt de Pi. Als je dat leuk vindt kun je de officiële behuizing voor de [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) of [Pi Zero of Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/) gebruiken.
 
 #### Hoofdtelefoons of luidsprekers
 
-De grote Raspberry Pi-modellen (niet de Pi Zero / Zero W) hebben een standaard audiopoort zoals die op je smartphone of mp3-speler. Als u wilt, kunt u uw koptelefoons of luidsprekers aansluiten zodat de Pi geluid kan spelen. Als het scherm waarmee je je Pi verbindt, ingebouwde luidsprekers heeft, kan de Pi hier geluid door spelen.
+De grote Raspberry Pi-modellen (niet de Pi Zero / Zero W) hebben een standaard audiopoort zoals die op je smartphone of mp3-speler zit. Als je dat leuk vindt kun je koptelefoons of luidsprekers aansluiten zodat de Pi geluid maakt. Als het scherm waarmee je de Pi verbindt, ingebouwde luidsprekers heeft kan de Pi hiermee geluid afspelen.
 
 #### Een Ethernet-kabel
 
-De grote Raspberry Pi-modellen (niet de Pi Zero / Zero W) hebben een standaard Ethernet-poort om ze op internet aan te sluiten. Om een ​​Pi Zero op het internet aan te sluiten, hebt u een USB-naar-Ethernet-adapter nodig. De Raspberry Pi 3 en Pi Zero W kunnen ook draadloos op internet worden aangesloten.
+De grote Raspberry Pi-modellen (niet de Pi Zero / Zero W) hebben een standaard Ethernet-poort om ze op internet aan te sluiten. Om een ​​Pi Zero op het internet aan te sluiten, heb je een USB-naar-Ethernet-adapter nodig. De Raspberry Pi 3 en Pi Zero W kunnen ook draadloos op internet worden aangesloten.
