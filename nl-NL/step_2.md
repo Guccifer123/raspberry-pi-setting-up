@@ -8,33 +8,33 @@ Er zijn verschillende [Raspberry Pi modellen](https://www.raspberrypi.org/produc
 
 De Raspberry Pi 3 Model B + is het nieuwste en snelste model en het makkelijkst om te gebruiken.
 
-De Raspberry Pi Zero en Zero W zijn kleiner en hebben minder stroom nodig, ze zijn dus handig voor handzame projecten zoals robots. Het is over het algemeen gemakkelijker om een ​​project te starten met de Raspberry Pi 3 en om naar de Pi Zero te gaan wanneer je een werkend prototype hebt waar de kleinere Pi handig voor zou kunnen zijn.
+De Raspberry Pi Zero en Zero W zijn kleiner en hebben minder stroom nodig, ze zijn dus handig voor handzame projecten zoals robots. Het is meestal gemakkelijker om een ​​project te starten met de Raspberry Pi 3 en over te stappen naar de Pi Zero als je een werkend prototype hebt waar de kleinere Pi handig voor zou kunnen zijn.
 
 Als je een Raspberry Pi wilt kopen, ga dan naar [rpf.io/products](https://rpf.io/products).
 
 ### Een voeding
 
-Voor aansluiting op een stopcontact heeft de Raspberry Pi een micro-USB-poort (dezelfde als die op veel mobiele telefoons wordt aangetroffen).
+Voor aansluiting op een stopcontact heeft de Raspberry Pi een micro-USB-poort (dezelfde als die je op veel mobiele telefoons ziet).
 
-U hebt een voeding nodig die minstens 2,5 ampère levert. We raden aan om de [officiële Raspberry Pi-voeding](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
+Je hebt een voeding nodig die minstens 2,5 ampère levert. We raden de [officiële Raspberry Pi-voeding](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/) aan.
 
 ![stroomvoorziening](images/powersupply.png)
 
 ### Een micro SD-kaart
 
-Je Raspberry Pi heeft een SD-kaart nodig om alle bestanden en het Raspbian-besturingssysteem op te slaan.
+De Raspberry Pi heeft een SD-kaart nodig om er alle bestanden en het Raspbian-besturingssysteem op te slaan.
 
 ![SD-kaart](images/pi-sd.png)
 
-U hebt een micro-SD-kaart nodig met een capaciteit van minimaal 8 GB.
+Je hebt een micro-SD-kaart nodig met een capaciteit van minimaal 8 GB.
 
-Veel verkopers leveren SD-kaarten voor Raspberry Pi die al met Raspbian zijn ingesteld en klaar zijn om te gebruiken.
+Veel verkopers leveren SD-kaarten voor Raspberry Pi waar Raspbian al is geïnstalleerd zodat je meteen kunt beginnen.
 
 ### Een toetsenbord en een muis
 
-Om je Raspberry te gebruiken, heb je een USB-toetsenbord en een USB-muis nodig.
+Om de Raspberry te gebruiken, heb je een USB-toetsenbord en een USB-muis nodig.
 
-Nadat je je Pi hebt opgestart, kun je een Bluetooth-toetsenbord en -muis gebruiken, maar je hebt een USB-toetsenbord en -muis nodig voor het instellen.
+Nadat je de Pi hebt opgestart, kun je een Bluetooth-toetsenbord en -muis gebruiken, maar bij het instellen heb je een USB-toetsenbord en -muis nodig.
 
 ### Een tv of een computerscherm
 
