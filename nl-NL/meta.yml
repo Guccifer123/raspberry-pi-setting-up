@@ -1,25 +1,25 @@
 ---
-title: Uw Raspberry Pi instellen
+title: De Raspberry Pi instellen
 hero_image: images / banner.png
-description: Hoe je je Pi voor de eerste keer instelt en start
+description: Hoe je de Pi voor de eerste keer instelt en start
 version: 4
 listed: true
 copyedit: true
 last_tested: "2018/05/16"
 steps:
   - 
-    title: Invoering
+    title: Inleiding
   - 
-    title: Wat je nodig zult hebben
+    title: Wat je nodig hebt
   - 
-    title: Stel uw SD-kaart in
+    title: De SD-kaart instellen
   - 
-    title: Verbind je Pi
+    title: Verbindt de Pi
   - 
-    title: Start je Pi op
+    title: Start de Pi op
   - 
     title: Voltooi de installatie
   - 
-    title: Waar kan ik hulp vinden?
+    title: Waar je hulp kunt vinden
   - 
     title: Wat nu?
