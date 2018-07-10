@@ -1,18 +1,18 @@
 ## Verbind de Raspberry Pi
 
-We gaan alles aansluiten. Het is belangrijk om dit in de juiste volgorde te doen, zodat al uw componenten veilig zijn.
+We gaan alles aansluiten. Om geen schade aan de onderdelen te krijgen is het belangrijk om dit in de juiste volgorde te doen.
 
 ![pi-verbindingen](images/pi-labelled.png)
 
-+ Plaats de SD-kaart die u hebt ingesteld met Raspbian (via NOOBS) in de micro SD-kaartsleuf aan de onderkant van uw Pi. 
++ Plaats de SD-kaart met Raspbian (via NOOBS) in de micro SD-kaartsleuf aan de onderkant van de Pi. 
 
 ![SD-kaart](images/pi-sd.png)
 
-**Opmerking:** Veel micro SD-kaarten komen in een grotere adapter - je kunt de kaart eruit schuiven met de lip onderaan.
+**Opmerking:** veel micro SD-kaarten zitten in een grotere adapter - je kunt de kaart eruit schuiven door te trekken aan het lipje onderaan.
 
 ![SD-kaarthouder](images/sd-card-holder.png)
 
-+ Zoek de USB-kabel voor je muis en sluit de muis aan op een USB-poort op de Raspberry Pi (het maakt niet uit welke).
++ Sluit de USB-kabel voor je muis aan op een USB-poort op de Raspberry Pi (het maakt niet uit welke).
 
 ![muis](images/pi-mouse.png)
 
@@ -20,18 +20,18 @@ We gaan alles aansluiten. Het is belangrijk om dit in de juiste volgorde te doen
 
 ![toetsenbord](images/pi-keyboard.png)
 
-+ Kijk naar de HDMI-poort van de Raspberry Pi - merk op dat deze een grote, vlakke kant aan de bovenkant heeft.
++ Kijk naar de HDMI-poort van de Raspberry Pi - merk op dat die een grote, vlakke kant aan de bovenkant heeft.
 
 ![hdmi](images/pi-hdmi.png)
 
-+ Zorg ervoor dat uw scherm op een stopcontact is aangesloten en is ingeschakeld. Gebruik een kabel om het scherm op de HDMI-poort van de Pi aan te sluiten - gebruik indien nodig een adapter.
++ Zorg ervoor dat het scherm op een stopcontact is aangesloten en is ingeschakeld. Gebruik een kabel om het scherm op de HDMI-poort van de Pi aan te sluiten - gebruik indien nodig een adapter.
 
-**Opmerking:** niets wordt op het scherm weergegeven, omdat de Pi nog niet actief is.
+**Opmerking:** er wordt niets op het scherm weergegeven omdat de Pi nog niet actief is.
 
-+ Als u de Pi via Ethernet op het internet wilt aansluiten, gebruikt u een Ethernet-kabel om de Ethernet-poort op de Raspberry Pi aan te sluiten op een Ethernet-aansluiting aan de muur of op uw internetrouter. U hoeft dit niet te doen als u WiFi gebruikt of als u geen verbinding met internet wilt maken.
++ Als je de Pi via Ethernet op het internet wilt aansluiten, gebruik je een Ethernet-kabel om de Ethernet-poort op de Raspberry Pi aan te sluiten op een Ethernet-aansluiting aan de muur of op de internetrouter. Dit is niet nodig als je WiFi gebruikt of als je geen verbinding met internet wilt maken.
 
 ![ethernet](images/pi-ethernet.png)
 
-+ Geluid zal van uw scherm komen als het luidsprekers heeft of u kunt een koptelefoon of luidsprekers op de audio jack aansluiten als u die heeft.
++ Geluid zal van het scherm komen als die luidsprekers heeft of je sluit een hoofdtelefoon of luidsprekers aan op de audio-uitgang.
 
 ![hoofdtelefoons](images/pi-headphones.png)
