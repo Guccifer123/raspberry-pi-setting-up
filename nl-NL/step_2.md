@@ -1,14 +1,14 @@
-## Wat je nodig zult hebben
+## Wat je nodig hebt
 
 ### Welke Raspberry Pi?
 
-Er zijn verschillende [modellen van Raspberry Pi](https://www.raspberrypi.org/products/), en voor de meeste mensen is de Raspberry Pi 3 Model B + de keus.
+Er zijn verschillende [Raspberry Pi modellen](https://www.raspberrypi.org/products/) en de meeste mensen kiezen de Raspberry Pi 3 Model B +.
 
 ![Raspberry Pi 3](images/raspberry-pi.png)
 
-De Raspberry Pi 3 Model B + is de nieuwste, snelste en gemakkelijkst te gebruiken.
+De Raspberry Pi 3 Model B + is het nieuwste en snelste model en het makkelijkst om te gebruiken.
 
-De Raspberry Pi Zero en Zero W zijn kleiner en hebben minder stroom nodig, dus ze zijn handig voor draagbare projecten zoals robots. Het is over het algemeen gemakkelijker om een ​​project te starten met de Raspberry Pi 3 en om naar de Pi Zero te gaan wanneer je een werkend prototype hebt waar de kleinere Pi handig voor zou kunnen zijn.
+De Raspberry Pi Zero en Zero W zijn kleiner en hebben minder stroom nodig, ze zijn dus handig voor handzame projecten zoals robots. Het is over het algemeen gemakkelijker om een ​​project te starten met de Raspberry Pi 3 en om naar de Pi Zero te gaan wanneer je een werkend prototype hebt waar de kleinere Pi handig voor zou kunnen zijn.
 
 Als je een Raspberry Pi wilt kopen, ga dan naar [rpf.io/products](https://rpf.io/products).
 
