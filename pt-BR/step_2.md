@@ -34,21 +34,21 @@ Muitos vendedores fornecem cartões SD para Raspberry Pi que já estão configur
 
 Para começar a usar o Raspberry, você vai precisar de um teclado e um mouse USB.
 
-Depois de configurar seu Pi up, você pode usar um teclado e mouse Bluetooth, mas precisará de um teclado e mouse USB para configurar.
+Depois de configurar o Pi, você pode usar um teclado e mouse Bluetooth, mas precisará de um teclado e mouse USB para configurar.
 
-### Uma TV ou tela de computador
+### Na TV ou tela do computador
 
-Para ver o ambiente de trabalho Raspbian, você precisará de uma tela e um cabo para ligar a tela e o Pi. A tela pode ser uma TV ou um monitor de computador. Se a tela tiver alto-falantes embutidos, o Pi poderá usá-los para reproduzir sons.
+Para vizualizar o ambiente de trabalho Raspbian, você vai precisar de uma tela e um cabo HDMI para ligar o Pi na tela. A tela pode ser uma TV ou um monitor de computador. Se a tela tiver alto-falantes embutidos, o Pi poderá usá-los para reproduzir sons.
 
 #### HDMI
 
-O Raspberry Pi tem uma porta de saída HDMI que é compatível com a porta HDMI da maioria dos modernos televisores e monitores de computador. Muitos monitores de computador também podem ter portas DVI ou VGA.
+O Raspberry Pi tem uma porta de saída HDMI que é compatível com a porta HDMI da maioria das TVs modernas e dos monitores de computador. Muitos monitores de computador também podem ter portas DVI ou VGA.
 
 ![porta hdmi](images/hdmi-port.png)
 
 #### DVI
 
-Se a sua tela tiver uma porta DVI, você pode conectar o Pi usando um cabo HDMI para DVI.
+Se a tela tiver uma porta DVI, você pode conectar o Pi usando um cabo conversor HDMI para DVI.
 
 ![porta dvi](images/dvi-port.png)
 
