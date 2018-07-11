@@ -6,11 +6,11 @@ Raspberry Pi của bạn không có công tắc nguồn: ngay sau khi bạn kế
 
 ![ảnh chụp màn hình](images/pi-power.png)
 
-Bạn sẽ thấy đèn LED màu đỏ sáng lên trên Raspberry Pi, cho biết rằng Pi được kết nối với nguồn. Khi nó khởi động (điều này cũng được gọi là **khởi động**), bạn sẽ thấy quả mâm xôi xuất hiện ở phía trên bên trái của màn hình của bạn.
+Bạn sẽ thấy đèn LED màu đỏ sáng lên trên Raspberry Pi, cho biết rằng Pi được kết nối với nguồn. Khi nó khởi động (điều này cũng được gọi là **booting**), bạn sẽ thấy quả mâm xôi xuất hiện ở phía trên bên trái của màn hình của bạn.
 
-![boot mâm xôi](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Trình duyệt của bạn không hỗ trợ video WebM, vì vậy hãy thử FireFox hoặc Chrome. </video> 
+![boot raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Trình duyệt của bạn không hỗ trợ video WebM, vì vậy hãy thử FireFox hoặc Chrome. </video> 
 
-\--- sự sụp đổ \---
+\--- collapse \---
 
 * * *
 
@@ -18,11 +18,11 @@ Bạn sẽ thấy đèn LED màu đỏ sáng lên trên Raspberry Pi, cho biết
 
 Nếu đây là lần đầu tiên bạn khởi động Raspberry Pi với thẻ SD chứa NOOBS, bạn sẽ thấy trình cài đặt NOOBS. Phần mềm này sẽ hướng dẫn bạn cài đặt hệ điều hành Raspbian (OS).
 
-+ Khi trình cài đặt đã được tải, nó sẽ cung cấp cho bạn lựa chọn hệ điều hành nào để cài đặt. Chọn hộp cho **Raspbian**, rồi bấm **Cài đặt**.
++ Khi trình cài đặt đã được khởi động, nó sẽ cung cấp cho bạn lựa chọn hệ điều hành nào để cài đặt. Chọn hộp cho **Raspbian**, rồi bấm **Install**.
 
-![cài đặt, dựng lên](images/install.png)
+![cài đặt](images/install.png)
 
-+ Nhấp vào **Có** trong hộp thoại cảnh báo, sau đó ngồi lại và thư giãn. Quá trình cài đặt Raspbian sẽ mất một chút thời gian.
++ Nhấp vào **Yes** trong hộp thoại cảnh báo, sau đó ngồi và thư giãn. Quá trình cài đặt Raspbian sẽ mất một chút thời gian.
 
 ![cài đặt](images/installing.png)
 
@@ -30,7 +30,7 @@ Nếu đây là lần đầu tiên bạn khởi động Raspberry Pi với thẻ
 
 ![Cài đặt](images/installed.png)
 
-\--- /sự sụp đổ \---
+\--- /collapse \---
 
 Sau một vài giây, Raspbian Desktop sẽ xuất hiện.
 
