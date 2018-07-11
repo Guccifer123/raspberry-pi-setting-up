@@ -1,4 +1,4 @@
-## Conclua a configuração
+## Concluindo a configuração
 
 Quando você iniciar o seu Raspberry Pi pela primeira vez, o aplicativo **Welcome to Raspberry Pi** irá aparecer e guiá-lo através da configuração inicial.
 
