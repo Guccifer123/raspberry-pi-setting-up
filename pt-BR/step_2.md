@@ -1,12 +1,12 @@
 ## O que você vai precisar
 
-### Qual Raspberry Pi?
+### Qual é o meu modelo de Raspbery Pi?
 
-Existem vários modelos [de Raspberry Pi](https://www.raspberrypi.org/products/), e para a maioria das pessoas o Raspberry Pi 3 Modelo B + é o único a escolher.
+Existem alguns modelos diferente [ de Raspberry Pi ](https://www.raspberrypi.org/products/) e o modelo mais comum para a maioria das pessoas, o Raspberry Pi 3 Modelo B+.
 
 ![Framboesa Pi 3](images/raspberry-pi.png)
 
-O Raspberry Pi 3 Modelo B + é o mais novo, mais rápido e mais fácil de usar.
+O Raspberry Pi 3 Modelo B+ é o mais novo, rápido e fácil de usar.
 
 O Raspberry Pi Zero e o Zero W são menores e requerem menos energia, por isso são úteis para projetos portáteis, como robôs. Geralmente é mais fácil começar um projeto com o Raspberry Pi 3 e ir para o Pi Zero quando você tem um protótipo funcional para o qual o Pi menor seria útil.
 
