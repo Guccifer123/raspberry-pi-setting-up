@@ -70,8 +70,8 @@ Você pode querer colocar o seu Raspberry Pi em um case, não é essencial mas v
 
 #### Fones de ouvido e alto-falantes
 
-A maioria dos modelos Raspberry Pi (não o Pi Zero / Zero W) tem uma porta de áudio padrão como a do smartphone ou MP3 player. Podemos conectar os fones de ouvido ou alto-falantes para que o Pi possa tocar o som. Se a tela que você está conectando o seu Pi para tem alto-falantes embutidos, o Pi pode reproduzir som através destes.
+A maioria dos modelos Raspberry Pi (não o Pi Zero / Zero W) tem uma porta de áudio padrão como a do smartphone ou MP3 player. Podemos conectar os fones de ouvido ou alto-falantes para que o Pi possa tocar o som. Se a tela que você está conectando o seu Pi para tiver alto-falantes embutidos, o Pi poderá reproduzir som através destes.
 
-#### Um cabo ethernet
+#### A entrada para internet
 
-Os grandes modelos Raspberry Pi (não o Pi Zero / Zero W) possuem uma porta Ethernet padrão para conectá-los à Internet. Para conectar um Pi Zero à internet, você precisa de um adaptador USB para Ethernet. O Raspberry Pi 3 e o Pi Zero W também podem ser conectados sem fio à web.
+A maioria dos modelos Raspberry Pi (não o Pi Zero / Zero W) possuem uma porta Ethernet padrão para conectá-lo à Internet. Para conectar um Pi Zero à internet, você precisa de um adaptador USB para Ethernet. O Raspberry Pi 3 e o Pi Zero W também podem ser conectados sem fio à web.
