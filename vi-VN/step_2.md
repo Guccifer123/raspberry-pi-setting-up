@@ -18,7 +18,7 @@ Nếu bạn muốn mua một chiếc Raspberry Pi, hãy đến [rpf.io/products]
 
 Bạn sẽ cần một bộ nguồn cung cấp dòng điện ít nhất 2,5 amps. Chúng tôi khuyên bạn sử dụng [bộ nguồn Raspberry Pi chính thức](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
 
-![cung cấp năng lượng](images/powersupply.png)
+![nguồn điện](images/powersupply.png)
 
 ### Thẻ micro SD
 
@@ -48,7 +48,7 @@ Raspberry Pi có cổng đầu ra HDMI tương thích với cổng HDMI của h�
 
 #### DVI
 
-Nếu màn hình của bạn có cổng DVI, bạn có thể kết nối Pi với màn hình bằng cáp HDMI-DVI.
+Nếu màn hình của bạn có cổng DVI, bạn có thể kết nối Pi với màn hình bằng cáp chuyển đổi HDMI sang DVI.
 
 ![cổng dvi](images/dvi-port.png)
 
@@ -58,7 +58,7 @@ Một số màn hình chỉ có cổng VGA.
 
 ![cổng vga](images/vga-port.png)
 
-Để kết nối Pi của bạn với màn hình như vậy, bạn có thể sử dụng bộ chuyển đổi HDMI-to-VGA.
+Để kết nối Pi của bạn với màn hình VGA, bạn có thể sử dụng bộ chuyển đổi HDMI sang VGA.
 
 ![cổng HDMI sang cổng vga](images/hdmi-vga-adapter.png)
 
@@ -66,12 +66,12 @@ Một số màn hình chỉ có cổng VGA.
 
 #### Một trường hợp
 
-Bạn có thể muốn đặt Raspberry Pi của bạn trong một trường hợp. Điều này là không cần thiết, nhưng nó sẽ cung cấp bảo vệ cho Pi của bạn. Nếu bạn muốn, bạn có thể sử dụng trường hợp chính thức cho [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) hoặc [Pi Zero hoặc Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+Bạn có thể muốn đặt Raspberry Pi của bạn trong một chiếc hộp bảo vệ. Điều này là không cần thiết, nhưng nó sẽ cung cấp bảo vệ cho Pi của bạn. Nếu bạn muốn, bạn có thể sử dụng hộp bảo vệ chính thức cho [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) hoặc [Pi Zero hoặc Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
 
 #### Tai nghe hoặc loa
 
-Các mô hình Raspberry Pi lớn (không phải Pi Zero / Zero W) có một cổng âm thanh chuẩn như cổng trên điện thoại thông minh hoặc máy nghe nhạc MP3 của bạn. Nếu muốn, bạn có thể kết nối tai nghe hoặc loa để Pi có thể phát âm thanh. Nếu màn hình bạn đang kết nối Pi của bạn có loa tích hợp, Pi có thể phát âm thanh thông qua các loa này.
+Các phiên bản Raspberry Pi lớn (không phải Pi Zero / Zero W) đều có một cổng âm thanh tiêu chuẩn như cổng trên điện thoại thông minh hoặc máy nghe nhạc MP3 của bạn. Nếu muốn, bạn có thể kết nối tai nghe hoặc loa để Pi có thể phát âm thanh. Nếu màn hình bạn đang kết nối Pi của bạn có loa tích hợp, Pi có thể phát âm thanh thông qua các loa này.
 
 #### Cáp Ethernet
 
-Các mô hình Raspberry Pi lớn (không phải là Pi Zero / Zero W) có một cổng Ethernet tiêu chuẩn để kết nối chúng với internet. Để kết nối Pi Zero với Internet, bạn cần có bộ điều hợp USB-tới-Ethernet. Raspberry Pi 3 và Pi Zero W cũng có thể được kết nối không dây với web.
+Các mẫu Raspberry Pi lớn (không phải là Pi Zero / Zero W) đều có một cổng Ethernet tiêu chuẩn để kết nối chúng với internet. Để kết nối Pi Zero với Internet, bạn cần có bộ chuyển đổi USB sang Ethernet. Raspberry Pi 3 và Pi Zero W cũng có thể được kết nối không dây với web.
