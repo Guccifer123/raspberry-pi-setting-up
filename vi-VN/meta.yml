@@ -1,6 +1,6 @@
 ---
 title: Thiết lập Raspberry Pi của bạn
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: Cách thiết lập và khởi động Pi của bạn lần đầu tiên
 version: 4
 listed: true
@@ -22,4 +22,4 @@ steps:
   - 
     title: Tìm trợ giúp ở đâu
   - 
-    title: Tiếp theo là gì?
+    title: Bước tiếp theo?
