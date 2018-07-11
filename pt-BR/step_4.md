@@ -6,7 +6,7 @@ Vamos ficar tudo conectado. É importante fazer isso na ordem correta, para que 
 
 + Insira o cartão SD que você configurou com o Raspbian (via NOOBS) no slot de cartão micro SD na parte de baixo do seu Pi. 
 
-![cartão SD](images/pi-sd.png)
+![Cartão SD](images/pi-sd.png)
 
 **Nota:** Muitos cartões micro SD virão dentro de um adaptador maior - você pode deslizar o cartão usando a borda na parte inferior.
 
