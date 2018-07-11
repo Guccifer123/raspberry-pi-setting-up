@@ -5,14 +5,14 @@ description: Como configurar e iniciar seu Pi pela primeira vez
 version: 4
 listed: true
 copyedit: true
-last_tested: "2018-05-16"
+last_tested: "16/05/2018"
 steps:
   - 
     title: Introdução
   - 
     title: O que você vai precisar
   - 
-    title: Configure seu cartão SD
+    title: Selecione seu cartão SD
   - 
     title: Conecte seu Pi
   - 
