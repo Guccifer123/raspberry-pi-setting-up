@@ -14,25 +14,25 @@ Se você quiser comprar um Raspberry Pi, vá para [ rpf.io/products ](https://rp
 
 ### Uma fonte de alimentação
 
-Para se conectar a um soquete de energia, o Raspberry Pi tem uma porta micro USB (a mesma encontrada em muitos telefones celulares).
+Para conectar o cabo de energia, o Raspberry Pi tem uma porta micro USB (a mesma encontrada em muitos telefones celulares).
 
-Você precisará de uma fonte de alimentação que forneça pelo menos 2,5 amperes. Recomendamos usar a fonte de alimentação [oficial Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
+Você vai precisar de uma fonte de alimentação que forneça pelo menos 2,5 amperes. Recomendamos o uso da [fonte de alimentação oficial Raspberry Pi ](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
 
 ![fonte de energia](images/powersupply.png)
 
-### Um cartão micro SD
+### O cartão micro SD
 
-Seu Raspberry Pi precisa de um cartão SD para armazenar todos os seus arquivos e o sistema operacional Raspbian.
+Seu Raspberry Pi precisa de um cartão micro SD para armazenar o sistema operacional Raspbian e todos os seus arquivos.
 
 ![cartão SD](images/pi-sd.png)
 
-Você precisará de um cartão micro SD com capacidade de pelo menos 8 GB.
+Você vai precisar de um cartão micro SD com capacidade de pelo menos 8 GB.
 
 Muitos vendedores fornecem cartões SD para Raspberry Pi que já estão configurados com Raspbian e prontos para serem usados.
 
-### Um teclado e um mouse
+### Teclado e mouse USB
 
-Para começar a usar o seu Raspberry, você precisará de um teclado USB e um mouse USB.
+Para começar a usar o Raspberry, você vai precisar de um teclado e um mouse USB.
 
 Depois de configurar seu Pi up, você pode usar um teclado e mouse Bluetooth, mas precisará de um teclado e mouse USB para configurar.
 
