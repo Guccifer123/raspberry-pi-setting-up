@@ -1,4 +1,4 @@
-## Configure seu cartão SD
+## Selecione seu cartão SD
 
 Se você tiver um cartão SD que ainda não tenha o sistema operacional Raspbian, ou se quiser redefinir seu Raspberry Pi, você poderá instalar o Raspbian facilmente. Para fazer isso, você precisa de um computador com porta de cartão SD - a maioria dos computadores de mesa e laptops tem um.
 
