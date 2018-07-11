@@ -1,6 +1,6 @@
 ## Thiết lập thẻ SD của bạn
 
-Nếu bạn có một thẻ SD mà không có hệ điều hành Raspbian trên nó được nêu ra, hoặc nếu bạn muốn thiết lập lại Raspberry Pi của bạn, bạn có thể dễ dàng cài đặt Raspbian mình. Để làm như vậy, bạn cần một máy tính có một cổng thẻ SD - hầu hết các máy tính xách tay và máy tính để bàn có một.
+Nếu bạn có một thẻ SD mà không có hệ điều hành Raspbian trên nó, hoặc nếu bạn muốn thiết lập lại Raspberry Pi của bạn, bạn có thể tự mình dễ dàng cài đặt Raspbian. Để làm như vậy, bạn cần một máy tính có một cổng thẻ SD - hầu hết các máy tính xách tay và máy tính để bàn có một cổng như vậy.
 
 ### Hệ điều hành Raspbian thông qua NOOBS
 
@@ -12,11 +12,11 @@ Sử dụng phần mềm NOOBS là cách dễ nhất để cài đặt Raspbian 
 
 ![Trang tải xuống](images/downloads-page.png)
 
-+ Bạn sẽ thấy một hộp liên kết đến các tệp NOOBS. Nhấp vào hộp.
++ Bạn sẽ thấy một khung có liên kết đến các file NOOBS. Nhấp vào khung.
 
 ![Nhấp vào NOOBS](images/click-noobs.png)
 
-+ Tùy chọn đơn giản nhất là tải xuống kho lưu trữ zip của các tệp. Đảm bảo chú ý đến nơi bạn lưu tệp lưu trữ để bạn có thể tìm lại nhanh chóng.
++ Tùy chọn đơn giản nhất là tải xuống file nén zip của các tệp tin. Đảm bảo chú ý đến nơi bạn lưu tệp lưu trữ để bạn có thể tìm lại nhanh chóng.
 
 ![Tải xuống mã zip](images/download-zip.png)
 
