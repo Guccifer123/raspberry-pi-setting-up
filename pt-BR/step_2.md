@@ -12,7 +12,7 @@ O Raspberry Pi Zero e o Zero W são menores e requerem menos energia, por isso s
 
 Se você quiser comprar um Raspberry Pi, vá para [ rpf.io/products ](https://rpf.io/products).
 
-### Uma fonte de alimentação
+### Fonte de alimentação
 
 Para conectar o cabo de energia, o Raspberry Pi tem uma porta micro USB (a mesma encontrada em muitos telefones celulares).
 
@@ -58,19 +58,19 @@ Algumas telas possuem somente a porta VGA.
 
 ![porta vga](images/vga-port.png)
 
-Para conectar seu Pi a essa tela, você pode usar um adaptador HDMI para VGA.
+Neste caso, para conectar o Pi você pode usar um adaptador HDMI para VGA.
 
 ![porta do adaptador hdmi para vga](images/hdmi-vga-adapter.png)
 
 ### Extras opcionais
 
-#### Um caso
+#### Case para Raspberry Pi
 
-Você pode querer colocar o seu Raspberry Pi em um caso. Isso não é essencial, mas fornecerá proteção para o seu Pi. Se preferir, você pode usar o caso oficial do [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) ou [Pi Zero ou Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
+Você pode querer colocar o seu Raspberry Pi em um case, não é essencial mas vai proteger para o seu Pi. Existe o case oficial para o [ Raspberry Pi 3 ](https://www.raspberrypi.org/products/raspberry-pi-3-case/) ou [ Pi Zero ou Zero W ](https://www.raspberrypi.org/products/raspberry-pi-zero-case/).
 
-#### Fones de ouvido ou alto-falantes
+#### Fones de ouvido e alto-falantes
 
-Os grandes modelos Raspberry Pi (não o Pi Zero / Zero W) têm uma porta de áudio padrão como a do seu smartphone ou MP3 player. Se você quiser, pode conectar seus fones de ouvido ou alto-falantes para que o Pi possa tocar o som. Se a tela que você está conectando o seu Pi para tem alto-falantes embutidos, o Pi pode reproduzir som através destes.
+A maioria dos modelos Raspberry Pi (não o Pi Zero / Zero W) tem uma porta de áudio padrão como a do smartphone ou MP3 player. Podemos conectar os fones de ouvido ou alto-falantes para que o Pi possa tocar o som. Se a tela que você está conectando o seu Pi para tem alto-falantes embutidos, o Pi pode reproduzir som através destes.
 
 #### Um cabo ethernet
 
