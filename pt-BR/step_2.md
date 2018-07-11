@@ -10,7 +10,7 @@ O Raspberry Pi 3 Modelo B+ é o mais novo, rápido e fácil de usar.
 
 O Raspberry Pi Zero e o Zero W são menores e requerem menos energia, por isso são úteis para projetos portáteis, como robôs. Geralmente é mais fácil começar um projeto com o Raspberry Pi 3 e ir para o Pi Zero quando você tem um protótipo funcional para o qual o Pi menor seria útil.
 
-Se você quiser comprar um Raspberry Pi, vá para [rpf.io/products](https://rpf.io/products).
+Se você quiser comprar um Raspberry Pi, vá para [ rpf.io/products ](https://rpf.io/products).
 
 ### Uma fonte de alimentação
 
