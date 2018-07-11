@@ -1,6 +1,6 @@
 ## Kết nối Raspberry Pi của bạn
 
-Hãy kết nối mọi thứ. Điều quan trọng là làm điều này theo đúng thứ tự, để tất cả các thành phần của bạn được an toàn.
+Hãy kết nối mọi thứ. Điều quan trọng là làm điều này theo đúng thứ tự, để tất cả các linh kiện của bạn được an toàn.
 
 ![pi kết nối](images/pi-labelled.png)
 
@@ -8,7 +8,7 @@ Hãy kết nối mọi thứ. Điều quan trọng là làm điều này theo đ
 
 ![thẻ SD](images/pi-sd.png)
 
-**Lưu ý:** Rất nhiều thẻ micro SD sẽ đến bên trong một bộ chuyển đổi lớn hơn - bạn có thể trượt thẻ ra bằng cách sử dụng môi ở phía dưới.
+**Lưu ý:** Rất nhiều thẻ micro SD sẽ nằm bên trong một thẻ chuyển đổi lớn hơn - bạn có thể trượt thẻ ra ở phía dưới.
 
 ![chủ thẻ sd](images/sd-card-holder.png)
 
@@ -16,17 +16,17 @@ Hãy kết nối mọi thứ. Điều quan trọng là làm điều này theo đ
 
 ![chuột](images/pi-mouse.png)
 
-+ Kết nối bàn phím theo cùng một cách.
++ Tương tự, kết nối bàn phím.
 
 ![bàn phím](images/pi-keyboard.png)
 
-+ Nhìn vào cổng HDMI trên Raspberry Pi - thông báo rằng nó có một mặt phẳng lớn ở trên cùng.
++ Nhìn vào cổng HDMI trên Raspberry Pi - chú ý rằng nó có một mặt phẳng lớn ở trên cùng.
 
 ![hdmi](images/pi-hdmi.png)
 
 + Đảm bảo màn hình của bạn được cắm vào ổ điện và bật. Sử dụng cáp để kết nối màn hình với cổng HDMI của Pi - sử dụng bộ chuyển đổi nếu cần.
 
-**Lưu ý:** không có gì sẽ hiển thị trên màn hình, vì Pi chưa chạy.
+**Lưu ý:** chưa có gì hiển thị trên màn hình, vì Pi chưa chạy.
 
 + Nếu bạn muốn kết nối Pi với internet qua Ethernet, hãy sử dụng cáp Ethernet để kết nối cổng Ethernet trên Raspberry Pi với ổ cắm Ethernet trên tường hoặc trên bộ định tuyến internet của bạn. Bạn không cần phải làm điều này nếu bạn đang sử dụng WiFi hoặc nếu bạn không muốn kết nối với internet.
 
