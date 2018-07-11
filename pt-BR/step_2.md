@@ -4,7 +4,7 @@
 
 Existem alguns modelos diferente [ de Raspberry Pi ](https://www.raspberrypi.org/products/) e o modelo mais comum para a maioria das pessoas, o Raspberry Pi 3 Modelo B+.
 
-![Framboesa Pi 3](images/raspberry-pi.png)
+![Raspberry Pi](images/raspberry-pi.png)
 
 O Raspberry Pi 3 Modelo B+ é o mais novo, rápido e fácil de usar.
 
@@ -18,13 +18,13 @@ Para conectar o cabo de energia, o Raspberry Pi tem uma porta micro USB (a mesma
 
 Você vai precisar de uma fonte de alimentação que forneça pelo menos 2,5 amperes. Recomendamos o uso da [fonte de alimentação oficial Raspberry Pi ](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
 
-![fonte de energia](images/powersupply.png)
+![Fonte de alimentação](images/powersupply.png)
 
 ### O cartão micro SD
 
 Seu Raspberry Pi precisa de um cartão micro SD para armazenar o sistema operacional Raspbian e todos os seus arquivos.
 
-![cartão SD](images/pi-sd.png)
+![Cartão SD](images/pi-sd.png)
 
 Você vai precisar de um cartão micro SD com capacidade de pelo menos 8 GB.
 
@@ -44,23 +44,23 @@ Para vizualizar o ambiente de trabalho Raspbian, você vai precisar de uma tela 
 
 O Raspberry Pi tem uma porta de saída HDMI que é compatível com a porta HDMI da maioria das TVs modernas e dos monitores de computador. Muitos monitores de computador também podem ter portas DVI ou VGA.
 
-![porta hdmi](images/hdmi-port.png)
+![porta HDMI](images/hdmi-port.png)
 
 #### DVI
 
 Se a tela tiver uma porta DVI, você pode conectar o Pi usando um cabo conversor HDMI para DVI.
 
-![porta dvi](images/dvi-port.png)
+![porta DVI](images/dvi-port.png)
 
 #### VGA
 
 Algumas telas possuem somente a porta VGA.
 
-![porta vga](images/vga-port.png)
+![porta VGA](images/vga-port.png)
 
 Neste caso, para conectar o Pi você pode usar um adaptador HDMI para VGA.
 
-![porta do adaptador hdmi para vga](images/hdmi-vga-adapter.png)
+![Adaptador HDMI para VGA](images/hdmi-vga-adapter.png)
 
 ### Extras opcionais
 
@@ -74,4 +74,4 @@ A maioria dos modelos Raspberry Pi (não o Pi Zero / Zero W) tem uma porta de á
 
 #### A entrada para internet
 
-A maioria dos modelos Raspberry Pi (não o Pi Zero / Zero W) possuem uma porta Ethernet padrão para conectá-lo à Internet. Para conectar um Pi Zero à internet, você precisa de um adaptador USB para Ethernet. O Raspberry Pi 3 e o Pi Zero W também podem ser conectados sem fio à web.
+A maioria dos modelos Raspberry Pi (não o Pi Zero / Zero W) possuem uma porta Ethernet padrão para conectar a Internet. Para conectar um Pi Zero a internet, é preciso usar um adaptador USB para a porta Ethernet. O Raspberry Pi 3 e o Pi Zero W também podem ser conectados a internet através de rede sem fio.
