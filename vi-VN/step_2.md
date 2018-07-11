@@ -2,11 +2,11 @@
 
 ### Raspberry Pi nào?
 
-Có một số mô hình [của Raspberry Pi](https://www.raspberrypi.org/products/), và đối với hầu hết mọi người Raspberry Pi 3 Model B + là một trong những lựa chọn.
+Có một số [phiên bản của Raspberry Pi](https://www.raspberrypi.org/products/), và đối với hầu hết mọi người Raspberry Pi 3 Model B + là phiên bản nên lựa chọn.
 
 ![Raspberry Pi 3](images/raspberry-pi.png)
 
-Raspberry Pi 3 Model B + là mới nhất, nhanh nhất và dễ sử dụng nhất.
+Raspberry Pi 3 Model B + là phiên bản mới nhất, nhanh nhất và dễ sử dụng nhất.
 
 Raspberry Pi Zero và Zero W nhỏ hơn và yêu cầu ít năng lượng hơn, vì vậy chúng rất hữu ích cho các dự án di động như robot. Nói chung là dễ dàng hơn để bắt đầu một dự án với Raspberry Pi 3, và để di chuyển đến Pi Zero khi bạn có một mẫu thử nghiệm làm việc mà Pi nhỏ hơn sẽ hữu ích cho nó.
 
