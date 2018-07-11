@@ -18,31 +18,31 @@ Sử dụng phần mềm NOOBS là cách dễ nhất để cài đặt Raspbian 
 
 + Tùy chọn đơn giản nhất là tải xuống file nén zip của các tệp tin. Đảm bảo chú ý đến nơi bạn lưu tệp lưu trữ để bạn có thể tìm lại nhanh chóng.
 
-![Tải xuống mã zip](images/download-zip.png)
+![Tải xuống file nén zip](images/download-zip.png)
 
 #### Định dạng thẻ SD
 
 Mọi thứ được lưu trữ trên thẻ SD sẽ bị ghi đè trong khi định dạng. Vì vậy, nếu thẻ SD mà bạn muốn cài đặt Raspbian hiện có bất kỳ tệp nào trên đó, ví dụ từ phiên bản cũ của Raspbian, bạn có thể muốn sao lưu các tệp này trước để không bị mất vĩnh viễn.
 
-+ Truy cập trang web của Hiệp hội SD và tải xuống [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) cho Windows hoặc Mac.
++ Truy cập trang web của SD Association và tải xuống [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) cho Windows hoặc Mac.
 
 + Làm theo hướng dẫn để cài đặt phần mềm.
 
-+ Lắp thẻ SD của bạn vào khe cắm thẻ SD của máy tính hoặc máy tính xách tay và ghi chú ký tự ổ đĩa được cấp cho nó, ví dụ: `F: /`.
++ Lắp thẻ SD của bạn vào đầu đọc thẻ SD của máy tính hoặc máy tính xách tay và ghi chú ký tự ổ đĩa được cấp cho nó, ví dụ: `F:/`.
 
-+ Trong SD Formatter, chọn ký tự ổ đĩa cho thẻ SD của bạn và định dạng thẻ.
++ Trong SD Formatter, chọn ký tự ổ đĩa cho thẻ SD của bạn và định dạng nó.
 
-#### Trích xuất NOOBS từ kho lưu trữ zip
+#### Trích xuất NOOBS từ file nén zip
 
-Tiếp theo, bạn sẽ cần giải nén các tệp từ kho lưu trữ zip NOOBS mà bạn đã tải xuống từ trang web Raspberry Pi.
+Tiếp theo, bạn sẽ cần giải nén các tệp từ file nén zip NOOBS mà bạn đã tải xuống từ trang web Raspberry Pi.
 
 + Tìm kho lưu trữ đã tải xuống - theo mặc định, nó sẽ nằm trong thư mục `Tải xuống` của bạn.
 
-+ Bấm đúp vào nó để giải nén các tập tin, và giữ cửa sổ Explorer / Finder kết quả mở ra.
++ Giải nén các tập tin và giữ cửa sổ Explorer/Finder mở.
 
-#### Sao chép tệp
+#### Sao chép các tập tin
 
-+ Bây giờ mở một cửa sổ Explorer / Finder khác và điều hướng đến thẻ SD. Tốt nhất nên đặt hai cửa sổ cạnh nhau.
++ Bây giờ mở một cửa sổ Explorer/Finder khác và điều hướng đến thẻ SD. Tốt nhất nên đặt hai cửa sổ cạnh nhau.
 
 + Chọn tất cả các tệp trong thư mục `NOOBS` và kéo chúng vào cửa sổ thẻ SD để sao chép chúng vào thẻ.
 
@@ -50,4 +50,4 @@ Tiếp theo, bạn sẽ cần giải nén các tệp từ kho lưu trữ zip NOO
 
 ![macos copy](images/macos_copy.png)
 
-+ Khi các tệp đã được sao chép xong, bạn có thể đẩy thẻ SD ra.
++ Khi các tệp đã được sao chép xong, bạn có thể eject thẻ SD.
