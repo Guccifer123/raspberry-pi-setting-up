@@ -54,7 +54,7 @@ Se a tela tiver uma porta DVI, você pode conectar o Pi usando um cabo conversor
 
 #### VGA
 
-Algumas telas possuem apenas uma porta VGA.
+Algumas telas possuem somente a porta VGA.
 
 ![porta vga](images/vga-port.png)
 
