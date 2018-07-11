@@ -1,4 +1,4 @@
-## Qual o proximo?
+## Próxima etapa
 
 + Dê uma olhada no nosso guia [Using your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using).
 
