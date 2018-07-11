@@ -8,15 +8,15 @@ Có một số [phiên bản của Raspberry Pi](https://www.raspberrypi.org/pro
 
 Raspberry Pi 3 Model B + là phiên bản mới nhất, nhanh nhất và dễ sử dụng nhất.
 
-Raspberry Pi Zero và Zero W nhỏ hơn và yêu cầu ít năng lượng hơn, vì vậy chúng rất hữu ích cho các dự án di động như robot. Nói chung là dễ dàng hơn để bắt đầu một dự án với Raspberry Pi 3, và để di chuyển đến Pi Zero khi bạn có một mẫu thử nghiệm làm việc mà Pi nhỏ hơn sẽ hữu ích cho nó.
+Raspberry Pi Zero và Zero W nhỏ hơn và yêu cầu ít năng lượng hơn, vì vậy chúng rất hữu ích cho các dự án di động như robot. Nói chung là sẽ dễ dàng hơn để bắt đầu một dự án với Raspberry Pi 3, và bạn có thể chuyển sang dùng Pi Zero khi bạn có một mẫu thử nghiệm hữu ích hơn khi dùng với các phiên bản Pi nhỏ.
 
-Nếu bạn muốn mua một Raspberry Pi, hãy đến [rpf.io/products](https://rpf.io/products).
+Nếu bạn muốn mua một chiếc Raspberry Pi, hãy đến [rpf.io/products](https://rpf.io/products).
 
 ### Nguồn điện
 
-Để kết nối với ổ cắm điện, Raspberry Pi có cổng micro USB (cùng một cổng tìm thấy trên nhiều điện thoại di động).
+Để kết nối với ổ cắm điện, Raspberry Pi có cổng micro USB (loại cổng kết nối có thể tìm thấy trên nhiều điện thoại di động).
 
-Bạn sẽ cần một nguồn cung cấp điện cung cấp ít nhất 2,5 amps. Chúng tôi khuyên bạn sử dụng các [chính thức Raspberry Pi cung cấp điện](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
+Bạn sẽ cần một bộ nguồn cung cấp dòng điện ít nhất 2,5 amps. Chúng tôi khuyên bạn sử dụng [bộ nguồn Raspberry Pi chính thức](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/).
 
 ![cung cấp năng lượng](images/powersupply.png)
 
@@ -28,17 +28,17 @@ Raspberry Pi của bạn cần một thẻ SD để lưu trữ tất cả các t
 
 Bạn sẽ cần một thẻ micro SD có dung lượng tối thiểu 8 GB.
 
-Nhiều người bán cung cấp thẻ SD cho Raspberry Pi đã được thiết lập với Raspbian và sẵn sàng để đi.
+Nhiều người bán cung cấp thẻ SD cho Raspberry Pi đã được thiết lập với Raspbian và sẵn sàng để dùng ngay.
 
 ### Bàn phím và chuột
 
 Để bắt đầu sử dụng quả mâm xôi của bạn, bạn sẽ cần một bàn phím USB và một con chuột USB.
 
-Một khi bạn đã thiết lập Pi của bạn lên, bạn có thể sử dụng bàn phím và chuột Bluetooth, nhưng bạn sẽ cần một bàn phím USB và chuột để thiết lập.
+Một khi bạn đã thiết lập Pi xong của bạn, bạn có thể sử dụng bàn phím và chuột Bluetooth, nhưng bạn sẽ cần một bàn phím và chuột USB để thiết lập.
 
 ### TV hoặc màn hình máy tính
 
-Để xem môi trường máy tính để bàn Raspbian, bạn sẽ cần một màn hình và một cáp để liên kết màn hình và Pi. Màn hình có thể là TV hoặc màn hình máy tính. Nếu màn hình có loa tích hợp, Pi sẽ có thể sử dụng các loa này để phát âm thanh.
+Để xem giao diện desktop của Raspbian, bạn sẽ cần một màn hình và một cáp để kết nối màn hình với Pi. Màn hình có thể là TV hoặc màn hình máy tính. Nếu màn hình có loa tích hợp, Pi sẽ có thể sử dụng các loa này để phát âm thanh.
 
 #### HDMI
 
