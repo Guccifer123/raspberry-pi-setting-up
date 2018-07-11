@@ -10,7 +10,7 @@ Hãy kết nối mọi thứ. Điều quan trọng là làm điều này theo đ
 
 **Lưu ý:** Rất nhiều thẻ micro SD sẽ nằm bên trong một thẻ chuyển đổi lớn hơn - bạn có thể trượt thẻ ra ở phía dưới.
 
-![chủ thẻ sd](images/sd-card-holder.png)
+![hộp thẻ sd](images/sd-card-holder.png)
 
 + Tìm cáp USB cho chuột của bạn và kết nối chuột với cổng USB trên Raspberry Pi (không quan trọng cái nào).
 
