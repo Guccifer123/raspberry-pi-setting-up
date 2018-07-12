@@ -1,7 +1,7 @@
 ## Введение
 
-Здесь вы узнаете о своей малине Pi, какие вещи вам нужно использовать, и как ее настроить.
+Здесь ты узнаешь о своей Raspberry Pi, что тебе понадобится для её настройки и как ее настроить.
 
-![подключить пи](images/pi-plug-in.gif)
+![plug in the pi](images/pi-plug-in.gif)
 
-Если вам нужно распечатать этот проект, пожалуйста , используйте [Версия для печати](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){: TARGET = «_blank»}.
+Если ты хочешь распечатать этот проект, то воспользуйся [версией для печати](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){:target="_blank"}.
