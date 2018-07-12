@@ -6,7 +6,7 @@ Raspberry Pi에는 전원 스위치가 없습니다. 전원 콘센트에 연결�
 
 ![스크린 샷](images/pi-power.png)
 
-Raspberry Pi를 전원에 연결하면 Raspberry Pi에 빨간색 LED가 켜집니다. 가 (이라고도 시작으로 **부팅**), 당신은 나무 딸기는 화면의 왼쪽 상단에 표시가 나타납니다.
+Raspberry Pi를 전원에 연결하면 Raspberry Pi에 빨간색 LED가 켜집니다. Raspberry Pi를 실행하면 (또는 **부팅**), 화면 장치의 좌측 상단에 라즈베리 모양이 나타납니다.
 
 ![부트 라스베리](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> 브라우저가 WebM 비디오를 지원하지 않으므로 FireFox 또는 Chrome을 사용해보십시오. </video> 
 
