@@ -16,25 +16,25 @@ NOOBS 소프트웨어를 사용하면 SD 카드에 Raspbian을 설치하는 가�
 
 ![NOOBS를 클릭하십시오.](images/click-noobs.png)
 
-+ 가장 간단한 옵션은 파일의 zip 아카이브를 다운로드하는 것입니다. 아카이브를 어디에서 저장했는지주의 깊게 다시 확인하십시오.
++ 가장 간단한 방법은 zip 파일을 다운로드하는 것입니다. 파일을 어디에서 저장했는지 주의 깊게 다시 확인하십시오.
 
 ![zip 다운로드](images/download-zip.png)
 
 #### SD 카드 포맷
 
-SD 카드에 저장된 내용은 서식을 지정하는 동안 덮어 씁니다. 따라서 현재 Raspbian을 설치하려는 SD 카드에 이전 버전의 Raspbian과 같은 파일이있는 경우 영구적으로 손실되지 않도록 파일을 백업 할 수 있습니다.
+포맷을 하면 SD 카드에 저장된 내용은 삭제됩니다. 따라서 현재 라즈비안을 설치하려는 SD 카드에 이전 버전의 라즈비안 운영체제 파일이 있을 경우, 영구적으로 손실되지 않도록 파일을 백업하세요.
 
-+ SD 협회 웹 사이트를 방문하여 Windows 또는 Mac 용 [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) 을 다운로드하십시오.
++ SD 카드 협회 웹 사이트를 방문하여 Windows 또는 Mac 용 [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) 을 다운로드하십시오.
 
 + 지침에 따라 소프트웨어를 설치하십시오.
 
-+ SD 카드를 컴퓨터 또는 노트북의 SD 카드 슬롯에 넣고 할당 된 드라이브 문자를 적어 둡니다 (예 : `F : /`.
++ SD 카드를 컴퓨터 또는 노트북의 SD 카드 슬롯에 넣고 할당 된 드라이브 문자를 적어 둡니다. (예 : `F : /`)
 
-+ SD Formatter에서 SD 카드의 드라이브 문자와 카드의 형식을 선택하십시오.
++ SD Formatter에서 SD 카드의 드라이브 문자와 포맷을 선택하십시오.
 
-#### zip 아카이브에서 NOOBS 추출
+#### zip 파일에서 NOOBS 추출
 
-다음으로, Raspberry Pi 웹 사이트에서 다운로드 한 NOOBS zip 아카이브에서 파일을 추출해야합니다.
+그 다음, Raspberry Pi 웹 사이트에서 다운로드 한 zip 파일에서 NOOBS를 추출해야합니다.
 
 + 다운로드 한 보관 파일을 찾으십시오. 기본적으로 다운로드 파일은 귀하의 `Downloads` 폴더에 있어야합니다.
 
