@@ -14,21 +14,21 @@ Raspberry Pi Zero와 Zero W는 작아서 전력 소모가 적기 때문에 로�
 
 ### 전원 공급 장치
 
-전원 소켓에 연결하기 위해 Raspberry Pi에는 마이크로 USB 포트가 있습니다 (많은 휴대폰에서 찾아 볼 수 있습니다).
+콘센트에 연결하려면 Raspberry Pi에 있는 마이크로 USB 포트를 사용하세요. (대다수의 휴대폰과 같은 포트입니다.)
 
-최소 2.5A를 제공하는 전원 공급 장치가 필요합니다. [공식 Raspberry Pi 전원 공급 장치](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/)사용하는 것이 좋습니다.
+최소 2.5A를 제공하는 전원 공급 장치가 필요합니다. [정식 라즈베리 파이 전원 공급 장치](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/)를 사용하는 것이 좋습니다.
 
 ![전원 공급 장치](images/powersupply.png)
 
 ### 마이크로 SD 카드
 
-귀하의 라즈베리 파이는 모든 파일과 Raspbian 운영 체제를 저장하기 위해 SD 카드가 필요합니다.
+라즈베리 파이는 모든 파일과 라즈비안 운영 체제를 저장하기 위해 SD 카드가 필요합니다.
 
 ![SD 카드](images/pi-sd.png)
 
-적어도 8GB 용량의 마이크로 SD 카드가 필요합니다.
+8 GB 이상의 마이크로 SD 카드가 필요합니다.
 
-많은 판매자가 이미 Raspbian과 함께 준비되어 있으며 갈 준비가 된 Raspberry Pi 용 SD 카드를 공급합니다.
+많은 곳에서 라즈비안 운영 체제를 설치한 라즈베리 파이 전용 SD 카드를 판매하고 있습니다.
 
 ### 키보드와 마우스
 
