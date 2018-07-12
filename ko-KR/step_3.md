@@ -46,8 +46,8 @@ NOOBS 소프트웨어를 사용하면 SD 카드에 Raspbian을 설치하는 가�
 
 + `NOOBS` 폴더에 있는 모든 파일을 선택한 후, SD 카드 창으로 끌어 카드에 복사하십시오.
 
-![창문 복사](images/copy3.png)
+![윈도우에서 복사하기](images/copy3.png)
 
-![macos 사본](images/macos_copy.png)
+![mac os에서 복사하기](images/macos_copy.png)
 
 + 파일이 모두 복사되면 SD 카드를 꺼낼 수 있습니다.
