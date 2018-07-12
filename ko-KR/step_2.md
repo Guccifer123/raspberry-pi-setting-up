@@ -58,15 +58,15 @@ Raspberry Pi Zero와 Zero W는 작아서 전력 소모가 적기 때문에 로�
 
 ![vga 포트](images/vga-port.png)
 
-Pi를 그러한 화면에 연결하려면 HDMI-to-VGA 어댑터를 사용할 수 있습니다.
+라즈베리 파이를 해당 화면 장비에 연결하려면, HDMI-VGA 연결 어댑터를 사용하세요.
 
 ![hga 어댑터 포트 vga](images/hdmi-vga-adapter.png)
 
 ### 옵션 사항
 
-#### 경우
+#### 케이스
 
-케이스에 라즈베리 파이를 넣을 수 있습니다. 이것은 필수적인 것은 아니지만 귀하의 파이에 대한 보호를 제공 할 것입니다. 원한다면 [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) 또는 [Pi Zero 또는 Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/)의 공식 사례를 사용할 수 있습니다.
+라즈베리 파이를 케이스에 넣을 수도 있습니다. 꼭 필요하지는 않지만, 라즈베리 파이를 보호할 수 있습니다. [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) 또는 [Pi Zero 또는 Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/)의 정식 케이스를 사용할 수도 있습니다.
 
 #### 헤드폰 또는 스피커
 
