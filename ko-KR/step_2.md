@@ -1,8 +1,8 @@
-## 필요한 것
+## 준비물
 
-### 어떤 라스베리 파이?
+### 어떤 라즈베리 파이인지?
 
-이 몇 가지 있습니다 [라즈베리 파이 모델](https://www.raspberrypi.org/products/), 대부분의 사람들의 라즈베리 파이 3 모델 B +를 선택하는 것입니다.
+[라즈베리 파이 모델](https://www.raspberrypi.org/products/)에는 몇 가지 종류가 있으며, 많은 이들이 라즈베리 파이 3 모델 B +를 선택합니다.
 
 ![라스베리 파이 3](images/raspberry-pi.png)
 
