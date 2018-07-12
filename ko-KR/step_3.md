@@ -1,18 +1,18 @@
-## SD 카드 설정
+## SD 카드를 선택해 주세요
 
-아직 Raspbian 운영 체제가없는 SD 카드가 있거나 Raspberry Pi를 재설정하려는 경우 Raspbian을 쉽게 설치할 수 있습니다. 이렇게하려면 SD 카드 포트가있는 컴퓨터가 필요합니다. 대부분의 랩톱 및 데스크톱 컴퓨터에는 SD 카드 포트가 있습니다.
+라즈비안 운영 체제가 설치되지 않은 SD 카드를 갖고 있거나 Raspberry Pi를 재설정하려는 경우, 라즈비안을 쉽게 설치할 수 있습니다. 설치하려면 SD 카드 포트가있는 컴퓨터가 필요합니다. 대부분의 랩톱 및 데스크톱 컴퓨터에는 SD 카드 포트가 있습니다.
 
-### NOOBS를 통한 Raspbian 운영 체제
+### NOOBS 를 이용한 라즈비안 운영 체제
 
 NOOBS 소프트웨어를 사용하면 SD 카드에 Raspbian을 설치하는 가장 쉬운 방법입니다.
 
-#### NOOBS 다운로드
+#### NOOBS 다운로드하기
 
-+ [라즈베리 파이 다운로드 페이지](https://www.raspberrypi.org/downloads)방문하십시오.
++ [Raspberry Pi 다운로드 페이지](https://www.raspberrypi.org/downloads)를 방문하세요.
 
 ![다운로드 페이지](images/downloads-page.png)
 
-+ NOOBS 파일에 연결된 상자가 나타납니다. 상자를 클릭하십시오.
++ NOOBS 설치파일 링크를 확인하세요 링크를 클릭하십시오.
 
 ![NOOBS를 클릭하십시오.](images/click-noobs.png)
 
