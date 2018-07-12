@@ -32,45 +32,45 @@ Raspberry Pi는 모든 파일과 라즈비안 운영 체제를 저장하기 위�
 
 ### 키보드와 마우스
 
-라즈베리 파이를 사용하려면, USB 키보드와 USB 마우스가 필요합니다.
+Raspberry Pi를 사용하려면, USB 키보드와 USB 마우스가 필요합니다.
 
-라즈베리 파이를 설정한 후에는 Bluetooth 키보드와 마우스를 사용할 수 있지만, 라즈베리 파이를 설정하기 위해서는 USB 키보드와 마우스가 필요합니다.
+Raspberry Pi를 설정한 후에는 Bluetooth 키보드와 마우스를 사용할 수 있지만, Raspberry Pi를 설정하기 위해서는 USB 키보드와 마우스가 필요합니다.
 
 ### TV 또는 컴퓨터 화면
 
-라즈비안 데스크탑 환경을 보려면, 라즈베리 파이를 연결하기 위한 화면 장비와 케이블이 필요합니다. 화면 장비로는 TV와 컴퓨터 모니터 모두 가능합니다. 화면 장비에 스피커가 내장되어 있다면, 라즈베리 파이로 음향을 재생할 수 있습니다.
+라즈비안 데스크탑 환경을 보려면, Raspberry Pi를 연결하기 위한 화면 장비와 케이블이 필요합니다. 화면 장비로는 TV와 컴퓨터 모니터 모두 가능합니다. 화면 장비에 스피커가 내장되어 있다면, Raspberry Pi로 음향을 재생할 수 있습니다.
 
 #### HDMI
 
-라즈베리 파이에는 최신 TV 및 컴퓨터 모니터의 HDMI 포트와 호환되는 HDMI 출력 포트가 있습니다. 다수의 컴퓨터 모니터에는 DVI 또는 VGA 포트가 있을 수도 있습니다.
+Raspberry Pi에는 최신 TV 및 컴퓨터 모니터의 HDMI 포트와 호환되는 HDMI 출력 포트가 있습니다. 다수의 컴퓨터 모니터에는 DVI 또는 VGA 포트가 있을 수도 있습니다.
 
-![HDM 포트](images/hdmi-port.png)
+![HDMI 포트](images/hdmi-port.png)
 
 #### DVI
 
-화면 장비에 DVI 포트가 있다면, HDMI-DVI 케이블을 사용하여 라즈베리 파이를 연결할 수 있습니다.
+화면 장비에 DVI 포트가 있다면, HDMI-DVI 케이블을 사용하여 Raspberry Pi를 연결할 수 있습니다.
 
-![dvi 포트](images/dvi-port.png)
+![DVI 포트](images/dvi-port.png)
 
 #### VGA
 
 일부 화면 장비에는 VGA 포트만 있을 수도 있습니다.
 
-![vga 포트](images/vga-port.png)
+![VGA 포트](images/vga-port.png)
 
-라즈베리 파이를 해당 화면 장비에 연결하려면, HDMI-VGA 연결 어댑터를 사용하세요.
+Raspberry Pi를 해당 화면 장비에 연결하려면, HDMI-VGA 연결 어댑터를 사용하세요.
 
-![hga 어댑터 포트 vga](images/hdmi-vga-adapter.png)
+![HDMI-VGA 연결 포트](images/hdmi-vga-adapter.png)
 
 ### 옵션 사항
 
 #### 케이스
 
-라즈베리 파이를 케이스에 넣을 수도 있습니다. 꼭 필요하지는 않지만, 라즈베리 파이를 보호할 수 있습니다. [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) 또는 [Pi Zero 또는 Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/)의 정식 케이스를 사용할 수도 있습니다.
+Raspberry Pi를 케이스에 넣을 수도 있습니다. 꼭 필요하지는 않지만, Raspberry Pi를 보호할 수 있습니다. [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) 또는 [Pi Zero 또는 Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/)의 정식 케이스를 사용할 수도 있습니다.
 
 #### 헤드폰 또는 스피커
 
-대형 라즈베리 파이 모델 (Pi Zero / Zero W는 제외)에는 스마트 폰 또는 MP3 플레이어에 사용하는 표준 오디오 포트가 있습니다. 라즈베리가 음향을 재생할 수 있도록 헤드폰이나 스피커를 연결할 수 있습니다. Raspberry Pi를 연결하는 화면 장비에 내장 스피커가 있다면, 소리를 재생할 수 있습니다.
+대형 Raspberry Pi 모델 (Pi Zero / Zero W는 제외)에는 스마트 폰 또는 MP3 플레이어에 사용하는 표준 오디오 포트가 있습니다. Raspberry Pi가 음향을 재생할 수 있도록 헤드폰이나 스피커를 연결할 수 있습니다. Raspberry Pi를 연결하는 화면 장비에 내장 스피커가 있다면, 소리를 재생할 수 있습니다.
 
 #### 이더넷 케이블
 
