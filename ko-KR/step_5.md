@@ -1,12 +1,12 @@
 ## Raspberry Pi를 시작하십시오.
 
-라즈베리 파이에는 전원 스위치가 없습니다. 전원 콘센트에 연결하면 전원이 켜집니다. Pi의 마이크로 USB 전원 포트는 평평한면이 더 길게되어 있습니다.
+Raspberry Pi에는 전원 스위치가 없습니다. 전원 콘센트에 연결하면 전원이 켜집니다. Raspberry Pi의 마이크로 USB 전원 포트는 상단에 있는 평평한 부분입니다.
 
-+ 마이크로 USB 전원 공급 장치를 소켓에 연결하고 Pi의 전원 포트에 연결하십시오.
++ 마이크로 USB 전원 공급 장치를 소켓에 연결하고 Raspberry Pi의 전원 포트에 연결하십시오.
 
 ![스크린 샷](images/pi-power.png)
 
-Raspberry Pi에 빨간색 LED가 켜져있어 Pi가 전원에 연결되어 있음을 나타냅니다. 가 (이라고도 시작으로 **부팅**), 당신은 나무 딸기는 화면의 왼쪽 상단에 표시가 나타납니다.
+Raspberry Pi를 전원에 연결하면 Raspberry Pi에 빨간색 LED가 켜집니다. 가 (이라고도 시작으로 **부팅**), 당신은 나무 딸기는 화면의 왼쪽 상단에 표시가 나타납니다.
 
 ![부트 라스베리](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> 브라우저가 WebM 비디오를 지원하지 않으므로 FireFox 또는 Chrome을 사용해보십시오. </video> 
 
