@@ -1,7 +1,7 @@
 ---
-title: Настройка малины Pi
-hero_image: Изображения / banner.png
-description: Как настроить и запустить свой Pi в первый раз
+title: Настройка твоей Raspberry Pi
+hero_image: images/banner.png
+description: Как настроить и запустить твою Pi в первый раз
 version: 4
 listed: true
 copyedit: true
@@ -12,13 +12,13 @@ steps:
   - 
     title: Что тебе понадобится
   - 
-    title: Настройка SD-карты
+    title: Настрой свою SD-карту
   - 
-    title: Подключите свой Pi
+    title: Подключи свою Pi
   - 
-    title: Запустите свой Pi
+    title: Запусти свою Pi
   - 
-    title: Завершите настройку
+    title: Заверши настройку
   - 
     title: Где найти помощь
   - 
