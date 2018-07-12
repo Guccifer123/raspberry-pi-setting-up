@@ -2,15 +2,15 @@
 
 ### 어떤 라즈베리 파이인지?
 
-[라즈베리 파이 모델](https://www.raspberrypi.org/products/)에는 몇 가지 종류가 있으며, 많은 이들이 라즈베리 파이 3 모델 B +를 선택합니다.
+[라즈베리 파이 모델](https://www.raspberrypi.org/products/)에는 몇 가지 종류가 있으며, 많은 이들이 라즈베리 파이 3 B+를 선택합니다.
 
 ![라스베리 파이 3](images/raspberry-pi.png)
 
-Raspberry Pi 3 모델 B +는 가장 빠르고, 가장 빠르고 사용하기 쉽습니다.
+라즈베리 파이 3 B+는 최신식이며, 빠르고, 사용하기 쉽습니다.
 
-Raspberry Pi Zero와 Zero W는 작아서 전력 소모가 적기 때문에 로봇과 같은 휴대용 프로젝트에 유용합니다. 일반적으로 Raspberry Pi 3로 프로젝트를 시작하고 작은 Pi가 유용 할 수있는 프로토 타입이 있으면 Pi Zero로 이동하는 것이 더 쉽습니다.
+Raspberry Pi Zero와 Zero W는 작아서 전력 소모가 적기 때문에 로봇과 같은 휴대용 프로젝트에 유용합니다. 보통은 라즈베리 파이 3으로 프로젝트를 시작하고, 작은 크기의 라즈베리 파이를 사용해야하는 프로토타입을 만들 때 Pi Zero로 바꾸는 것이 낫습니다.
 
-라스베리 파이를 사고 싶다면 [rpf.io/products로 가십시오](https://rpf.io/products).
+라즈베리 파이를 사고 싶다면 [rpf.io/products로 가십시오](https://rpf.io/products).
 
 ### 전원 공급 장치
 
