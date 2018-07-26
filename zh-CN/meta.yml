@@ -1,11 +1,11 @@
 ---
 title: 设置Raspberry Pi
-hero_image: 图片/ banner.png
+hero_image: images/banner.png
 description: 如何首次设置和启动Pi
 version: 4
 listed: true
 copyedit: true
-last_tested: "2018年5月16日"
+last_tested: "2018-05-16"
 steps:
   - 
     title: 介绍
