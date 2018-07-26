@@ -28,7 +28,7 @@ De Raspberry Pi heeft een SD-kaart nodig om er alle bestanden en het Raspbian-be
 
 Je hebt een micro-SD-kaart nodig met een capaciteit van minimaal 8 GB.
 
-Veel verkopers leveren SD-kaarten voor Raspberry Pi waar Raspbian al is geïnstalleerd zodat je meteen kunt beginnen.
+Veel verkopers leveren SD-kaarten voor Raspberry Pi waarop Raspbian al is geïnstalleerd zodat je meteen kunt beginnen.
 
 ### Een toetsenbord en een muis
 
@@ -68,9 +68,9 @@ Om de Pi op zo'n scherm aan te sluiten, kun je een HDMI-naar-VGA-adapter gebruik
 
 Je kunt de Raspberry Pi in een behuizing doen. Het is niet noodzakelijk, maar het beschermt de Pi. Als je dat leuk vindt kun je de officiële behuizing voor de [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-case/) of [Pi Zero of Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-case/) gebruiken.
 
-#### Hoofdtelefoons of luidsprekers
+#### Hoofdtelefoon of luidsprekers
 
-De grote Raspberry Pi-modellen (niet de Pi Zero / Zero W) hebben een standaard audiopoort zoals die op je smartphone of mp3-speler zit. Als je dat leuk vindt kun je koptelefoons of luidsprekers aansluiten zodat de Pi geluid maakt. Als het scherm waarmee je de Pi verbindt, ingebouwde luidsprekers heeft kan de Pi hiermee geluid afspelen.
+De grote Raspberry Pi-modellen (niet de Pi Zero / Zero W) hebben een standaard audiopoort zoals die op je smartphone of mp3-speler zit. Als je dat leuk vindt kun je koptelefoon of luidsprekers aansluiten zodat de Pi geluid maakt. Als het scherm waarmee je de Pi verbindt, ingebouwde luidsprekers heeft kan de Pi hiermee geluid afspelen.
 
 #### Een Ethernet-kabel
 
