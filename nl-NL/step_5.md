@@ -1,6 +1,6 @@
-## Start de Pi op
+## Start de Raspberry Pi op
 
-De Raspberry Pi heeft geen aan/uit-schakelaar: zodra je hem op een stopcontact aansluit, wordt hij ingeschakeld. Je ziet dat de micro USB-poort van de Pi een langere platte kant aan de bovenkant heeft.
+De Raspberry Pi heeft geen aan/uit-schakelaar: zodra je hem op een stopcontact aansluit, wordt hij ingeschakeld. Je ziet dat de micro USB-poort van de Pi een bredere platte kant aan de bovenkant heeft.
 
 + Sluit een micro USB-voeding aan op een stopcontact en sluit die aan op de voedingspoort van Pi.
 
@@ -14,11 +14,11 @@ Je zou een rode LED op de Raspberry Pi moeten zien oplichten, wat aangeeft dat d
 
 * * *
 
-## titel: Eerste keer opstarten met NOOBS
+## title: Eerste keer opstarten met NOOBS
 
 Als dit de eerste keer is dat de Raspberry Pi start met een SD-kaart met NOOBS, dan zie je het NOOBS-installatieprogramma. Deze software begeleidt je bij de installatie van het Raspbian-besturingssysteem (OS).
 
-+ Wanneer het installatieprogramma is geladen is er een keuze welk besturingssysteem moet worden geïnstalleerd. Vink het selectievakje aan voor **Raspbian** en klik vervolgens op **Install**.
++ Wanneer het installatieprogramma is geladen is er een keuze welk besturingssysteem moet worden geïnstalleerd. Vink het selectie vakje aan voor **Raspbian** en klik vervolgens op **Install**.
 
 ![installeren](images/install.png)
 
@@ -26,7 +26,7 @@ Als dit de eerste keer is dat de Raspberry Pi start met een SD-kaart met NOOBS, 
 
 ![installeren](images/installing.png)
 
-+ Als Raspbian is geïnstalleerd, klikt je op **OK**. De Raspberry Pi wordt herstart en Raspbian gaat booten.
++ Als Raspbian is geïnstalleerd, klikt je op **OK**. De Raspberry Pi wordt herstart en Raspbian start op.
 
 ![geïnstalleerd](images/installed.png)
 
