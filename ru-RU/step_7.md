@@ -1,11 +1,11 @@
 ## Где найти помощь
 
-Если у вас возникли проблемы с вашим Pi, есть много способов получить помощь и советы:
+Если у тебя возникли проблемы с твоей Pi, то есть много способов получить помощь и советы:
 
-+ Проверьте [раздел справки](https://www.raspberrypi.org/help/) и [руководство по устранению неисправностей](https://www.raspberrypi.org/learning/troubleshooting-guide/) на сайте Raspberry Pi
++ Проверь [раздел справки](https://www.raspberrypi.org/help/) и [руководство по устранению неисправностей](https://www.raspberrypi.org/learning/troubleshooting-guide/) на сайте Raspberry Pi
 
-+ [Форум малины Pi](https://www.raspberrypi.org/forums), включая раздел [Beginners](https://www.raspberrypi.org/forums/viewforum.php?f=91) , - отличное место, чтобы задавать вопросы и получать поддержку от сообщества малины Pi
++ [Форум Raspberry Pi](https://www.raspberrypi.org/forums), включая раздел [Beginners (Для начинающих)](https://www.raspberrypi.org/forums/viewforum.php?f=91), - отличное место, чтобы задавать вопросы и получать поддержку от сообщества Raspberry Pi. Правда, этот форум почти полностью на английском языке. Но в разделе "Other languages (Другие языки)" ты можешь найти обсуждение на русском языке
 
-+ Вызовите на [Twitter](https://twitter.com) используя hashtag #rpilearn, или отправьте вопрос на [Maspin Pi Stack Exchange](https://raspberrypi.stackexchange.com/)
++ Воспользуйся [Twitter](https://twitter.com) путём использования хэштега #rpilearn, или отправь вопрос на [Maspin Pi Stack Exchange](https://raspberrypi.stackexchange.com/). К сожалению (или к счастью), всё это требует знания английского языка
 
-+ Вы также можете принять участие в бесплатном мероприятии сообщества [Raspberry Jam](https://rpf.io/jam) чтобы поговорить с людьми об их опыте и получить непосредственную помощь от друзей Raspberry Pi
++ Ты также можешь принять участие в бесплатном мероприятии сообщества [Raspberry Jam](https://rpf.io/jam) чтобы поговорить с людьми об их опыте и получить непосредственную помощь от других пользователей Raspberry Pi. Опять-таки, посмотри на карту, нарисованную на сайте этого мероприятия: если значок-малинка нарисован возле твоего города - значит ты можешь попробовать поучаствовать в нём
