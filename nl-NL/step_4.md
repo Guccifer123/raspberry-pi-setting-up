@@ -1,6 +1,6 @@
 ## Verbind de Raspberry Pi
 
-We gaan alles aansluiten. Om geen schade aan de onderdelen te krijgen is het belangrijk om dit in de juiste volgorde te doen.
+We gaan alles aansluiten. Om geen schade aan de onderdelen te veroorzaken is het belangrijk om dit in de juiste volgorde te doen.
 
 ![pi-verbindingen](images/pi-labelled.png)
 
@@ -28,10 +28,10 @@ We gaan alles aansluiten. Om geen schade aan de onderdelen te krijgen is het bel
 
 **Opmerking:** er wordt niets op het scherm weergegeven omdat de Pi nog niet actief is.
 
-+ Als je de Pi via Ethernet op het internet wilt aansluiten, gebruik je een Ethernet-kabel om de Ethernet-poort op de Raspberry Pi aan te sluiten op een Ethernet-aansluiting aan de muur of op de internetrouter. Dit is niet nodig als je WiFi gebruikt of als je geen verbinding met internet wilt maken.
++ Als je de Pi via Ethernet op het internet wilt aansluiten, gebruik je een Ethernet-kabel om de Ethernet-poort van de Raspberry Pi aan te sluiten op een Ethernet-aansluiting in de muur of op de internet-router. Dit is niet nodig als je WiFi gebruikt of als je geen verbinding met internet wilt maken.
 
 ![ethernet](images/pi-ethernet.png)
 
 + Geluid zal van het scherm komen als die luidsprekers heeft of je sluit een hoofdtelefoon of luidsprekers aan op de audio-uitgang.
 
-![hoofdtelefoons](images/pi-headphones.png)
+![hoofdtelefoon](images/pi-headphones.png)
