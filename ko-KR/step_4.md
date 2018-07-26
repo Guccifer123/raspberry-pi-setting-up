@@ -1,14 +1,14 @@
 ## Raspberry Pi 연결
 
-전부 연결해 봅시다. 모든 구성 요소가 안전하도록 바른 순서로 이 작업을 수행해야 합니다.
+전부 연결해 봅시다. 모든 구성 요소가 안전하려면, 바른 순서로 이 작업을 수행해야 합니다.
 
-![raspberry Pi 연결](images/pi-labelled.png)
+![Raspberry Pi 연결](images/pi-labelled.png)
 
-+ 라즈비안을 설치한 SD 카드 (NOOBS를 통해)를 Raspberry Pi 아래에 있는 마이크로 SD 카드 슬롯에 넣습니다. 
++ Raspbian 을 설치한 SD 카드 (NOOBS를 통해) 를 Raspberry Pi 아래에 있는 마이크로 SD 카드 슬롯에 넣습니다. 
 
 ![SD 카드](images/pi-sd.png)
 
-**참고 :** 더 큰 어댑터 안에 많은 마이크로 SD 카드가 있습니다. 하단의 립을 사용하여 카드를 밀어 낼 수 있습니다.
+**참고 :** 대부분의 마이크로 SD 카드는 더 큰 어댑터에 들어있습니다. 하단의 립을 사용하여 카드를 꺼낼 수 있습니다.
 
 ![SD 카드 홀더](images/sd-card-holder.png)
 
