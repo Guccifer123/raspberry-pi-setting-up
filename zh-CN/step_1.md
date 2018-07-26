@@ -1,6 +1,6 @@
 ## 介绍
 
-在这里，您将了解Raspberry Pi，使用它需要什么，以及如何设置它。
+在这里，您将了解Raspberry Pi，使用它需要些什么，以及如何设置它。
 
 ![插上pi](images/pi-plug-in.gif)
 
