@@ -8,30 +8,30 @@ Raspberry Pi에는 전원 스위치가 없습니다. 전원 콘센트에 연결�
 
 Raspberry Pi를 전원에 연결하면 Raspberry Pi에 빨간색 LED가 켜집니다. Raspberry Pi를 실행하면 (또는 **부팅**), 화면 장치의 좌측 상단에 라즈베리 모양이 나타납니다.
 
-![부트 라스베리](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> 브라우저가 WebM 비디오를 지원하지 않으므로 FireFox 또는 Chrome을 사용해보십시오. </video> 
+![부트 라스베리](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> 브라우저가 WebM 비디오를 지원하지 않는다면, FireFox 또는 Chrome을 사용해보십시오. </video> 
 
-\--- 붕괴 \---
+\--- collapse \---
 
 * * *
 
-## 제목 : NOOBS를 처음 시작 함
+## 제목 : NOOBS로 처음 시작하기
 
-NOOBS가 포함 된 SD 카드로 Raspberry Pi를 처음 시작하는 경우 NOOBS 설치 프로그램이 표시됩니다. 이 소프트웨어는 Raspbian 운영 체제 (OS) 설치 과정을 안내합니다.
+NOOBS가 포함된 SD 카드로 Raspberry Pi를 처음 시작하는 경우 NOOBS 설치 프로그램이 나타납니다. 이 소프트웨어는 Raspbian 운영 체제 (OS) 설치 과정을 안내합니다.
 
-+ 설치 프로그램이로드되면 설치할 OS를 선택할 수 있습니다. **Raspbian**상자를 선택하고 **Install**을 클릭하십시오.
++ 설치 프로그램을 실행하면 설치할 OS를 선택할 수 있습니다. **Raspbian**상자를 선택하고 **Install**을 클릭하십시오.
 
 ![설치하다](images/install.png)
 
-+ 경고 대화 상자에서 **예** 을 클릭 한 다음 편안히 앉아 휴식을 취하십시오. Raspbian 설치 과정은 약간의 시간이 걸릴 것입니다.
++ 경고 대화 상자에서 **Yes**를 클릭 한 다음 편안히 앉아 휴식을 취하십시오. Raspbian 설치에는 약간의 시간이 걸릴 것입니다.
 
-![설치](images/installing.png)
+![설치 중](images/installing.png)
 
-+ Raspbian이 설치되면 **클릭하십시오. 확인**. 귀하의 라스베리 파이가 다시 시작되고 Raspbian이 부팅됩니다.
++ Raspbian이 설치되면 **OK**를 클릭하세요. Raspberry Pi가 다시 시작되고 Raspbian이 부팅됩니다.
 
 ![설치된](images/installed.png)
 
-\--- / collapse \---
+\--- /collapse \---
 
-몇 초 후에 Raspbian Desktop이 나타납니다.
+몇 초 후에 Raspbian 바탕화면이 나타납니다.
 
-![raspbian 데스크탑](images/pi-desktop.jpg)
+![raspbian 바탕화면](images/pi-desktop.jpg)
