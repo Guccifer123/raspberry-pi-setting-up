@@ -4,4 +4,4 @@
 
 ![پلاگین در pi](images/pi-plug-in.gif)
 
-اگر شما نیاز به چاپ این پروژه، لطفا با استفاده از [نسخه مناسب چاپ](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){: هدف = "_ خالی"}.
+اگر شما نیاز به چاپ این پروژه دارید، لطفا از [نسخه مناسب چاپ](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){: هدف = "_ خالی"} استفاده کنید.
