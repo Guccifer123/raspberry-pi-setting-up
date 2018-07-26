@@ -1,32 +1,32 @@
-## Inicie o seu Raspberry Pi
+## Configurando seu Raspberry Pi
 
-Seu Raspberry Pi não tem um interruptor: assim que você conectá-lo a uma tomada elétrica, ele ligará. Observe que a porta de energia micro USB do Pi tem um lado plano mais longo na parte superior.
+Seu Raspberry Pi não tem um interruptor: assim que você conectá-lo a uma tomada elétrica, ele ligará. Observe que a porta de energia micro USB tem um lado plano mais longo na parte superior.
 
-+ Conecte uma fonte de alimentação micro USB em um soquete e conecte-a à porta de energia do Pi.
++ Conecte a fonte de alimentação a uma tomada de energia elétrica e o conector micro USB da fonte no Raspberry Pi.
 
-![captura de tela](images/pi-power.png)
+![screenshot](images/pi-power.png)
 
-Você deve ver um LED vermelho aceso no Raspberry Pi, o que indica que o Pi está conectado à energia. Ao iniciar (isso também é chamado de **boot**), você verá que as framboesas aparecem no canto superior esquerdo da tela.
+Você deve ver um LED vermelho aceso no Raspberry Pi, o que indica que o Pi está conectado à energia. À medida que é iniciado (isso também é chamado de ** inicialização**), você verá que as framboesas aparecem no canto superior esquerdo da tela.
 
-![framboesas](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Seu navegador não suporta vídeo WebM, por isso, experimente o FireFox ou o Chrome. </video> 
+![Iniciando o Raspberry Pi](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> Seu navegador não suporta vídeo WebM, por isso, experimente o FireFox ou o Chrome. </video> 
 
-\--- colapso \---
+\--- collapse \---
 
 * * *
 
-## title: Primeira inicialização com o NOOBS
+## Título: Primeira inicialização com o NOOBS
 
-Se esta é a primeira vez que você está começando seu Raspberry Pi com um cartão SD contendo NOOBS, você verá o instalador NOOBS. Este software irá orientá-lo na instalação do sistema operacional Raspbian (OS).
+Se esta é a primeira vez que você está iniciando o Raspberry Pi com um cartão SD contendo NOOBS, você verá o instalador. Este software irá orientá-lo na instalação do sistema operacional Raspbian (OS).
 
-+ Quando o instalador for carregado, ele oferecerá uma opção de qual sistema operacional instalar. Marque a caixa para **Raspbian**e clique em **Install**.
++ Quando o instalador for carregado, ele oferecerá uma opção de qual sistema operacional será instalado. Marque a caixa do **Raspbian**, em seguida clique em **Instalar**.
 
 ![instalar](images/install.png)
 
-+ Clique em **Sim** na caixa de diálogo de advertência, depois sente-se e relaxe. O processo de instalação do Raspbian levará um pouco de tempo.
++ Clique em **Sim** na caixa de diálogo, em seguida sente-se e relaxe. O processo de instalação do Raspbian levará algum tempo.
 
 ![instalando](images/installing.png)
 
-+ Quando o Raspbian tiver sido instalado, clique em **OK**. Seu Raspberry Pi será reiniciado e o Raspbian irá inicializar.
++ Quando o Raspbian tiver sido instalado, clique em ** OK**. O Raspberry Pi será reiniciado e o Raspbian irá inicializar.
 
 ![instalado](images/installed.png)
 
@@ -34,4 +34,4 @@ Se esta é a primeira vez que você está começando seu Raspberry Pi com um car
 
 Após alguns segundos, o Raspbian Desktop aparecerá.
 
-![desktop raspbian](images/pi-desktop.jpg)
+![área de trabalho do Raspbian](images/pi-desktop.jpg)
