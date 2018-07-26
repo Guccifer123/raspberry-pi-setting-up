@@ -1,6 +1,6 @@
 ## 준비물
 
-### 어떤 Raspberry Pi 인가요?
+### 어떤 종류의 Raspberry Pi 인가요?
 
 [Raspberry Pi 모델](https://www.raspberrypi.org/products/)에는 몇 가지 종류가 있으며, 많은 이들이 Raspberry Pi 3 B+를 선택합니다.
 
@@ -22,13 +22,13 @@ Raspberry Pi를 사고 싶다면 [rpf.io/products로 가십시오](https://rpf.i
 
 ### 마이크로 SD 카드
 
-Raspberry Pi는 모든 파일과 라즈비안 운영 체제를 저장하기 위해 SD 카드가 필요합니다.
+Raspberry Pi는 모든 파일과 Raspbian 운영 체제를 저장하기 위해 SD 카드가 필요합니다.
 
 ![SD 카드](images/pi-sd.png)
 
 8 GB 이상의 마이크로 SD 카드가 필요합니다.
 
-많은 곳에서 라즈비안 운영 체제를 설치한 Raspberry Pi 전용 SD 카드를 판매하고 있습니다.
+많은 곳에서 Raspbian 운영 체제를 설치한 Raspberry Pi 전용 SD 카드를 판매하고 있습니다.
 
 ### 키보드와 마우스
 
@@ -38,7 +38,7 @@ Raspberry Pi를 설정한 후에는 Bluetooth 키보드와 마우스를 사용�
 
 ### TV 또는 컴퓨터 화면
 
-라즈비안 데스크탑 환경을 보려면, Raspberry Pi를 연결하기 위한 화면 장비와 케이블이 필요합니다. 화면 장비로는 TV와 컴퓨터 모니터 모두 가능합니다. 화면 장비에 스피커가 내장되어 있다면, Raspberry Pi로 음향을 재생할 수 있습니다.
+Raspbian 데스크탑 환경을 보려면, Raspberry Pi를 연결하기 위한 화면 장비와 케이블이 필요합니다. 화면 장비로는 TV와 컴퓨터 모니터 모두 가능합니다. 화면 장비에 스피커가 내장되어 있다면, Raspberry Pi로 음향을 재생할 수 있습니다.
 
 #### HDMI
 
