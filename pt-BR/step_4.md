@@ -1,37 +1,37 @@
-## Ligue o seu Raspberry Pi
+## Conectando o Raspberry Pi
 
-Vamos ficar tudo conectado. É importante fazer isso na ordem correta, para que todos os seus componentes estejam seguros.
+Iremos conectar tudo. É importante seguir na ordem correta, para que todos os componentes estejam seguros.
 
-![conexões pi](images/pi-labelled.png)
+![Conexões do Raspberry Pi](images/pi-labelled.png)
 
-+ Insira o cartão SD que você configurou com o Raspbian (via NOOBS) no slot de cartão micro SD na parte de baixo do seu Pi. 
++ Insira o cartão SD que foi configurado com o Raspbian (via NOOBS) no slot de cartão micro SD na parte de baixo do seu Pi. 
 
 ![Cartão SD](images/pi-sd.png)
 
-**Nota:** Muitos cartões micro SD virão dentro de um adaptador maior - você pode deslizar o cartão usando a borda na parte inferior.
+**Nota:** Muitos cartões micro SD vêm dentro de um adaptador maior, e você pode deslizar o cartão para fora usando o sulco na parte inferior do cartão.
 
-![titular do cartão sd](images/sd-card-holder.png)
+![Cartão SD](images/sd-card-holder.png)
 
-+ Encontre o cabo USB para o mouse e conecte o mouse a uma porta USB no Raspberry Pi (não importa qual).
++ Encontre o conector USB do mouse e conecte a uma das portas USB do Raspberry Pi (não importa qual delas).
 
-![rato](images/pi-mouse.png)
+![mouse](images/pi-mouse.png)
 
 + Conecte o teclado da mesma maneira.
 
 ![teclado](images/pi-keyboard.png)
 
-+ Olhe para a porta HDMI no Raspberry Pi - observe que ele tem um lado grande e plano na parte superior.
++ Veja a porta HDMI no Raspberry Pi - observe que ele tem um grande lado plano no topo.
 
 ![HDMI](images/pi-hdmi.png)
 
-+ Certifique-se de que sua tela esteja conectada a uma tomada de parede e ligada. Use um cabo para conectar a tela à porta HDMI do Pi - use um adaptador, se necessário.
++ Certifique-se de que seu monitor esteja conectado a uma tomada de energia elétrica e ligado. Conecte o cabo do monitor à porta HDMI do Pi - use um adaptador, se necessário.
 
-**Nota:** nada será exibido na tela, porque o Pi ainda não está em execução.
+** Nota: ** Nada será exibido na tela, porque o Pi ainda não está em execução.
 
-+ Se você quiser conectar o Pi à internet via Ethernet, use um cabo Ethernet para conectar a porta Ethernet no Raspberry Pi a um soquete Ethernet na parede ou no seu roteador de internet. Você não precisa fazer isso se estiver usando Wi-Fi ou se não quiser se conectar à Internet.
++ Caso tenha rede local com fio, use um cabo de rede para conectar a porta de rede do Raspberry Pi a uma porta de rede na parede ou roteador/switch. Isso não é necessário se estiver usando rede local sem fio ou se não quiser se conectar à Internet.
 
-![ethernet](images/pi-ethernet.png)
+![Ethernet](images/pi-ethernet.png)
 
-+ O som virá da sua tela se ele tiver alto-falantes ou se você puder conectar fones de ouvido ou alto-falantes ao conector de áudio, se você os tiver.
++ Será emitido um som na sua tela se ela tiver alto-falantes, também é possível conectar fones de ouvido ou alto-falantes ao conector de áudio.
 
-![fones de ouvido](images/pi-headphones.png)
+![Fones de ouvido](images/pi-headphones.png)
