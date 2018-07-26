@@ -1,7 +1,7 @@
 ## المقدمة
 
-ستتعرف هنا على Raspberry Pi ، والأشياء التي تحتاج إلى استخدامها ، وكيفية إعدادها.
+ستتعلم هنا عن Raspberry Pi ، وما الأشياء التي تحتاج إلى استخدامها ، وكيفية إعدادها.
 
-![سد العجز في بي](images/pi-plug-in.gif)
+![قم بتوصيل الـ pi](images/pi-plug-in.gif)
 
-إذا كنت بحاجة إلى طباعة هذا المشروع، يرجى استخدام [نسخة للطباعة](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){: الهدف = "_ فارغا"}.
+إذا كنت بحاجة إلى طباعة هذا المشروع ، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/en/projects/aspberry-pi-setting-up/print){:target="_blank"}.
