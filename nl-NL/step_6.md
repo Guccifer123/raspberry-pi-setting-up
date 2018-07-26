@@ -6,11 +6,11 @@ Als je de Raspberry Pi voor de eerste keer opstart, zal de toepassing **Welcome 
 
 + Klik op **Next** (volgende) om de installatie te starten.
 
-+ Stel uw **Country **(Land), **Language **(Taal) en **Timezone **(Tijdzone) in en klik vervolgens opnieuw op **Next**.
++ Stel je **Country **(Land), **Language **(Taal) en **Timezone **(Tijdzone) in en klik vervolgens opnieuw op **Next**.
 
 ![pi wizard land](images/piwiz2.PNG)
 
-+ Voer een nieuw wachtwoord in voor de Raspberry Pi en klik op **Next**.
++ Voer een nieuw wachtwoord in voor de Raspberry Pi en klik op **Next**. Let op! als je bijzondere tekens (=, - enz) gebruikt in je wachtwoord klik dan eerst op het vinkje bij "Hide passwords" zodat je ziet wat je typt.
 
 ![pi wizard wachtwoord](images/piwiz3.PNG)
 
@@ -18,7 +18,7 @@ Als je de Raspberry Pi voor de eerste keer opstart, zal de toepassing **Welcome 
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
-**Opmerking:** als het Raspberry Pi-model geen draadloze verbinding heeft, ziet je dit scherm niet.
+**Opmerking:** als het Raspberry Pi-model geen draadloze verbinding heeft, zie je dit scherm niet.
 
 + Klik op **Next** en laat het programma controleren of er updates zijn voor Raspbian en installeer ze dan (dit kan even duren).
 
