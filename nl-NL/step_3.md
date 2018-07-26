@@ -50,4 +50,4 @@ Dan moeten de bestanden uit het NOOBS zip-archief, dat je hebt gedownload van de
 
 ![macos kopie](images/macos_copy.png)
 
-+ Nadat de bestanden allemaal zijn gekopieerd, kun de de SD-kaart uitwerpen.
++ Nadat de bestanden allemaal zijn gekopieerd, kun je de SD-kaart uitwerpen.
