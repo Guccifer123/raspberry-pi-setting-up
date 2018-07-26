@@ -1,7 +1,7 @@
 ---
-title: إعداد Raspberry Pi الخاص بك
-hero_image: صور / banner.png
-description: كيفية إعداد وبدء Pi الخاص بك لأول مرة
+title: إعداد الـ Raspberry Pi الخاص بك
+hero_image: images/banner.png
+description: كيفية إعداد والبدء بـالـ Pi الخاصه بك لأول مرة
 version: 4
 listed: true
 copyedit: true
@@ -10,13 +10,13 @@ steps:
   - 
     title: المقدمة
   - 
-    title: ما سوف تحتاجه
+    title: ما ستحتاج إليه
   - 
     title: قم بإعداد بطاقة SD الخاصة بك
   - 
     title: قم بتوصيل Pi الخاص بك
   - 
-    title: بدء بي الخاص بك
+    title: أبدء بالـ Pi الخاص بك
   - 
     title: الانتهاء من الإعداد
   - 
