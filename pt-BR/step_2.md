@@ -62,7 +62,7 @@ Neste caso, para conectar o Pi você pode usar um adaptador HDMI para VGA.
 
 ![Adaptador HDMI para VGA](images/hdmi-vga-adapter.png)
 
-### Extras opcionais
+### Opções adicionais
 
 #### Case para Raspberry Pi
 
