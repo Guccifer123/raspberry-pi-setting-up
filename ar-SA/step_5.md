@@ -8,7 +8,7 @@
 
 يجب أن تشاهد مصباح LED أحمر على جهاز Raspberry Pi ، مما يشير إلى أن Pi متصل بالطاقة. عند بدء تشغيله (يسمى هذا أيضًا بـ **تمهيد**) ، سترى raspberries يظهر في أعلى يمين الشاشة.
 
-![التوت التمهيد](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> لا يدعم متصفحك فيديو WebM ، لذلك جرّب FireFox أو Chrome. </video> 
+![تمهيد raspberries](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> لا يدعم متصفحك فيديو WebM ، لذلك جرّب FireFox أو Chrome. </video> 
 
 \--- collapse \---
 
@@ -20,18 +20,18 @@
 
 + عند تحميل برنامج التثبيت ، سيعرض عليك اختيار نظام التشغيل المراد تثبيته. ضع علامة في المربع لـ **Raspbian**، ثم انقر فوق **تثبيت**.
 
-![التثبت](images/install.png)
+![تثبيت](images/install.png)
 
 + انقر فوق **نعم** في مربع حوار التحذير ، ثم اجلس واسترخ. سوف تستغرق عملية التثبيت Raspbian بعض الوقت.
 
-![تركيب](images/installing.png)
+![تثبيت](images/installing.png)
 
-+ عند تثبيت Raspbian ، انقر فوق **OK**. ستتم إعادة تشغيل جهاز Raspberry Pi ، وسيقوم راسببيان بتشغيل الحذاء.
++ عند تثبيت Raspbian ، انقر فوق **OK**. ستتم إعادة تشغيل جهاز Raspberry Pi ، وسيقوم Raspbian بتمهيده.
 
-![المثبتة](images/installed.png)
+![مثبتة](images/installed.png)
 
-\--- /انهدام \---
+\--- collapse \---
 
-بعد بضع ثوان سوف يظهر سطح المكتب Raspbian.
+بعد بضع ثوان سوف يظهر سطح مكتب الـ Raspbian.
 
 ![سطح المكتب raspbian](images/pi-desktop.jpg)
