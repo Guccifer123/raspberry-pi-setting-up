@@ -10,7 +10,7 @@
 
 ![التوت التمهيد](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> لا يدعم متصفحك فيديو WebM ، لذلك جرّب FireFox أو Chrome. </video> 
 
-\--- انهدام \---
+\--- collapse \---
 
 * * *
 
