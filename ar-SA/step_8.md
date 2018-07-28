@@ -1,8 +1,8 @@
-## ماذا بعد؟
+## ما التالي؟
 
-+ نلقي نظرة على لدينا [عن طريق الخاص بي توت العليق](https://projects.raspberrypi.org/en/projects/raspberry-pi-using) دليل.
++ ألقي نظرة على دليل [استخدام Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using).
 
-+ استكشاف ما يمكنك القيام به مع الخاص بي توت العليق من خلال خلق بعض من [مشاريع صنع الرقمية](https://projects.raspberrypi.org)، على سبيل المثال:
++ استكشف ما يمكنك القيام به مع Raspberry Pi من خلال إنشاء بعض من [ مشاريعنا الرقمية](https://projects.raspberrypi.org)، على سبيل المثال:
     
     + [روبوت الهوائي](https://projects.raspberrypi.org/en/projects/robot-antenna) - التحكم في ضوء هوائي الروبوت مع Pi Raspberry وكتل التعليمات البرمجية
     + [فرقة روك](https://projects.raspberrypi.org/en/projects/rock-band) - تعلم كيفية ترميز الآلات الموسيقية الخاصة بك
