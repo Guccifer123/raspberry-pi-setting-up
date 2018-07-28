@@ -1,4 +1,4 @@
-## ابدأ في Raspberry Pi
+## إعداد الـ Raspberry Pi
 
 ليس لدى Raspberry Pi مفتاح طاقة: بمجرد توصيله بمنفذ طاقة ، سيتم تشغيله. لاحظ أن منفذ USB الصغير من Pi له جانب مسطح طويل في الأعلى.
 
@@ -6,7 +6,7 @@
 
 ![لقطة شاشة](images/pi-power.png)
 
-يجب أن تشاهد مصباح LED أحمر على جهاز Raspberry Pi ، مما يشير إلى أن Pi متصل بالطاقة. عند بدء تشغيله (يسمى هذا أيضًا بـ **تمهيد**) ، سترى التوت يظهر في أعلى يمين الشاشة.
+يجب أن تشاهد مصباح LED أحمر على جهاز Raspberry Pi ، مما يشير إلى أن Pi متصل بالطاقة. عند بدء تشغيله (يسمى هذا أيضًا بـ **تمهيد**) ، سترى raspberries يظهر في أعلى يمين الشاشة.
 
 ![التوت التمهيد](images/raspberries.png)<video width="800" height="600" controls> <source src="images/piboot.webm" type="video/webm"> لا يدعم متصفحك فيديو WebM ، لذلك جرّب FireFox أو Chrome. </video> 
 
